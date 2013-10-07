@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to Jekyll!"
+title: "Portal de ex-alumnos"
 submenu: "ex-alumnos"
 titular: Bienvenidos
 subtitulo: Hola
