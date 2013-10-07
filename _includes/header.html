@@ -1,0 +1,32 @@
+<header id="header">
+
+    <div class="header-top">
+        <div class="container">
+            <nav class="portal-nav">   
+                <ul>
+                    <li><a href="#">Alumnos</a></li>
+                    <li><a href="#">Padres</a></li>
+                    <li><a href="#">Staff</a></li>
+                    <li><a href="#">Ex-Alumnos</a></li>
+                </ul> 
+            </nav><!-- .portal-nav -->
+        </div><!-- .container -->
+    </div><!-- .header-top -->
+    
+    <div class="container header-content">
+        
+        <div class="branding">
+            <h1 class="logo"><a href="/">Chaltel College</a></h1>
+        </div>
+        
+        <nav class="main-nav">
+            <ul>
+                <li {% if mixture.url == "index" %}class="current"{% endif %}><a href="nosotros/">Sobre Nosotros</a></li>
+                <li {% if mixture.url == "model" %}class="current"{% endif %}><a href="/model">Admisiones</a></li>
+                <li {% if mixture.url == "model" %}class="current"{% endif %}><a href="/model">Proyecto Educativo</a></li>
+                <li {% if mixture.url == "model" %}class="current"{% endif %}><a href="/model">Contacto</a></li>
+            </ul>
+        </nav><!-- .main-nav -->
+    </div><!-- .header-content -->
+
+</header><!-- #header -->

@@ -1,0 +1,31 @@
+
+
+/* @group Grid */
+
+// *****************************
+// Sussy Grid
+// *****************************
+/*
+$total-columns: 12;
+$column-width: 4em;
+$gutter-width: 1em;
+$grid-padding: 1em;
+
+$container-style: static;
+
+#container {
+
+    header, footer { clear: both; } // header and footer are full-width by default.
+
+    #content {
+        //@include susy-grid-background;
+        @include container; // page acts as a container for our grid.
+        .main { @include span-columns(9 omega,12); } // main content spans 6 of those 9 columns.
+        .secondary { @include span-columns(3,12); } // secondary content spans the final 3 (omega) of 9 columns.
+    }
+}
+*/
+/* @end */
+
+
+
