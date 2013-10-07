@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-
+title:  "Misión y Visión"
+submenu: nosotros
 titular: "Bienvenidos"
 subtitulo: "Hola"
 
 ---
 
-# Somos un Colegio bilingüe, laico y mixto
+# Somos un Colegio bilingüe, laico y mixto
  
 **[Foto]**
 

@@ -3,6 +3,6 @@ markdown: redcarpet
 safe: true
 lsi: false
 pygments: true
-permalinks: pretty
+permalink: pretty
 baseurl: /chaltel-contenidos
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-
+title:  "Breve Historia"
+submenu: nosotros
 titular: "Bienvenidos"
 subtitulo: "Hola"
 

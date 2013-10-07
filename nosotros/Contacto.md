@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-
+title:  "Contacto"
+submenu: nosotros
 titular: "Bienvenidos"
 subtitulo: "Hola"
 
@@ -11,13 +11,6 @@ subtitulo: "Hola"
  
 **Complete el siguiente formulario. Todos los campos marcados con un asterisco son obligatorios.**
 
-*Epígrafe foto*
-
-###Vender Don torcuato...
-Texto...
-
-###¿Que significa estar ahi?
-Texto...
 
 
 

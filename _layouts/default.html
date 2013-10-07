@@ -29,7 +29,7 @@
                 {{ content }}
             </section>
 
-            {% if page.submenu  %}
+            {% if page.submenu == 'nosotros'  %}
             <aside class="navigation">
                <!-- Submenu -->
                 {% include nosotros.nav.html %}
@@ -38,7 +38,7 @@
         </div><!-- #content -->
             
         {% include footer-nav.html %}
-
+        
         </div><!-- #container -->
     
 

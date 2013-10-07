@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-
+title:  "¿Qué es el Chaltel para vos?"
+submenu: nosotros
 titular: "Bienvenidos"
 subtitulo: "Hola"
 
