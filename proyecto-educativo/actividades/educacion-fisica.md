@@ -9,7 +9,7 @@ published: true
 
 # Educación Física
 
-![Foto de ...](http://placeimg.com/720/300/nature)
+![Foto de ...](http://placeimg.com/720/200/nature)
 
 
 Descripción...
