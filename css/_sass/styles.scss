@@ -27,6 +27,16 @@ h4 {
 hr {
     margin: 2em 0;
 }
+
+.edit-link {
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    padding:1em;
+}
+
 .home #content .main {
     @include grid-column(12);
 }

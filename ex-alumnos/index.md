@@ -2,8 +2,8 @@
 layout: default
 title: "Portal de ex-alumnos"
 submenu: exalumnos
-titular: Bienvenidos
-subtitulo: Hola
+titular: 
+subtitulo: 
 published: true
 ---
 
@@ -16,12 +16,15 @@ published: true
 
 ---
 
-### [Calendario ex-alumnos](/ex-alumnos/eventos)
+### Calendario ex-alumnos
 Bajada de texto de esta longitud aprox. Nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut es nom.
 
+[Ver Calendario ex-alumnos](/ex-alumnos/eventos)
 
 ---
 
-### [Actualización de datos](/ex-alumnos/actualizacion-datos )
+### Actualización de datos
 
 Bajada de texto de esta longitud aprox. Nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut es nom.
+
+[Completar el formulario](/ex-alumnos/actualizacion-datos)
