@@ -10,7 +10,7 @@ published: true
  
 **Este es un texto de introducción. Estaría bueno que tenga links en medio del parrafo.**
 
-**[Foto]**
+![Foto de ...](http://placeimg.com/720/300/people)
 
 ## Links útiles
 **Este es un texto de introducción. Respetar la longitud (aprox). Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.**
