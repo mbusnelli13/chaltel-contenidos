@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title: Bienvenidos
 submenu: nosotros
-titular: "Bienvenidos"
-subtitulo: "Hola"
-
+titular: Bienvenidos
+subtitulo: Hola
+published: true
 ---
 
 # Estimadas familias
@@ -27,7 +27,4 @@ Cordialmente,
 Silvia Busnelli
 
 Directora General
-
-![My helpful screenshot](http://dummyimage.com/200x400/000000/0011ff.jpg&text=foto de la directora)
-
 
