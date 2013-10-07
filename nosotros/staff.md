@@ -11,29 +11,45 @@ published: true
  
 **Esto es un copete, respetar el largo del párrafo. Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.**
 
+---
 
-**[FOTO 1]**
+![Foto de ...](http://placeimg.com/120/120/people)
 
 Nombre y Apellido 1
 
 - Cargo
 - Email
 
-**[FOTO 2]**
+---
+
+![Foto de ...](http://placeimg.com/120/120/people)
 
 Nombre y Apellido 2
 
 - Cargo
 - Email
 
-**[FOTO 3]**
+---
+
+![Foto de ...](http://placeimg.com/120/120/people)
 
 Nombre y Apellido 3
 
 - Cargo
 - Email
 
-**[FOTO 4]**
+---
+
+![Foto de ...](http://placeimg.com/120/120/people)
+
+Nombre y Apellido 4
+
+- Cargo
+- Email
+
+---
+
+![Foto de ...](http://placeimg.com/120/120/people)
 
 Nombre y Apellido 4
 
