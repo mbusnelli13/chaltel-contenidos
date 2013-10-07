@@ -27,10 +27,12 @@ Los contenidos educativos de todas las áreas de aprendizaje: lengua, ciencias s
 
 ## Primario
 **[Foto]**
-???
+
+Texto...
 
 ---
 
 ## Secundario
 **[Foto]**
-???
+
+Texto...
