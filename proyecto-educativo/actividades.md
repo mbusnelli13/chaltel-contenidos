@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Actividades"
+title: Actividades
 submenu: proyecto
-titular: 
-subtitulo: 
+titular: null
+subtitulo: null
 published: true
 ---
 
@@ -13,7 +13,7 @@ published: true
 
 ---
 
-**[FOTO]**
+![Foto de ...](http://placeimg.com/120/120/nature)
 
 ### Educación Física
 Deportes, campamentos y giras deportivas.
@@ -22,13 +22,13 @@ Deportes, campamentos y giras deportivas.
 
 ---
 
-**[FOTO]**
+![Foto de ...](http://placeimg.com/120/120/nature)
 ### Acompañamiento / Seguimiento y Orientación
 Centro de orientación escolar, tutorias y orientación vocacional.
 
 ---
 
-**[FOTO]**
+![Foto de ...](http://placeimg.com/120/120/nature)
 ### Expresiones Artísticas
 Arte, música y teatro.
 
@@ -36,7 +36,7 @@ Arte, música y teatro.
 
 ### Tecnología
 
-**[FOTO]**
+![Foto de ...](http://placeimg.com/120/120/nature)
 
 ???
 
@@ -44,7 +44,7 @@ Arte, música y teatro.
 
 ### Tercer Idioma
 
-**[FOTO]**
+![Foto de ...](http://placeimg.com/120/120/nature)
 
 ???
 
@@ -52,7 +52,7 @@ Arte, música y teatro.
 
 ### Programas de Enriquecimiento
 
-**[FOTO]**
+![Foto de ...](http://placeimg.com/120/120/nature)
 
 Actividades extra clase, salidas didacticas, biblioteca y laboratorio.
 
@@ -60,7 +60,8 @@ Actividades extra clase, salidas didacticas, biblioteca y laboratorio.
 
 ### Acción Social
 
-**[FOTO]**
+![Foto de ...](http://placeimg.com/120/120/nature)
+
 
 Actividades extra clase, salidas didacticas.
 
