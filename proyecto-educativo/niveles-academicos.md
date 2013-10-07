@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Niveles Académicos"
+title: Niveles Académicos
 submenu: proyecto
 titular: Bienvenidos
 subtitulo: Hola
@@ -13,7 +13,7 @@ published: true
 
 ---
 
-**[Foto]**
+![Foto de ...](http://placeimg.com/720/300/arch)
 
 ### Nivel Inicial
 
@@ -27,7 +27,7 @@ Los contenidos educativos de todas las áreas de aprendizaje: lengua, ciencias s
 
 ---
 
-**[Foto]**
+![Foto de ...](http://placeimg.com/720/300/nature)
 
 ### Primario
 
@@ -36,7 +36,7 @@ Texto...
 
 ---
 
-**[Foto]**
+![Foto de ...](http://placeimg.com/720/300/people)
 
 ### Secundario
 
