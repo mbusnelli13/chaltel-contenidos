@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "Nuestros emblemas"
+title: Nuestros emblemas
 submenu: nosotros
-titular: "Bienvenidos"
-subtitulo: "Hola"
-
+titular: Bienvenidos
+subtitulo: Hola
+published: true
 ---
 
 # Nuestros Emblemas
@@ -13,6 +13,8 @@ subtitulo: "Hola"
  
 **[VIDEO]**
 
+![Foto de ...](http://placeimg.com/720/300/people)
+
 *Epígrafe del video*
 
 
@@ -20,6 +22,9 @@ subtitulo: "Hola"
 Educar a nuestros alumnos para que adquieran una intensa formación académica bilingüe sostenida en experiencias educativas transformadoras e innovadoras, atendiendo a sus necesidades y promoviendo una permanente búsqueda de calidad y crecimiento, tanto en lo académico como en lo formativo. 
 
 ## El Escudo
+
 **[IMAGEN DEL ESCUDO]**
+
+![Foto de ...](http://placeimg.com/200/200/arch)
 
 *Epígrafe para imagen del escudo*
