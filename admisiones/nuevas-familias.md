@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to Jekyll!"
+title: Información Nuevas Familias
 titular: Bienvenidos
 submenu: admisiones
 subtitulo: Hola
@@ -244,5 +244,3 @@ El servicio de transporte es prestado por empresas de transporte escolar, y es c
 Ante cualquier duda o consulta podrá comunicarse por teléfono al 4 748 3153 o enviando un email a: [info@chaltelcollege.edu.ar]()
 
 ---
-
-
