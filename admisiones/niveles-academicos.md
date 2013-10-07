@@ -10,11 +10,11 @@ published: true
 
 **Esto es un copete, respetar el largo aproximado del párrafo.Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempor.**
 
-**[Foto]**
-
 ---
 
 ## Nivel Inicial
+**[Foto]**
+
 El Nivel Inicial  imparte educación bilingüe a niños de  2 a 5 años de edad.
 
 La finalidad de esta etapa es contribuir al desarrollo físico, intelectual, lingüístico, afectivo, social y moral de los niños, y estimular la capacidad de relacionarse con los demás a través de las distintas formas de expresión y de comunicación.
