@@ -13,13 +13,20 @@
 //@import "layouts/tpl-2-col-right-submenu";
 
 h2 {
-    font-size: 24px;
+    font-size: 26px;
     margin-bottom: 1.5em;
 }
 h3 {
-    font-size: 20px;
+    font-size: 22px;
 }
 
+h4 {
+    font-size: 18px;
+}
+
+hr {
+    margin: 2em 0;
+}
 .home #content .main {
     @include grid-column(12);
 }

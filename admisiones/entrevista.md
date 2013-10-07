@@ -1,24 +1,26 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-
+title:  "Solicitud de entrevista"
+submenu: admisiones
 titular: "Bienvenidos"
 subtitulo: "Hola"
-
+published: true
 ---
 
 # Visitá el Colegio
- 
-**[Foto]**
 
-**Te invitamos a conocer…**
+## Te invitamos a conocer… Tenés la [opcion de llamar por teléfono](/admisiones/contacto).
 
-**Opción de llamar...**
 
-## Solicitud de entrevista inicial
+
+
+### Solicitud de entrevista inicial
+
 Complete el siguiente formulario. Todos los campos marcados con un asterisco son obligatorios.
 
-### Datos del Solicitante
+
+
+#### Datos del Solicitante
 
 Nombre
 
@@ -35,7 +37,7 @@ Teléfono fijo
 E-mail
 
 
-## Datos del hijo/a (1)
+#### Datos del hijo/a (1)
 
 Nombre
 

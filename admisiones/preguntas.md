@@ -1,15 +1,15 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-
-titular: "Bienvenidos"
-subtitulo: "Hola"
-
+title:  "Preguntas frecuentes"
+submenu: admisiones
+titular: 
+subtitulo: 
+published: true
 ---
 
 # Preguntas Frecuentes
 
-**Esto es un copete, respetar el largo del párrafo. Neque pira quisquam est, qui dolorem ipsum quia dolor neque pira quisquam est, qui dolorem ipsum quia dolor.**
+## Esto es un copete, respetar el largo del párrafo. Neque pira quisquam est, qui dolorem ipsum quia dolor neque pira quisquam est, qui dolorem ipsum quia dolor.
 
 ### 1. ¿Pregunta 1?
 

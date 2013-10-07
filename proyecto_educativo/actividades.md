@@ -2,6 +2,7 @@
 layout: default
 title: "Welcome to Jekyll!"
 titular: Bienvenidos
+submenu: nosotros
 subtitulo: Hola
 published: true
 ---

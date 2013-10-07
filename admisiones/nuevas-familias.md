@@ -2,26 +2,28 @@
 layout: default
 title: "Welcome to Jekyll!"
 titular: Bienvenidos
+submenu: admisiones
 subtitulo: Hola
 published: true
 ---
 
 # Información Nuevas Familias
 
-**Esto es un copete, respetar el largo del párrafo. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.**
+## Esto es un copete, respetar el largo del párrafo. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.
 
 ---
 
-## Evento de Bienvenida
+### Evento de Bienvenida
+
 Con el fin de orientarlos adecuadamente, a continuación, se plantean algunos aspectos relevantes del proceso de admisión:
 
 Es un encuentro que realizamos con todos los alumnos nuevos, en donde cada uno conoce a su maestra, a sus futuros compañeros y cómo será el desarrollo del 1er día de clases. 
  
-**Nivel Inicial**
+#### Nivel Inicial
 
 - Se realiza durante el mes de Noviembre antes de finalizar el corriente ciclo lectivo.
 
-**Primaria**
+#### Primaria
 
 - Se realiza una semana antes del inicio de clases.
  
@@ -29,7 +31,7 @@ La invitación para el evento se realizará vía e-mail y también será publica
 
 ---
 
-## Documentación requerida 
+### Documentación requerida 
 
 La documentación descripta a continuación deberá entregarse en la Administración, antes del inicio del ciclo lectivo, en un sobre cerrado con apellido y nombre del alumno / curso – Grado o Sección al que ingresa. 
  
@@ -58,7 +60,7 @@ La documentación descripta a continuación deberá entregarse en la Administrac
 
 ---
 
-## Uniforme Reglamentario
+### Uniforme Reglamentario
 
 **Varones y mujeres** 
 - Remera Roja con el escudo del Colegio 

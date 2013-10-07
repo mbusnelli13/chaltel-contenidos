@@ -2,6 +2,7 @@
 layout: default
 title: Bienvenidos
 titular: Bienvenidos
+submenu: admisiones
 subtitulo: Hola
 published: true
 ---
@@ -15,3 +16,9 @@ published: true
 ### ¿Por qué el Chaltel?
 
 Punteo de 5 razones breves.
+
+- 1
+- 2
+- 3
+- 4
+- 5 

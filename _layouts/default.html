@@ -5,6 +5,8 @@
         <title>{{ page.title }}</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="description" content="">
+        <!-- NO INDEX -->
+        <meta name="robots" content="noindex" />
         <meta name="viewport" content="width=device-width">
         <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
@@ -19,9 +21,8 @@
 
             <nav class="breadcrumb">
                 <ul>
-                    <li><a href="#">Inicio</a></li>
-                    <li><a href="#">Nosotros</a></li>
-                    <li class="current">Bienvenidos</li>
+                    <li><a href="/">Inicio</a></li>
+                   
                 </ul>
             </nav>
 
@@ -29,12 +30,22 @@
                 {{ content }}
             </section>
 
+
+            <!-- Submenues -->
             {% if page.submenu == 'nosotros'  %}
             <aside class="navigation">
-               <!-- Submenu -->
                 {% include nosotros.nav.html %}
             </aside>
             {% endif %}
+            
+            {% if page.submenu == 'admisiones'  %}
+            <aside class="navigation">
+                {% include admisiones.nav.html %}
+            </aside>
+            {% endif %}
+
+
+
         </div><!-- #content -->
             
         {% include footer-nav.html %}
