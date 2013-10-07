@@ -1,15 +1,15 @@
 ---
 layout: default
-title:  "Misión y Visión"
+title: Misión y Visión
 submenu: nosotros
-titular: "Bienvenidos"
-subtitulo: "Hola"
-
+titular: Bienvenidos
+subtitulo: Hola
+published: true
 ---
 
 # Somos un Colegio bilingüe, laico y mixto
  
-**[Foto]**
+![Foto de ...](http://placeimg.com/720/300/people)
 
 El Chaltel es un colegio mixto, laico y bilingüe, que fue fundado en el año 1983, con el objetivo de ofrecer a las familias la posibilidad de elegir para sus hijos una educación integral y bilingüe.
 
