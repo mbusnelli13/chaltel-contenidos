@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "¿Qué es el Chaltel para vos?"
+title: "¿Qué es el Chaltel para vos?"
 submenu: nosotros
-titular: "Bienvenidos"
-subtitulo: "Hola"
-
+titular: Bienvenidos
+subtitulo: Hola
+published: true
 ---
 
 # ¿Qué es el Chaltel para vos?
@@ -14,8 +14,6 @@ subtitulo: "Hola"
 
 **[VIDEO]**
 
+![Foto de ...](http://placeimg.com/720/420/people)
+
 *Epígrafe para el vídeo del tour virtual*
-
-
-
-
