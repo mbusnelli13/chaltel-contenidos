@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Educación Física"
+title: Educación Física
 submenu: proyecto
-titular: 
-subtitulo: 
+titular: null
+subtitulo: null
 published: true
 ---
 
 # Educación fisica
 
-**[FOTO]**
+![Foto de ...](http://placeimg.com/720/300/nature)
 
 
 Descripción...
