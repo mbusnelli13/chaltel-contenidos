@@ -28,11 +28,13 @@
             <section class="main">
                 {{ content }}
             </section>
+
+            {% if page.submenu  %}
             <aside class="navigation">
                <!-- Submenu -->
-
+                {% include nosotros.nav.html %}
             </aside>
-
+            {% endif %}
         </div><!-- #content -->
             
         {% include footer-nav.html %}

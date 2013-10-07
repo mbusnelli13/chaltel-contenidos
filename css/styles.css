@@ -5069,6 +5069,12 @@ ul, ol {
   padding-right: 0.9375em;
   width: 100%;
   float: left; }
+  #header .portal-nav ul {
+    margin: 0;
+    padding: 0; }
+    #header .portal-nav ul li {
+      display: inline-block;
+      margin-right: 1em; }
 
 #header .branding {
   position: relative;
@@ -5084,8 +5090,13 @@ ul, ol {
   width: 58.33333%;
   float: left; }
   #header .main-nav ul {
+    margin: 0;
+    padding: 0;
     padding-top: 2.5em;
     text-align: right; }
+    #header .main-nav ul li {
+      display: inline-block;
+      margin-right: 1em; }
 
 #content {
   width: 100%;
