@@ -9,7 +9,7 @@ published: true
 
 # Estimadas familias
 
-**[Foto]**
+![Foto de ...](http://placeimg.com/720/300/arch)
 
 Bienvenidas al sitio institucional, un espacio de comunicación que refleja, entre otras cosas, la vida cotidiana del Chaltel, su historia, la propuesta educativa, la misión y nuestra visión hacia el futuro.
 
@@ -25,4 +25,3 @@ Cordialmente,
 Silvia Busnelli
 
 Directora General
-
