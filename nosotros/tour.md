@@ -13,6 +13,6 @@ published: true
 
 **[VIDEO]**
 
-![Foto de ...](http://placeimg.com/720/300/people)
+![Foto de ...](http://placeimg.com/720/420/people)
 
 *Epígrafe para el vídeo del tour virtual*
