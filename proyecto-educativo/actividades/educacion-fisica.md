@@ -7,7 +7,7 @@ subtitulo: null
 published: true
 ---
 
-# Educación fisica
+# Educación Física
 
 ![Foto de ...](http://placeimg.com/720/300/nature)
 
