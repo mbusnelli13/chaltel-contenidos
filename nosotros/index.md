@@ -9,8 +9,6 @@ published: true
 
 # Estimadas familias
 
-## Subtitulo
- 
 **[Foto]**
 
 Bienvenidas al sitio institucional, un espacio de comunicación que refleja, entre otras cosas, la vida cotidiana del Chaltel, su historia, la propuesta educativa, la misión y nuestra visión hacia el futuro.
