@@ -1,79 +1,139 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title: "Welcome to Jekyll!"
+titular: Bienvenidos
+subtitulo: Hola
+published: true
+---
 
-titular: "Bienvenidos"
-subtitulo: "Hola"
+# Información Nuevas Familias
+
+**Esto es un copete, respetar el largo del párrafo. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.**
 
 ---
 
-# Proceso de Admisión
- 
-**[Foto]**
-
-**Esto es un copete, respetar el largo del párrafo. Neque pira quisquam est, qui dolorem ipsum quia dolor.**
-
-## ¿Cómo inscribirse?
+## Evento de Bienvenida
 Con el fin de orientarlos adecuadamente, a continuación, se plantean algunos aspectos relevantes del proceso de admisión:
 
-### 1. Solicitud de entrevista inicial
+Es un encuentro que realizamos con todos los alumnos nuevos, en donde cada uno conoce a su maestra, a sus futuros compañeros y cómo será el desarrollo del 1er día de clases. 
+ 
+**Nivel Inicial**
 
-Podrá iniciar formalmente el proceso de admisión comunicándose con la Sra. Sandra Gutierrez de Administración al teléfono 4 748 3153 int.114 de lunes a viernes de 8:00 a 12:00 y de 13:00 a 16:00 hs.
+- Se realiza durante el mes de Noviembre antes de finalizar el corriente ciclo lectivo.
 
-[Llamado telefónico](http://www.google.com).
+**Primaria**
 
-[Solicitar entrevista para visitar el colegio](http://www.google.com).
+- Se realiza una semana antes del inicio de clases.
+ 
+La invitación para el evento se realizará vía e-mail y también será publicada en la página web institucional. 
 
-### 2. Entrevista inicial (Visita al Colegio)
+---
 
-Explicar qué es la entrevista inicial…
+## Documentación requerida 
 
-[Link a ubicación](http://www.google.com).
+La documentación descripta a continuación deberá entregarse en la Administración, antes del inicio del ciclo lectivo, en un sobre cerrado con apellido y nombre del alumno / curso – Grado o Sección al que ingresa. 
+ 
+**Nivel Inicial**
 
-### 3. Entrevista pedagógica con el alumno/a
+- Fotocopia de vacunas Sabin / Triple / Antisarampionosa 
+- Audiometría y control Oftalmológico (sólo K5) 
+- Certificado de buena salud extendido por pediatra 
+- Informes académicos del Colegio anterior 
+ 
+**Primaria**
 
-Confirmada la intención de ingreso y la vacante disponible, recibirá un llamado de la Dirección, en donde le indicarán la fecha y el horario en que su hijo/a deberá concurrir al Colegio para mantener una entrevista pedagógica con la Directora y la Psicopedagoga de la sección correspondiente. 
+- Fotocopia de vacunas Sabin / Triple / Antisarampionosa.
+- Audiometría y control Oftalmológico (Sólo 1ro, 2do y 3er año).
+- Pase del Colegio anterior.
+- Certificado de buena salud extendido por pediatra.
+- Informes del Colegio anterior (únicamente 1er año). 
+- Boletín de Calificaciones.
+ 
+**Secundaria**
 
-Tipo de entrevista por nivel: 
+- Fotocopias de vacunas/s calendario oficial.
+- Certificado de buena salud extendido por médico clínico.
+- Certificado Analítico Parcial del periodo cursado o constancia de Analítico en trámite.
+- Pase del Colegio anterior.
 
-NIVEL INICIAL: 
+---
 
-- K2 y K3: Eximidos de este requisito 
-- K4 y K5: Evaluación de conocimiento del Alumno – Nivel Inglés 
+## Uniforme Reglamentario
 
-PRIMARIA:
+**Varones y mujeres** 
+- Remera Roja con el escudo del Colegio 
+- Polera blanca con escudo (Invierno)
+- Delantal diseño del Colegio
+- Jogging reglamentario (Buzo y pantalón gris)
+- Campera roja c/ inscripción del Colegio
+- Short blanco
+- Medias blancas
+- Zapatillas blancas
 
-- Evaluación de aspectos pedagógicos y madurativos. Áreas de lengua, matemática e inglés 
+**Primaria y Secundaria: varones**
+ 
+- Camisa blanca
+- Corbata:
+- Primaria: Escocesa
+- Secundaria: Negra con escudo del Colegio
+- Sweater:
+- Primaria: Rojo con escote en "V" e inscripción del Colegio
+- Secundaria: Negro con escote en "V" e inscripción del Colegio
+- Campera del Colegio con Inscripción
+- Primaria: Roja
+- Secundaria: Negra
+- Pantalón de franela gris
+- Cinturón negro
 
-SECUNDARIA:
+** Educación Física**
 
-- Evaluación de aspectos pedagógicos y madurativos. Áreas de lengua, matemática e inglés 
+- Remera. 
+- Primaria: Rojo con escudo del Colegio
+- Secundaria: blanca con escudo del Colegio
+- Short blanco
+- Medias de deporte del Colegio ( rayadas rojas y negras)
+- Jogging reglamentario (Buzo y pantalón gris)
+- Zapatillas blancas
+ 
+**Rugby** (a partir de 3er año Primaria) 
 
-### 4. Resultado
+- Camiseta de Rugby del Colegio 
+- Short blanco
+- Medias de rugby del Colegio (Negras y rojas) 
+- Botines de rugby 
+- Protector bucal
 
-Una vez que el alumno/a haya finalizado la entrevista pedagógica, el equipo directivo se reunirá para analizar y definir el resultado del proceso. El mismo, será comunicado a los padres de familia por la Dirección del Colegio en un plazo máximo de 5 (cinco) días hábiles.
+**Primaria y Secundaria: Mujeres**
+ 
+- Camisa: 
+- Primaria: blusa blanca 
+- Secundaria: camisa blanca 
+- Sweater: 
+- Primaria: rojo con escote en "V" e inscripción del Colegio 
+- Secundaria: negro con escote en "V" e inscripción del Colegio 
+- Campera del Colegio con Inscripción 
+- Primaria: roja
+- Secundaria: negra 
+- Pollera escocesa reglamentaria 
+- Medias
+- Primaria: rojas 
+- Secundaria: negras 
+- Zapatos negros de cuero 
+ 
+**Educación Física**
 
-### 5. Inscripción
+- Remera blanca con escudo del Colegio 
+- Pollera negra con escudo del Colegio 
+- Medias de deporte del Colegio (rayadas rojas y negras) 
+- Jogging reglamentario (buzo y pantalón gris) 
+- Zapatillas blancas 
 
-Cumplidos estos requisitos positivamente, están dadas las condiciones para realizar la inscripción. Para ello, deberá: 
+**Hockey** (a partir de 3er. Año de Primaria)
 
-Presentar en la Administración del Colegio: 
+- Remera de Hockey del Colegio 
+- Pollera negra con escudo del Colegio 
+- Medias de hockey del Colegio (Negras y rojas) 
+- Tartaneras 
+- Canilleras 
+- Protector bucal 
 
-- [Solicitud de Inscripción](http://www.google.com) (Un ejemplar por familia: completa y firmada por ambos padres).
-- Fotocopias del DNI de cada hijo/a (1ra y 2da hoja).
-- Certificado de libre de deuda (del Colegio anterior).
-
-Abonar la matrícula correspondiente (ver anexo [Política de aranceles](http://www.google.com)).
-
-Con todo esto terminado, ver [Informacion de nuevas familias](http://www.google.com).
-
-___
-
-### Reserva de vacante
-El Colegio reservará la vacante del alumno/a admitido, por un plazo de 10 días hábiles. Una vez superado el plazo, la vacante quedará nuevamente disponible. 
-
-### Cronograma
-El período de matriculación se realiza todo el año. Aceptamos solicitudes de admisión para el ingreso al ciclo lectivo en curso y los dos subsiguientes.
-
-### Prioridad
-La prioridad en la admisión al colegio será otorgada a hermanos de alumnos e hijos de ex alumnos, siempre y cuando contemos con disponibilidad de vacantes y luego los aspirantes que hayan superado todas las instancias del proceso: entrevistas académicas, presentación de documentación y pago de la matrícula correspondiente.
