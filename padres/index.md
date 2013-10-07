@@ -86,6 +86,8 @@ Este es un texto de introducción. Respetar la longitud (aprox). Neque por quisq
 
 [Uniforme Escolar]()
 
+[Más documentos]()
+
 ---
 
 ## Links útiles
@@ -112,6 +114,14 @@ Este es un texto de introducción de longitud variable.
 
 [Menú comedor Enero 2013]()
 
+**Contacto Conseción Comedor Escolar**
+
+- Sra. Gladys Tula:15 5942 4694
+
+- Sr. Alan Maurel: 15 4028 2814
+
+- Horarios de Atención: Lunes a Viernes de 8:00 a 15:00 hs.
+
 ---
 
 ## Transporte
@@ -120,5 +130,5 @@ El servicio de transporte es prestado por empresas de transporte escolar, y es c
 
 **Transportistas**
 
-- **Ricardo Márques:** 15 5700 6129 / 4748 6266
-- **Ricardo Roco:** 15 5995 1349 / 4741 2227
+- Ricardo Márques: 15 5700 6129 / 4748 6266
+- Ricardo Roco: 15 5995 1349 / 4741 2227
