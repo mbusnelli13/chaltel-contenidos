@@ -139,3 +139,110 @@ La documentación descripta a continuación deberá entregarse en la Administrac
 - Canilleras 
 - Protector bucal 
 
+---
+
+### Notas Importantes:
+ 
+- Bufandas: sólo se pueden usar las escocesas reglamentarias, grises o negras.
+
+- Lo varones deben usar el pelo corto.
+
+- Las mujeres deben llevar el pelo recogido con cinta o hebilla con los colores del colegio.
+
+- Todas las prendas sin excepción deben estar marcadas con su nombre completo del Alumno/a.
+
+---
+
+**Proveedor exclusivo**
+
+Fortela : María y Sussini.
+
+Don Torcuato. Tel.: 48461994.
+
+De lunes a viernes de 9 a 13 hs y de 16 a 20 hs.
+
+---
+
+## Horario Escolar
+
+[TABLA]
+
+---
+
+## Ingreso y salida de alumnos 
+
+## Ingreso 
+
+**Nivel Inicial**
+
+Los alumnos y sus padres, ingresan por el Acceso de la calle Entre Ríos. Se reúnen con sus maestras en el hall de entrada del Edificio de Nivel Inicial. En caso, de llegar después de hora, se deberá ingresar por la calle Meléndez. 
+
+**Primaria y Secundaria**
+
+Los alumnos ingresan por el Acceso de la Calle Meléndez y se reunen en el SUM con sus docentes.
+
+Las familias que tengan hijos en Nivel Inicial y Primaria podrán ingresar todos juntos por el Acceso de la Calle Entre Ríos. 
+ 
+## Salida 
+ 
+**Nivel Inicial** 
+
+Los alumnos se retiran por el acceso de la calle Entre Ríos. Las maestras entregan a los alumnos a sus padres y/o adultos autorizados. 
+
+**Primaria y Secundaria**
+
+Los alumnos se retiran por el acceso de la calle Meléndez. Los adultos responsables de retirar a los alumnos, se anotan por orden de llegada en un listado y esperan hasta que sean llamados por sus maestras. 
+ 
+**Por favor, les solicitamos encarecidamente no estacionar sobre la dársena de circulación.**
+
+---
+
+## Mochilas y Lockers 
+
+**Nivel Inicial y Primaria**
+
+- Mochila sin rueditas de tamaño y peso adecuado según la edad.
+
+**Secundaria**
+
+- Mochila sin rueditas de tamaño y peso adecuado para la edad. Los alumnos contarán con "lockers" de uso exclusivo, en donde podrán guardar y dejar todas sus pertenencias.
+
+- El locker: será de uso obligatorio y tendrá un costo mensual de alquiler que serán adicionados mensualmente a las facturas de aranceles. Los alumnos deberán traer su candado y serán responsables de su cuidado y mantenimiento.
+
+---
+
+## Servicio de Comedor
+
+El servicio del Comedor está concesionado por la Sra. Gladys Tula y su familia. Presta los siguientes servicios durante todo el año:
+
+a) Almuerzo c/menú mensual, semanal y diario.
+
+b) Bar.
+
+c) Lunch Box (arancelado).
+ 
+**Contacto:**
+
+- Sra. Gladys Tula: 15 5942 4694 
+- Sr. Alan Maurel: 15 4028 2814 
+- Horarios de Atención: Lunes a Viernes de 8:00 a 15:00 hs. 
+
+---
+
+## Transporte Escolar 
+El servicio de transporte es prestado por empresas de transporte escolar, y es contratado directamente por los padres de los alumnos. 
+ 
+**Transportistas** 
+
+- Ricardo Márques: 15 5700 6129 / 4748 6266 
+- Ricardo Roco: 15 5995 1349 / 4741 2227 
+
+---
+
+## Contacto
+
+Ante cualquier duda o consulta podrá comunicarse por teléfono al 4 748 3153 o enviando un email a: [info@chaltelcollege.edu.ar]()
+
+---
+
+
