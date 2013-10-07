@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title: "Welcome to Jekyll!"
 submenu: admisiones
-titular: "Bienvenidos"
-subtitulo: "Hola"
+titular: Bienvenidos
+subtitulo: Hola
 published: true
 ---
 
@@ -14,6 +14,7 @@ published: true
 ### ¿Cómo inscribirse?
 Con el fin de orientarlos adecuadamente, a continuación, se plantean algunos aspectos relevantes del proceso de admisión:
 
+---
 
 ### 1. Solicitud de entrevista inicial
 Podrá iniciar formalmente el proceso de admisión comunicándose con la Sra. Sandra Gutierrez de Administración al teléfono 4 748 3153 int.114 de lunes a viernes de 8:00 a 12:00 y de 13:00 a 16:00 hs.
