@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-submenu: ex-alumnos
-titular: "Bienvenidos"
-subtitulo: "Hola"
-
+title: "Welcome to Jekyll!"
+submenu: "ex-alumnos"
+titular: Bienvenidos
+subtitulo: Hola
+published: true
 ---
 
 # Ex-alumnos
@@ -16,14 +16,12 @@ subtitulo: "Hola"
 
 ---
 
-### [Calendario ex-alumnos]( {{ site.baseurl }}/ex-alumnos/eventos )
+### [Calendario ex-alumnos](/ex-alumnos/eventos)
 Bajada de texto de esta longitud aprox. Nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut es nom.
 
 
 ---
 
-### [Actualización de datos]( {{ site.baseurl }}/ex-alumnos/actualizacion-datos )
+### [Actualización de datos](/ex-alumnos/actualizacion-datos )
 
 Bajada de texto de esta longitud aprox. Nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut es nom.
-
-
