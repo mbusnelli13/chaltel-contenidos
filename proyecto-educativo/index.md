@@ -1,19 +1,21 @@
 ---
 layout: default
-title:  "Proyecto educativo"
+title: Proyecto educativo
 submenu: proyecto
-titular: 
-subtitulo: 
+titular: null
+subtitulo: null
 published: true
 ---
 
 # Proyecto Educativo
 
-## Esto es un copete, respetar el largo aproximado del párrafo.Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempor.
+## Esto es un copete, respetar el largo aproximado del párrafo. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempor.
 
-### La Educación Chaltel
+---
+
+## La Educación Chaltel
  
-**[Foto]**
+![Foto de ...](http://placeimg.com/720/300/nature)
 
 El Nivel Inicial imparte educación bilingüe a niños de  2 a 5 años de edad.
 
@@ -25,17 +27,17 @@ Los contenidos educativos de todas las áreas de aprendizaje: lengua, ciencias s
 
 ---
 
-### Estilo Pedagógico
+## Estilo Pedagógico
 
-**[Foto]**
+![Foto de ...](http://placeimg.com/720/300/arch)
 
 Los contenidos educativos de todas las áreas de aprendizaje: lengua, ciencias sociales, naturales y matemáticas se  desarrollan dentro de nuestro Plan Bilingüe cuyo objetivo primordial es lograr que el niño a partir de los 3 años interactúe espontáneamente con el idioma inglés y favorezca así su adquisición en un contexto cotidiano y natural.
 
 ---
 
-### Educando en Valores
+## Educando en Valores
 
-**[Foto]**
+![Foto de ...](http://placeimg.com/720/300/people)
 
 El Nivel Inicial  imparte educación bilingüe a niños de  2 a 5 años de edad.
 
@@ -47,9 +49,9 @@ Los contenidos educativos de todas las áreas de aprendizaje: lengua, ciencias s
 
 ---
 
-### El Perfíl del egresado
+## El Perfíl del egresado
 
-**[Foto]**
+![Foto de ...](http://placeimg.com/720/300/nature)
 
 El Nivel Inicial  imparte educación bilingüe a niños de 2 a 5 años de edad.
 
