@@ -9,7 +9,7 @@ published: true
 
 # Bienvenidos
  
-**[Foto]**
+![](http://placeimg.com/720/300/arch)
 
 ## Esto es un copete, respetar el largo del párrafo. Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.
 
@@ -21,4 +21,4 @@ Punteo de 5 razones breves.
 - 2
 - 3
 - 4
-- 5 
+- 5
