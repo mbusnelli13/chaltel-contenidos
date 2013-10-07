@@ -59,6 +59,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/_site\/nosotros\/emblemas.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/nosotros\/emblemas.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/scripts\/vendor\/foundation.forms.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -82,17 +91,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/css\/_sass\/components\/foundation\/components\/_block-grid.scss" : {
+    "\/_site\/nosotros\/ideario.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_block-grid.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_block-grid.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/_site\/nosotros\/ideario.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/css\/_sass\/global\/susy\/_isolation.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -103,6 +109,18 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/css\/_sass\/global\/css\/_isolation.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/css\/_sass\/components\/foundation\/components\/_block-grid.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_block-grid.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_block-grid.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -118,15 +136,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/admisiones\/Bienvenidos.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/admisiones\/Bienvenidos.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_site\/ex-alumnos\/bienvenida.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -136,12 +145,21 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/nosotros\/Que_es_el_Chaltel.html" : {
+    "\/_site\/admisiones\/preguntas-frecuentes.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/nosotros\/Que_es_el_Chaltel.html",
+      "inputAbbreviatedPath" : "\/_site\/admisiones\/preguntas-frecuentes.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/nosotros\/contacto.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/nosotros\/contacto.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -168,18 +186,6 @@
       "outputAbbreviatedPath" : "\/scripts\/vendor\/foundation.min-ck.js",
       "fileType" : 64
     },
-    "\/css\/_sass\/components\/foundation\/components\/_pagination.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_pagination.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_pagination.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/css\/_sass\/layouts\/_tpl-2-col-left-title.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -192,14 +198,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/nosotros\/Ideario.html" : {
+    "\/css\/_sass\/components\/foundation\/components\/_pagination.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/nosotros\/Ideario.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_pagination.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_pagination.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/_includes\/nosotros.nav.html" : {
       "ignoreWasSetByUser" : 0,
@@ -207,24 +216,6 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_includes\/nosotros.nav.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/nosotros\/Como_llegar.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/nosotros\/Como_llegar.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/admisiones\/Contáctenos copy.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/admisiones\/Contáctenos copy.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -237,6 +228,18 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_pricing-tables.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/css\/_sass\/components\/_foundation.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/_sass\/components\/_foundation.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_sass\/css\/_foundation.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -264,12 +267,30 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/_site\/admisiones\/solicitud-entrevista.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/admisiones\/solicitud-entrevista.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_site\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_site\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/documentos\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/documentos\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -285,27 +306,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/documentos\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/documentos\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/css\/_sass\/components\/foundation\/components\/_visibility.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_visibility.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_visibility.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/css\/_sass\/components\/foundation\/components\/_tables.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -317,15 +317,6 @@
       "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_tables.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/_site\/ex-alumnos\/eventos.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/ex-alumnos\/eventos.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/css\/_sass\/components\/foundation\/_variables.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -339,6 +330,27 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/css\/_sass\/components\/foundation\/components\/_visibility.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_visibility.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_visibility.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/_site\/ex-alumnos\/eventos.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/ex-alumnos\/eventos.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/css\/_sass\/components\/foundation\/components\/_thumbs.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -351,28 +363,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/css\/_sass\/components\/_foundation.scss" : {
+    "\/css\/_sass\/components\/foundation\/components\/_keystrokes.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_sass\/components\/_foundation.scss",
+      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_keystrokes.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_sass\/css\/_foundation.css",
+      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_keystrokes.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/_site\/scripts\/vendor\/jquery-1.10.1.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/scripts\/vendor\/jquery-1.10.1.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_site\/scripts\/vendor\/jquery-1.10.1.min-ck.js",
-      "fileType" : 64
     },
     "\/_includes\/header.html" : {
       "ignoreWasSetByUser" : 0,
@@ -395,26 +396,25 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/nosotros\/Staff.html" : {
+    "\/_site\/scripts\/vendor\/jquery-1.10.1.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/nosotros\/Staff.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/_site\/scripts\/vendor\/jquery-1.10.1.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_site\/scripts\/vendor\/jquery-1.10.1.min-ck.js",
+      "fileType" : 64
     },
-    "\/css\/_sass\/components\/foundation\/components\/_keystrokes.scss" : {
+    "\/_site\/nosotros\/historia.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_keystrokes.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_keystrokes.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/_site\/nosotros\/historia.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/scripts\/vendor\/foundation.forms.min.js" : {
       "ignoreWasSetByUser" : 0,
@@ -427,15 +427,6 @@
       "outputAbbreviatedPath" : "\/scripts\/vendor\/foundation.forms.min-ck.js",
       "fileType" : 64
     },
-    "\/_site\/nosotros\/Breve_historia.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/nosotros\/Breve_historia.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/css\/_sass\/global\/susy\/_units.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -445,6 +436,18 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/css\/_sass\/global\/css\/_units.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/css\/_sass\/components\/foundation\/components\/_global.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_global.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_global.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -460,17 +463,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/css\/_sass\/components\/foundation\/components\/_global.scss" : {
+    "\/_site\/admisiones\/contacto.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_global.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_global.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/_site\/admisiones\/contacto.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_site\/alumnos\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -493,18 +493,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/css\/_sass\/components\/foundation\/components\/_type.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_type.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_type.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/css\/_sass\/components\/foundation\/components\/_alert-boxes.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -514,6 +502,18 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_alert-boxes.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/css\/_sass\/components\/foundation\/components\/_type.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_type.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_type.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -550,15 +550,6 @@
       "outputAbbreviatedPath" : "\/_site\/scripts\/vendor\/zepto.min-ck.js",
       "fileType" : 64
     },
-    "\/_site\/nosotros\/mision_vision.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/nosotros\/mision_vision.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/css\/_sass\/global\/susy\/_media.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -570,6 +561,15 @@
       "outputAbbreviatedPath" : "\/css\/_sass\/global\/css\/_media.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/_site\/nosotros\/testimonios.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/nosotros\/testimonios.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_layouts\/post.html" : {
       "ignoreWasSetByUser" : 0,
@@ -600,6 +600,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/_site\/nosotros\/mision.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/nosotros\/mision.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/css\/_sass\/global\/susy\/_grid.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -611,15 +620,6 @@
       "outputAbbreviatedPath" : "\/css\/_sass\/global\/css\/_grid.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/_site\/admisiones\/Preguntas_frecuentes.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/admisiones\/Preguntas_frecuentes.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/css\/_sass\/components\/foundation\/components\/_switch.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -633,14 +633,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/nosotros\/Tour_Virtual.html" : {
+    "\/css\/_sass\/components\/foundation\/components\/_labels.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/nosotros\/Tour_Virtual.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_labels.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_labels.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/css\/_sass\/global\/_reset.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -654,15 +657,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/scripts\/vendor\/modernizr-2.6.2.min.js" : {
+    "\/scripts\/main.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/scripts\/vendor\/modernizr-2.6.2.min.js",
+      "inputAbbreviatedPath" : "\/scripts\/main.min.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_site\/scripts\/vendor\/modernizr-2.6.2.min-ck.js",
+      "outputAbbreviatedPath" : "\/scripts\/main.min-ck.js",
       "fileType" : 64
     },
     "\/_site\/scripts\/main.min.js" : {
@@ -697,37 +700,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/scripts\/main.min.js" : {
+    "\/_site\/scripts\/vendor\/modernizr-2.6.2.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scripts\/main.min.js",
+      "inputAbbreviatedPath" : "\/_site\/scripts\/vendor\/modernizr-2.6.2.min.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/scripts\/main.min-ck.js",
+      "outputAbbreviatedPath" : "\/_site\/scripts\/vendor\/modernizr-2.6.2.min-ck.js",
       "fileType" : 64
-    },
-    "\/css\/_sass\/components\/foundation\/components\/_labels.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_labels.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_labels.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/_site\/admisiones\/Contáctenos.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/admisiones\/Contáctenos.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/scripts\/plugins.js" : {
       "ignoreWasSetByUser" : 0,
@@ -740,6 +722,15 @@
       "outputAbbreviatedPath" : "\/scripts\/plugins-ck.js",
       "fileType" : 64
     },
+    "\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/css\/_sass\/global\/susy\/_functions.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -751,24 +742,6 @@
       "outputAbbreviatedPath" : "\/css\/_sass\/global\/css\/_functions.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/admisiones\/Solicitud_entrevista.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/admisiones\/Solicitud_entrevista.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/css\/_sass\/components\/foundation\/components\/_dropdown-buttons.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -827,38 +800,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/admisiones\/Proyecto_educativo.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/admisiones\/Proyecto_educativo.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/scripts\/vendor\/foundation.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/scripts\/vendor\/foundation.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_site\/scripts\/vendor\/foundation.min-ck.js",
-      "fileType" : 64
-    },
-    "\/css\/_sass\/components\/foundation\/components\/_section.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_section.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_section.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/css\/_sass\/layouts\/_tpl-2-col-right-submenu.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -870,6 +811,24 @@
       "outputAbbreviatedPath" : "\/css\/_sass\/css\/_tpl-2-col-right-submenu.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/_site\/nosotros\/descripcion-abreviada.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/nosotros\/descripcion-abreviada.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/admisiones\/actividades.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/admisiones\/actividades.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_site\/staff\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -891,6 +850,47 @@
       "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_progress-bars.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/_site\/admisiones\/bienvenidos.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/admisiones\/bienvenidos.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/css\/_sass\/components\/foundation\/components\/_section.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_section.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_section.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/_site\/scripts\/vendor\/foundation.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/scripts\/vendor\/foundation.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_site\/scripts\/vendor\/foundation.min-ck.js",
+      "fileType" : 64
+    },
+    "\/_site\/admisiones\/nuevas-familias.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/admisiones\/nuevas-familias.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_site\/scripts\/vendor\/foundation.forms.min.js" : {
       "ignoreWasSetByUser" : 0,
@@ -959,6 +959,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/_site\/admisiones\/proyecto-educativo.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/admisiones\/proyecto-educativo.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/css\/_sass\/components\/foundation\/components\/_breadcrumbs.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -980,15 +989,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/css\/_sass\/styles.scss" : {
+    "\/css\/_sass\/components\/foundation\/components\/_clearing.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
-      "outputPathIsSetByUser" : 1,
-      "inputAbbreviatedPath" : "\/css\/_sass\/styles.scss",
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_clearing.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/styles.css",
+      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_clearing.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -1004,17 +1013,37 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/css\/_sass\/components\/foundation\/components\/_clearing.scss" : {
+    "\/css\/_sass\/styles.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/components\/_clearing.scss",
+      "outputPathIsSetByUser" : 1,
+      "inputAbbreviatedPath" : "\/css\/_sass\/styles.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_clearing.css",
+      "outputAbbreviatedPath" : "\/css\/styles.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/_site\/ex-alumnos\/actualizacion_datos.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/ex-alumnos\/actualizacion_datos.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/scripts\/vendor\/modernizr-2.6.2.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scripts\/vendor\/modernizr-2.6.2.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/scripts\/vendor\/modernizr-2.6.2.min-ck.js",
+      "fileType" : 64
     },
     "\/css\/_sass\/global\/_grid.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1028,55 +1057,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/scripts\/vendor\/modernizr-2.6.2.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scripts\/vendor\/modernizr-2.6.2.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/scripts\/vendor\/modernizr-2.6.2.min-ck.js",
-      "fileType" : 64
-    },
-    "\/_site\/ex-alumnos\/actualizacion_datos.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/ex-alumnos\/actualizacion_datos.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/admisiones\/Niveles_academicos.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/admisiones\/Niveles_academicos.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/nosotros\/Nuestros_emblemas.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/nosotros\/Nuestros_emblemas.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/scripts\/main.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/scripts\/main.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_site\/scripts\/main-ck.js",
-      "fileType" : 64
-    },
     "\/css\/_sass\/components\/foundation\/components\/_joyride.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1088,6 +1068,17 @@
       "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_joyride.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/_site\/scripts\/main.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/scripts\/main.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_site\/scripts\/main-ck.js",
+      "fileType" : 64
     },
     "\/css\/_sass\/components\/foundation\/components\/_button-groups.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1101,12 +1092,21 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/nosotros\/Contacto.html" : {
+    "\/_site\/nosotros\/staff.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/nosotros\/Contacto.html",
+      "inputAbbreviatedPath" : "\/_site\/nosotros\/staff.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/nosotros\/tour.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/nosotros\/tour.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1131,23 +1131,12 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/_site\/scripts\/plugins.js" : {
+    "\/_site\/nosotros\/ubicacion.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/scripts\/plugins.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_site\/scripts\/plugins-ck.js",
-      "fileType" : 64
-    },
-    "\/_site\/admisiones\/Informacion_nuevas_familias.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/admisiones\/Informacion_nuevas_familias.html",
+      "inputAbbreviatedPath" : "\/_site\/nosotros\/ubicacion.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1162,6 +1151,17 @@
       "outputAbbreviatedPath" : "\/scripts\/main-ck.js",
       "fileType" : 64
     },
+    "\/scripts\/vendor\/jquery-1.10.1.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scripts\/vendor\/jquery-1.10.1.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/scripts\/vendor\/jquery-1.10.1.min-ck.js",
+      "fileType" : 64
+    },
     "\/css\/_sass\/components\/foundation\/components\/_magellan.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1174,25 +1174,16 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/scripts\/vendor\/jquery-1.10.1.min.js" : {
+    "\/_site\/scripts\/plugins.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scripts\/vendor\/jquery-1.10.1.min.js",
+      "inputAbbreviatedPath" : "\/_site\/scripts\/plugins.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/scripts\/vendor\/jquery-1.10.1.min-ck.js",
+      "outputAbbreviatedPath" : "\/_site\/scripts\/plugins-ck.js",
       "fileType" : 64
-    },
-    "\/_site\/nosotros\/Descripcion_abreviada.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/nosotros\/Descripcion_abreviada.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/scripts\/vendor\/zepto.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1205,12 +1196,12 @@
       "outputAbbreviatedPath" : "\/scripts\/vendor\/zepto-ck.js",
       "fileType" : 64
     },
-    "\/_site\/admisiones\/Actividades.html" : {
+    "\/_site\/admisiones\/niveles-academicos.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/admisiones\/Actividades.html",
+      "inputAbbreviatedPath" : "\/_site\/admisiones\/niveles-academicos.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1235,17 +1226,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/scripts\/plugins.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scripts\/plugins.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/scripts\/plugins.min-ck.js",
-      "fileType" : 64
-    },
     "\/css\/_sass\/components\/foundation\/components\/_side-nav.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1257,6 +1237,17 @@
       "outputAbbreviatedPath" : "\/css\/_sass\/components\/foundation\/css\/_side-nav.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/scripts\/plugins.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scripts\/plugins.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/scripts\/plugins.min-ck.js",
+      "fileType" : 64
     }
   },
   "manualImportLinks" : [
