@@ -1,6 +1,6 @@
 <!-- <h4>Sobre Nosotros</h4> -->
 <ul class="side-nav">
-    <li {% if mixture.url == "nosotros/index" %}class="active"{% endif %}><a href="{{ site.baseurl }}/nosotros/">Bienvenidos</a></li>
+    <li {% if page.url == "/nosotros/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/nosotros/">Bienvenidos</a></li>
     <li {% if mixture.url == "nosotros/mision" %}class="active"{% endif %}><a href="{{ site.baseurl }}/nosotros/mision">Misión y Visión</a></li>
     <li {% if mixture.url == "nosotros/historia" %}class="active"{% endif %}><a href="{{ site.baseurl }}/nosotros/historia">Breve historia</a>
         <ul class="submenu">
