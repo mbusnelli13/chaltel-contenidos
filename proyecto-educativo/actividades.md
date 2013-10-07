@@ -1,38 +1,35 @@
 ---
 layout: default
-title: "Welcome to Jekyll!"
-titular: Bienvenidos
-submenu: nosotros
-subtitulo: Hola
+title: "Actividades"
+submenu: proyecto
+titular: 
+subtitulo: 
 published: true
 ---
 
 # Actividades
 
-**Esto es un copete, respetar la longitud del texto (aprox). Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.**
+## Esto es un copete, respetar la longitud del texto (aprox). Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
 
 ---
+
+**[FOTO]**
 
 ### Educación Física
-
-**[FOTO]**
-
 Deportes, campamentos y giras deportivas.
+
+[Ver más]({{ site.baseurl }}/proyecto-educativo/actividades/educacion-fisica)
 
 ---
 
-### Acompañamiento / Seguimiento y Orientación
-
 **[FOTO]**
-
+### Acompañamiento / Seguimiento y Orientación
 Centro de orientación escolar, tutorias y orientación vocacional.
 
 ---
 
-### Expresiones Artísticas
-
 **[FOTO]**
-
+### Expresiones Artísticas
 Arte, música y teatro.
 
 ---

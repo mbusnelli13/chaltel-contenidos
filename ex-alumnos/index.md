@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Portal de ex-alumnos"
-submenu: "ex-alumnos"
+submenu: exalumnos
 titular: Bienvenidos
 subtitulo: Hola
 published: true

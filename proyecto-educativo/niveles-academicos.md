@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Welcome to Jekyll!"
+title: "Niveles Académicos"
+submenu: proyecto
 titular: Bienvenidos
 subtitulo: Hola
 published: true
@@ -8,12 +9,13 @@ published: true
 
 # Niveles Académicos
 
-**Esto es un copete, respetar el largo aproximado del párrafo.Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempor.**
+## Esto es un copete, respetar el largo aproximado del párrafo.Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempor.
 
 ---
 
-## Nivel Inicial
 **[Foto]**
+
+### Nivel Inicial
 
 El Nivel Inicial  imparte educación bilingüe a niños de  2 a 5 años de edad.
 
@@ -25,14 +27,18 @@ Los contenidos educativos de todas las áreas de aprendizaje: lengua, ciencias s
 
 ---
 
-## Primario
 **[Foto]**
+
+### Primario
+
 
 Texto...
 
 ---
 
-## Secundario
 **[Foto]**
+
+### Secundario
+
 
 Texto...

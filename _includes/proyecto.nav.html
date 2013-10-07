@@ -1,0 +1,15 @@
+<!-- <h4>Sobre Nosotros</h4> -->
+<h4>Proyecto educativo</h4>
+<ul class="side-nav">
+    <li {% if page.url == "/proyecto-educativo/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/proyecto-educativo">Proyecto educativo</a></li>
+    <li {% if page.url == "/proyecto-educativo/niveles-academicos/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/proyecto-educativo/niveles-academicos">Niveles académicos</a></li>
+    <li {% if page.url == "/proyecto-educativo/actividades/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/proyecto-educativo/actividades">Actividades</a>
+
+        <ul class="submenu">
+            <li {% if page.url == "/proyecto-educativo/actividades/educacion-fisica/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/proyecto-educativo/actividades/educacion-fisica">Educación física</a></li>
+        </ul>
+    </li>
+</ul>
+
+
+

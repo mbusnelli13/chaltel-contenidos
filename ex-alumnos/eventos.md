@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-
+title:  "Eventos para ex-alumnos"
+submenu: exalumnos
 titular: "Bienvenidos"
 subtitulo: "Hola"
-
+published: true
 ---
 
 # Eventos para ex-alumnos

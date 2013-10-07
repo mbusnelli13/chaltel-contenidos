@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-
+title:  "Actualizacion de Datos"
+submenu: exalumnos
 titular: "Bienvenidos"
 subtitulo: "Hola"
-
+published: true
 ---
 
 # Actualización de datos

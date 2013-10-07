@@ -1,16 +1,15 @@
 ---
 layout: default
 title:  "Proyecto educativo"
-
-titular: "Bienvenidos"
-subtitulo: "Hola"
-
+submenu: proyecto
+titular: 
+subtitulo: 
+published: true
 ---
 
 # Proyecto Educativo
 
 ## Esto es un copete, respetar el largo aproximado del párrafo.Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempor.
-
 
 ### La Educación Chaltel
  
@@ -34,7 +33,7 @@ Los contenidos educativos de todas las áreas de aprendizaje: lengua, ciencias s
 
 ---
 
-## Educando en Valores
+### Educando en Valores
 
 **[Foto]**
 
@@ -48,7 +47,7 @@ Los contenidos educativos de todas las áreas de aprendizaje: lengua, ciencias s
 
 ---
 
-## El Perfíl del egresado
+### El Perfíl del egresado
 
 **[Foto]**
 
