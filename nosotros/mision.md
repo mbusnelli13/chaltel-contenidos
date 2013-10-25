@@ -7,7 +7,7 @@ subtitulo: Hola
 published: true
 ---
 
-# Somos un Colegio bilingüe, laico y mixto
+# Somos un Colegio privado, bilingüe, laico y mixto
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
