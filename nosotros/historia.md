@@ -1,15 +1,15 @@
 ---
 layout: default
-title:  "Breve Historia"
+title: Breve Historia
 submenu: nosotros
-titular: "Bienvenidos"
-subtitulo: "Hola"
-
+titular: Bienvenidos
+subtitulo: Hola
+published: true
 ---
 
 # Breve Historia
  
-**Esto es un copete, respetar el largo del párrafo. Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.**
+## Esto es un copete, respetar el largo del párrafo. Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.
 
 ###1983 
 - Se funda el Chaltel College, en respuesta a la demanda de familias de la comunidad de Don Torcuato y zona de influencia, que pretendían para sus hijos una educación bilingüe con elevado nivel académico. La labor educativa se inicia en una casa-quinta ubicada en la Calle Chile, con Kindergarten y Junior School.
@@ -67,14 +67,8 @@ subtitulo: "Hola"
 
 ###2011
 - Se reestructura el gabinete de informática y la biblioteca para dar lugar a un Aula Multimedia, que cuenta con tecnología digital de última generación, en donde los alumnos aprenden y realizan clases interactivas, ven vídeos y comparten experiencias multimedia.
-- Se inaugura el Salón Multiuso (SUM) con capacidad para 550 personas sentadas. El edificio cuenta con instalación de luces y sonido de última generación convirtiéndolo así en un verdadero teatro a la hora de representar cualquier tipo de evento, acto y/o espectáculo.  También sirve de patio cubierto, en los días de lluvia.
+- Se inaugura el Salón Multiuso (SUM) con capacidad para 550 personas sentadas. El edificio cuenta con instalación de luces y sonido de última generación convirtiéndolo así en un verdadero teatro a la hora de representar cualquier tipo de evento, acto y/o espectáculo. También sirve de patio cubierto, en los días de lluvia.
 
 ###2012
 - Se inaugura un nuevo acceso sobre la calle Entre Ríos, exclusivo para el Nivel Inicial. Además de una "calle interna" que permite la comunicación entre edificios de manera segura, cómoda y ordenada.
 - Se equipa al Laboratorio de Informática (Primaria y Secundaria), con nuevo Hardware, Software y monitores LED.
-
-
-
-
-
-
