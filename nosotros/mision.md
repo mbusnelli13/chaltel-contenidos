@@ -11,7 +11,7 @@ published: true
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
-## El Chaltel es un colegio privado mixto, laico y bilingüe fundado en 1983 con el objetivo de ofrecer a las familias la posibilidad de elegir para sus hijos una educación de calidad, basada en el estímulo y el fortalecimiento de los vínculos afectivos para la formación integral de la persona.
+## El Chaltel es un colegio privado mixto, laico y bilingüe fundado en el año 1983 con el objetivo de ofrecer a las familias, la posibilidad de elegir para sus hijos una educación de calidad, basada en el estímulo y en el fortalecimiento de los vínculos afectivos.
 
 ## Nuestra Misión 
 Nuestra misión es educar a nuestros alumnos para que adquieran una sólida base de conocimientos, competencias y habilidades, posean un carácter firme e íntegro y desarrollen al máximo sus potencialidades personales, en pos de estar capacitados para alcanzar una vida plena, sana, y productiva.   
