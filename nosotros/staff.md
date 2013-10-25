@@ -9,8 +9,9 @@ published: true
 
 # Nuestro Staff
  
-**Esto es un copete, respetar el largo del párrafo. Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.**
+## Contamos con un staff altamente capacitado, identificado y comprometido, que conforma un equipo de trabajo capaz de generar experiencias de aprendizaje significativas, motivantes y creativas.
 
+[Categorias: Staff Directivo, Staff Docente, Staff Administración]
 ---
 
 ![Foto de ...](http://placeimg.com/120/120/people)
