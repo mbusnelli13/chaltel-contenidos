@@ -1,15 +1,20 @@
 ---
 layout: default
-title:  "Contacto"
+title: Contacto
 submenu: nosotros
-titular: "Bienvenidos"
-subtitulo: "Hola"
-
+titular: Bienvenidos
+subtitulo: Hola
+published: true
 ---
 
 # Contacto
- 
-**Complete el siguiente formulario. Todos los campos marcados con un asterisco son obligatorios.**
+
+## Copete
+
+Complete el siguiente formulario. Todos los campos marcados con un asterisco son obligatorios.
+
+[Formulario]
+Ver opciones de re-dirección
 
 
 
