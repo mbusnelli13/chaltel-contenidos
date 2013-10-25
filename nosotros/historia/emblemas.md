@@ -9,11 +9,11 @@ published: true
 
 # Escudo y lema
  
-**Esto es un copete, respetar el largo del párrafo (aprox). Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.**
+## Esto es un copete, respetar el largo del párrafo (aprox). Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.
   
 ![Foto de ...](http://placeimg.com/720/300/people)
 
-### Escudo
+# Escudo
 El metal utilizado es la plata (blanco y gris) que simboliza las virtudes de la templanza, la verdad y la humildad , la cualidad y el valor de la franqueza, la integridad, la lealtad y la limpieza de procederes con el adversario. Implica la obligación de amparar a quien se encuentra en desventaja y desvalido.
 Los colores utilizados son el gules (rojo) y el sable (negro). 
 
