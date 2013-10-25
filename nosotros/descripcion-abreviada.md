@@ -55,7 +55,7 @@ Cada área o nivel educativo cuenta con instalaciones sanitarias exclusivas, por
 ## Campo de Deportes
 Hindú Club, ubicado a 10 minutos de la sede del Colegio.
 
-Programa y exámenes internacionales:
+## Programa y exámenes internacionales:
 Primaria: 
 CIPP / Cambridge International Primary Programme
 Secundaria:
@@ -63,66 +63,75 @@ Secundaria:
 AICE / Advanced International Certificate of Education
 DELF ( Fracés) / A1, A2, B1
 
-Educación en valores: 
+## Educación en valores: 
 
 Fundamentamos nuestra practica y accionar diario en los siguientes valores: respeto, responsabilidad, honestidad, excelencia,  perseverancia,  justicia, dialogo y solidaridad.  Ver educación en valores. 
-Expresiones Artísticas: 
+
+## Expresiones Artísticas: 
 El Arte en todas sus manifestaciones ocupa un rol de fundamental importancia dentro de nuestro diseño curricular. Fomentamos la Plástica, la música y el Teatro a través de la concreción de distintos trabajos y actividades con la idea de la obra realizada con dedicación, entrega y creatividad. 
-Educación Física: 
+
+## Educación Física: 
 El desarrollo de la persona, el dominio del propio cuerpo, la conciencia por la salud y la relación con la naturaleza son algunos de los objetivos que perseguimos a través de la práctica deportiva que incluye: Atletismo, Rugby, Hockey, Futbol, Vóley y Básquet.  
-Tecnología/IT: 
+
+## Tecnología/IT: 
 Promovemos la integración de la tecnología  (TICS) desde una mirada transversal a la curricula escolar, con el fin de inculcar en los alumnos la apropiación y uso de las herramientas tecnológicas  existentes que potencien su aprendizaje y producción cotidiana. 
-Tercer Idioma
+
+## Tercer Idioma
 Ofrecemos el idioma Francés como complemento vinculado a la ampliación de los contenidos y saberes relacionados al  mundo cultural, artístico y literario.
-Servicio Comunitario 
+
+## Servicio Comunitario 
 El aprendizaje en servicio es otro de los componentes importantes en la educación de nuestros alumnos. Desde los primeros años de escolaridad,  realizamos actividades en las que el beneficio de la acción individual y comunitaria logra modificar realidades y a todos por añadidura. 
-Acompañamiento y Orientación 
+
+## Acompañamiento y Orientación 
 Contamos con un Departamento de Orientación , integrado por un equipo interdisciplinario, que atiende las necesidades específicas de los distintos integrantes de la Comunidad (alumnos, docentes, padres y directores). El Departamento tiene como objetivo una función del tipo preventiva, asistencial y formativa.
-Orientación Vocacional
-Durante el último año de la Secundaria realizamos un amplio y completo programa de orientación vocacional. ( Socios por un día,  Pasantias, etc.)
-Competencias deportivas y concursos académicos
+
+## Orientación Vocacional
+Durante el último año de la Secundaria realizamos un amplio y completo programa de orientación vocacional. (Socios por un día,  Pasantias, etc.)
+
+## Competencias deportivas y concursos académicos
 Participamos en actividades internas e intercolegiales en las áreas de Matemáticas, Biología, Medio Ambiente, Literatura y Deportes (futbol, rugby y hockey). 
-Actividades extra clase. Clubes
+
+## Actividades extra clase. Clubes
 Contamos con actividades extra clase (clubes),  que son de carácter optativo, abiertas a la comunidad y se realizan  luego del horario escolar. Escuela de futbol, escuela de rock, robótica, taekwondo, ping pong, danza jazz y comedia musical. Coro, banda y Programas de formación para padres. 
-Salidas didácticas, campamentos y Viajes de Estudio
+
+## Salidas didácticas, campamentos y Viajes de Estudio
 Realizamos salidas didácticas (museos, fabricas, empresas, etc.), campamentos ( San Antonio  de Areco, Pilar, etc.) y viajes de estudio por el interior (Mar del plata, Rosario, Mendoza, etc.) y el exterior del país (EE.UU.) en todos los niveles para complementar y potenciar el aprendizaje áulico y brindar oportunidades de crecimiento tanto individual como grupal. 
-Calendario Escolar:
+
+## Calendario Escolar:
 Tres trimestres, de Febrero a Diciembre.
 Dos semanas de receso en invierno y una en primavera.
 
-Horario Escolar: 
-
+## Horario Escolar: 
 Inicial, de 8.10 a 11.45 (turno mañana); de 12.20 a 16.05 (turno tarde).
 Primaria, de 7.50 a 16.15.
 Secundaria, de 7.45 a 16.25.
 
-Cantidad de alumnos graduados en la Secundaria desde 1991:
+## Cantidad de alumnos graduados en la Secundaria desde 1991:
 Xxxxx
 
-Ingreso Universitario de nuestros graduados:
+## Ingreso Universitario de nuestros graduados:
  Xxxxx
 
-Titulo otorgado:
-
+## Titulo otorgado:
 Título oficial de Bachiller Bilingüe en Ciencias Sociales ( Disp. Nro. 312 de DIPREGEP)
 
 
-Asociaciones y Membresías 
-Centro examinador (AR411) de Cambridge University
-Miembro activo de I.S.A (International School Association)
-Miembro de EPEA ( Establecimientos Privados Educativos Asociados)
-Miembro fundador de L.I.D.E. ( Liga intercolegial de Deportes)
-Asociado de ESSARP (The English Speaking Scholastic of the River Plate)
-Acuerdos con Universidades
-Universidad de San Andrés
-Universidad Di Tella
-UCEMA
-Universidad Austral
+## Asociaciones y Membresías 
+- Centro examinador (AR411) de Cambridge University
+- Miembro activo de I.S.A (International School Association)
+- Miembro de EPEA ( Establecimientos Privados Educativos Asociados)
+- Miembro fundador de L.I.D.E. ( Liga intercolegial de Deportes)
+- Asociado de ESSARP (The English Speaking Scholastic of the River Plate)
+- Acuerdos con Universidades
+- Universidad de San Andrés
+- Universidad Di Tella
+- UCEMA
+- Universidad Austral
 
-Universidades a las que asisten nuestro graduados
+## Universidades a las que asisten nuestro graduados
 xxxxx
 
-¿Que desea hacer?
-Conocer y visitar personalmente el Colegio > a Solicitud de primera entrevista
-Solicitar más información? >A formulario
-Consultar como inscribir a su/s hijo/s? > a Proceso de Admisión
+# ¿Que desea hacer?
+- [Conocer y visitar personalmente el Colegio](http://www.google.com) > a Solicitud de primera entrevista
+- [Solicitar más información?](http://www.google.com) >A formulario
+- [Consultar como inscribir a su/s hijo/s?](http://www.google.com) > a Proceso de Admisión
