@@ -1,3 +1,12 @@
+---
+layout: default
+title: Breve reseña histórica
+submenu: nosotros
+titular: Bienvenidos
+subtitulo: Hola
+published: true
+---
+
 # Breve reseña histórica
  
 ## Esto es un copete, respetar el largo del párrafo. Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.

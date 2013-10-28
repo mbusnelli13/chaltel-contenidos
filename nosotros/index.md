@@ -21,9 +21,10 @@ Nos une a ustedes un fin común, la educación de sus hijos, en la que volcamos 
 
 Esperamos, a través de estas páginas, lograr transmitirles  el espíritu  de nuestro Colegio y  parte de la información necesaria que les permita considerarnos como la opción adecuada para la educación de sus hijos.
 
-Por último, solo me resta invitarlos a conocernos personalmente, esperando poder acompañarlos en este nuevo camino tan especial que han comenzado a transitar… 
+Por último, solo me resta invitarlos a conocernos personalmente, esperando poder acompañarlos en este nuevo camino tan especial que han comenzado a transitar…   
+
 Cordialmente,
 
-[Firma]
-Silvia Busnelli
-Directora General
+[Firma]  
+**Silvia Busnelli**  
+**Directora General**

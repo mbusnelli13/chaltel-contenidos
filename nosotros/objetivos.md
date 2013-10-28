@@ -9,7 +9,7 @@ published: true
 
 # Objetivos Institucionales
 
-## En función del cumplimiento de la misión institucional se propone:
+#### En función del cumplimiento de la misión institucional se propone:
 
 ### Respecto del alumnado:
 - Brindar una currícula amplia y variada que permita la adquisición de conocimientos, competencias y habilidades socio-afectivas, intelectuales, artísticas y deportivas 

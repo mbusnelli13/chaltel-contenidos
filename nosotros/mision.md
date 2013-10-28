@@ -7,18 +7,20 @@ subtitulo: Hola
 published: true
 ---
 
-# Somos un Colegio privado, bilingüe, laico y mixto
+# Somos un colegio privado, bilingüe, laico y mixto
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
 ## Fundado en el año 1983 con el objetivo de ofrecer a las familias, la posibilidad de elegir para sus hijos una educación de calidad, basada en el estímulo y en el fortalecimiento de los vínculos afectivos.
 
-## Nuestra Misión 
+### Nuestra Misión 
+
 Nuestra misión es educar a nuestros alumnos para que adquieran una sólida base de conocimientos, competencias y habilidades, posean un carácter firme e íntegro y desarrollen al máximo sus potencialidades personales, en pos de estar capacitados para alcanzar una vida plena, sana, y productiva.   
 
 Para llevarla a cabo, nos esforzamos diariamente en dar lo mejor de nosotros, basando nuestro trabajo en cinco pilares que consideramos de fundamental importancia: la calidad académica, el bienestar emocional, la salud física, la responsabilidad social, y la integridad ética y moral.
 
-## Nuestra Visión
+### Nuestra Visión
+
 Ser una Institución en donde la calidad y la mejora continua, estén presentes en la ejecución de cada una de las tareas realizadas.  Cultura Ad Altiora.
 
 Ser un colegio exigente, motivador y  contenedor, de  ambiente cálido,  amigable y  solidario. Pujante, coherente e innovador.

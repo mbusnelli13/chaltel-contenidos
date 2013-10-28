@@ -1,6 +1,15 @@
-## Abiertos a la comunidad
+---
+layout: default
+title: Membresías y Acuerdos
+submenu: nosotros
+titular: Bienvenidos
+subtitulo: Hola
+published: true
+---
 
-## Copete
+# Abiertos a la comunidad
+
+## Esto es un copete, respetar el largo del párrafo (aprox). Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.
 
 ### Membresías
 
