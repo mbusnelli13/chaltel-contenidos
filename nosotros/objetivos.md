@@ -1,3 +1,12 @@
+---
+layout: default
+title: Objetivos
+submenu: nosotros
+titular: Bienvenidos
+subtitulo: Hola
+published: true
+---
+
 # Objetivos Institucionales
 
 ## En función del cumplimiento de la misión institucional se propone:
