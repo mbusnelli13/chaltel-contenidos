@@ -2,17 +2,29 @@
 <h4>Admisiones</h4>
 <ul class="side-nav">
     <li {% if page.url == "/admisiones/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones">Bienvenidos</a></li>
-    <li {% if page.url == "/admisiones/proceso/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/proceso">Proceso de admisión</a></li>
-    <li {% if page.url == "/admisiones/eventos/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/eventos">Eventos de admisiones</a></li>
-    <li {% if page.url == "/admisiones/nuevas-familias/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/nuevas-familias">Nuevas familias</a></li>
-    <li {% if page.url == "/admisiones/preguntas/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/preguntas">Preguntas frecuentes</a></li>
+    <li {% if page.url == "/admisiones/proceso/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/proceso">Proceso de admisión</a>
+        <ul>
+            <li {% if page.url == "/admisiones/entrevista/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/entrevista">Entrevista inicial</a></li>
+            <li {% if page.url == "/admisiones/solicitud/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/solicitud">Solicitud de admision</a></li>
+        </ul>
+    </li>
+    <li {% if page.url == "/admisiones/eventos/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/eventos">Eventos de admisión</a></li>
+    <li {% if page.url == "/admisiones/informacion-administrativa/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/informacion-administrativa">Información administrativa</a>
+        <ul>
+            <li {% if page.url == "/admisiones/informacion-administrativa/aranceles/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/informacion-administrativa/aranceles">Aranceles</a></li>
+            <li {% if page.url == "/admisiones/informacion-administrativa/horarios/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/informacion-administrativa/horarios">Horario escolar</a></li>
+            <li {% if page.url == "/admisiones/informacion-administrativa/ingreso-y-salida/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/informacion-administrativa/ingreso-y-salida">Ingresos y salidas</a></li>
+        </ul>
+    </li>
+  
+    
+   
+
     <li {% if page.url == "/admisiones/contacto/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/contacto">Contacto</a></li>
-    <li {% if page.url == "/admisiones/entrevista/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/admisiones/entrevista">Solicitud de entrevista</a></li>
 </ul>
 
 <div class="quick-actions">
-    <a href="{{ site.baseurl }}/admisiones/entrevista" class="large button">Visitá el Colegio</a>
+    <a href="{{ site.baseurl }}/admisiones/entrevista" class="large button">Solicitar una entrevista</a>
     <a href="{{ site.baseurl }}/admisiones/proceso" class="large button">¿Cómo inscribirse?</a>
-	<a href="{{ site.baseurl }}/admisiones/contacto" class="large button">Contacto de admisiones</a>
 </div>
 

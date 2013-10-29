@@ -2,7 +2,14 @@
 <h4>Proyecto educativo</h4>
 <ul class="side-nav">
     <li {% if page.url == "/proyecto-educativo/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/proyecto-educativo">Proyecto educativo</a></li>
-    <li {% if page.url == "/proyecto-educativo/niveles-academicos/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/proyecto-educativo/niveles-academicos">Niveles académicos</a></li>
+    <li {% if page.url == "/proyecto-educativo/niveles-academicos/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/proyecto-educativo/niveles-academicos">Niveles académicos</a>
+		<ul class="submenu">
+		    <li {% if page.url == "/proyecto-educativo/niveles-academicos/inicial/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/proyecto-educativo/niveles-academicos/inicial">Nivel inicial</a></li>
+			<li {% if page.url == "/proyecto-educativo/niveles-academicos/primaria/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/proyecto-educativo/niveles-academicos/primaria">Primaria</a></li>
+			<li {% if page.url == "/proyecto-educativo/niveles-academicos/secundaria/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/proyecto-educativo/niveles-academicos/secundaria">Secundaria</a></li>
+		</ul>
+
+    </li>
     <li {% if page.url == "/proyecto-educativo/actividades/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/proyecto-educativo/actividades">Actividades</a>
 
         <ul class="submenu">
@@ -10,6 +17,9 @@
         </ul>
     </li>
 </ul>
+<div class="quick-actions">
+    <a href="{{ site.baseurl }}/nosotros/tour" class="large button">Tour Virtual</a>
 
+</div>
 
 

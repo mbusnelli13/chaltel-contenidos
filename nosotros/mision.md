@@ -7,11 +7,11 @@ subtitulo: Hola
 published: true
 ---
 
-# Somos un colegio privado, bilingüe, laico y mixto
+# Misión y Visión
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
-## Fundado en el año 1983 con el objetivo de ofrecer a las familias, la posibilidad de elegir para sus hijos una educación de calidad, basada en el estímulo y en el fortalecimiento de los vínculos afectivos.
+## Brindamos una educación de calidad, basada en el estímulo y en el fortalecimiento de los vínculos afectivos.
 
 ### Nuestra Misión 
 

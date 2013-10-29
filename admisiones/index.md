@@ -11,14 +11,22 @@ published: true
  
 ![Foto de ...](http://placeimg.com/720/300/arch)
 
-## Esto es un copete, respetar el largo del párrafo. Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.
+Gracias por su interés en nuestro Colegio.  
 
-### ¿Por qué el Chaltel?
+En el Chaltel, entendemos que la elección de un Colegio, es una decisión  muy importante y trascendente en la vida de una familia. Es por eso, que hemos diseñado un proceso de admisión, con la intención de  ayudarlos a evaluar juntos, si nuestro proyecto resulta la alternativa más adecuada para la educación de sus hijos y las aspiraciones de su familia. 
 
-Punteo de 5 razones breves.
+Los invitamos a explorar  esta sección esperando poder conocernos personalmente.
 
-- 1
-- 2
-- 3
-- 4
-- 5
+Cordialmente.
+
+FIRMA  
+Fasdkjlaskd ASasA   
+Directora de Admisiones
+
+--- 
+
+### ¿Que desea hacer?
+- [Visitarnos personalmente](/admisiones/entrevista) 
+- [Solicitar más información](/admisiones/contacto)
+- [Iniciar el proceso de admisión](/admisiones/proceso) 
+

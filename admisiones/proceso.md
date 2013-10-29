@@ -15,29 +15,30 @@ published: true
 Con el fin de orientarlos adecuadamente, a continuación, se plantean algunos aspectos relevantes del proceso de admisión:
 
 ---
+[Personas entrevista]
+### 1. Entrevista inicial. Primer contacto personal.
+El trato personal y dedicado es una de nuestras características principales, es por eso que  invitamos a los padres interesados en conocer personalmente el Colegio y/o obtener mayor información sobre nuestra propuesta educativa, a una entrevista inicial, a cargo de la Directora General , en donde se les brindará toda la información necesaria,  podrán  evacuar las dudas y/o inquietudes personales y  realizar una visita guiada por las instalaciones del Colegio.  
 
-### 1. Solicitud de entrevista inicial
-Podrá iniciar formalmente el proceso de admisión comunicándose con la Sra. Sandra Gutierrez de Administración al teléfono 4 748 3153 int.114 de lunes a viernes de 8:00 a 12:00 y de 13:00 a 16:00 hs.
-
-[Llamado telefónico]()
-
-[Solicitar entrevista para visitar el Colegio]()
+[Solicitar entrevista inicial](/admisiones/entrevista)
 
 ---
+[Computadora]
+### 2. Solicitud de Admisión
 
-### 2. Entrevista inicial (Visita al Colegio)
+Mantenida la entrevista inicial, podrá continuar formalmente con el proceso de admisión. Para ello, deberá completar online la ‘Solicitud de Admisión’.  
 
-¿Qué es la entrevista inicial?
+De esta manera quedará formalizado su interés en el Colegio y nos permitirá  ponernos en contacto con usted para coordinar el próximo encuentro con su hijo/a.
 
-Texto...
+[Completar solicitud de admisión](/admisiones/solicitud).
 
-[Link a ubicación]()
+
+
 
 ---
-
+[Persona entrevista a niño]
 ### 3. Entrevista pedagógica con el alumno/a
 
-Confirmada la intención de ingreso y la vacante disponible, recibirá un llamado de la Dirección, en donde le indicarán la fecha y el horario en que su hijo/a deberá concurrir al Colegio para mantener una entrevista pedagógica con la Directora y la Psicopedagoga de la sección correspondiente.
+Confirmada la intención de ingreso y en caso de existir vacante disponible, nos comunicaremos con usted,  para indicarle la fecha y el horario en que su hijo/a deberá concurrir  al Colegio para mantener la entrevista pedagógica con la Directora y la Psicopedagoga de la sección correspondiente.Paralelamente, recibirá un e-amail con los requisitos necesarios.
 
 #### Tipo de entrevista por nivel:
 
@@ -48,48 +49,53 @@ Confirmada la intención de ingreso y la vacante disponible, recibirá un llamad
 
 #### Primaria
 
-- Evaluación de aspectos pedagógicos y madurativos. Áreas de lengua, matemática e inglés 
+- Evaluación de aspectos pedagógicos y madurativos. Áreas de lengua, matemática e inglés  
 
 #### Secundaria
 
-- Evaluación de aspectos pedagógicos y madurativos. Áreas de lengua, matemática e inglés 
+- Evaluación de aspectos pedagógicos y madurativos. Áreas de lengua, matemática e inglés  
 
 ---
-
+[Anotador]
 ### 4. Resultado
 
-Una vez que el alumno/a haya finalizado la entrevista pedagógica, el equipo directivo se reunirá para analizar y definir el resultado del proceso. El mismo, será comunicado a los padres de familia por la Dirección del Colegio en un plazo máximo de 5 (cinco) días hábiles. 
+Una vez que el alumno/a haya finalizado la entrevista pedagógica, el equipo directivo se reunirá para analizar y definir el resultado del proceso. El mismo, será comunicado telefónicamente a los padres en un plazo máximo de 10 (cinco) días hábiles.
 
 ---
-
+[Lapiz]
 ### 5. Incripción
 
-Cumplidos estos requisitos positivamente, están dadas las condiciones para realizar la inscripción. Para ello, deberá: 
+Cumplidos estos requisitos, están dadas las condiciones para realizar la inscripción del/los alumno/s. Para ello, deberá:   
 
-1) Presentar en la Administración del Colegio: 
+**1) Presentar en la Administración del Colegio:**
 
 - [Solicitud de Inscripción]() (Un ejemplar por familia: Completa y firmada por ambos padres) 
 - Fotocopias del DNI de cada hijo/a ( 1ra y 2da hoja) 
 - Certificado de libre de deuda (del Colegio anterior) 
 
-2) Abonar la matrícula correspondiente (ver anexo [Política de Aranceles]())
+**2) Abonar la matrícula correspondiente (ver [Aranceles educativos]())**
 
-Con todo esto terminado, ver [Informacion de familias nuevas]()
 
----
-
-### Reserva de vacante
-
-El Colegio reservará la vacante del alumno/a admitido, por un plazo de 10 días hábiles. Una vez superado el plazo, la vacante quedará nuevamente disponible. 
 
 ---
 
-### Cronograma
 
-El período de matriculación se realiza todo el año. Aceptamos solicitudes de admisión para el ingreso al ciclo lectivo en curso y los dos subsiguientes.
+## Generalidades
 
----
+
+### Cronograma de Admisiones
+
+El periodo de entrevistas iniciales se realiza durante todo el año. Aceptamos solicitudes de admisión para el ingreso al ciclo lectivo en curso y los dos subsiguientes. [Si quiere solicitar una entrevista inicial por favor hacer click aquí](/admisiones/entrevista).
+
 
 ### Prioridad
 
-La prioridad en la admisión al colegio será otorgada a hermanos de alumnos e hijos de ex alumnos, siempre y cuando contemos con disponibilidad de vacantes y luego los aspirantes que hayan superado todas las instancias del proceso: entrevistas académicas, presentación de documentación y pago de la matrícula correspondiente.
+La prioridad en la Admisión será otorgada a  hermanos de alumnos regulares,  hijos de exalumnos y luego, cuando se cuente con disponibilidad de vacantes, a los aspirantes que hayan superado todas las instancias del proceso de admisión.
+
+
+### Reserva de la vacante
+
+El ingreso efectivo al  Colegio dependerá de la disponibilidad de vacantes y se formalizará mediante la entrega de la documentación requerida y el pago de la matricula correspondiente. El Colegio reservará la vacante del alumno/a admitido, por un plazo de 10 días hábiles luego de la comunicación del resultado positivo del proceso a las familias. Una vez superado el plazo, la vacante quedará  nuevamente disponible.  
+
+
+

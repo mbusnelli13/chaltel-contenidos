@@ -7,7 +7,9 @@ subtitulo: "Hola"
 published: true
 ---
 
-# Visitá el Colegio
+# Visita el Colegio
+
+![Foto de ...](http://placeimg.com/720/300/people)
 
 ## Te invitamos a conocer… Tenés la [opcion de llamar por teléfono](/admisiones/contacto).
 
@@ -26,33 +28,7 @@ Nombre
 
 Apellido
 
-Profesión/ Ocupación
-
-Lugar de trabajo
-
-Teléfono móvil
-
-Teléfono fijo
+Teléfono de contacto
 
 E-mail
 
-
-#### Datos del hijo/a (1)
-
-Nombre
-
-Apellido
-
-Fecha de Nacimiento
-
-Edad
-
-Sala/año al que ingresaría
-
-Turno (mañana / tarde)
-
-Año de Ingreso
-
-Establecimiento del cual proviene
-
-Información adicional
