@@ -1,60 +1,112 @@
 ---
-layout: default
-title:  "Welcome to Jekyll!"
-
+layout: right
+title:  "Portal de Alumnos"
 titular: "Bienvenidos"
+submenu: alumnos
 subtitulo: "Hola"
 
 ---
 
-# Alumnos
+# Bienvenidos
  
-**[Foto]**
+![Foto de ...](http://placeimg.com/720/300/people)
 
-**Este es un texto de introducción. Estaría bueno que tenga links en medio del parrafo.**
+## Este es un texto de introducción. Estaría bueno que tenga links en medio del parrafo.
 
-## Links útiles
+### Accesos directos
 
-**Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.**
+Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
 
----
 
-### Moodle
-**[Icono Moodle]**
-
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
-
-[Campus Virtual (Moodle)]()
-
----
-
-### Google Drive
-**[Icono Google Drive]**
+#### [Campus Virtual]()
+**[Icono librito]**
 
 Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
 
-[Google Drive]()
+---
+
+#### [Información Académica]()
+**[Icono Computadora]**
+
+Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
 
 ---
 
-## Back to School Notes
+#### [Google Apps]()
+**[Icono Google Apps]**
 
-**Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.**
+Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
 
-### Descargas
+---
+[CLAVE]
+#### [Comunicaciones Institucionales]()
+**[Icono Comunicaciones]**
 
-[Back to School Notes Nivel Inicial]()
-
-[Back to School Notes Primaria]()
-
-[Back to School Notes Secundaria]()
+Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
 
 ---
 
-## Comedor escolar
+#### [Documentos Importantes]()
+**[Icono Documentos]**
+
+Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+
+---
+
+
+#### [Help desk]()
+**[Icono help]**
+
+Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+
+---
+
+
+### Back to School Notes
+
+Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+
+#### Descargas
+
+[Back to School Notes - Nivel Inicial]() 
+
+[Listado de Materiales - Nivel Inicial]() 
+
+[Back to School Notes - Primaria]()
+
+[Listado de Materiales - Primaria]() 
+
+[Back to School Notes - Secundaria]()
+
+[Listado de Materiales - Secundaria]() 
+
+---
+
+### Reglamento interno
+
+Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+
+#### Descargas
+
+[Reglamento Interno - Nivel Inicial]() 
+
+[Reglamento Interno - Nivel Primario]() 
+
+[Reglamento Interno - Nivel Secundario]()
+
+
+---
+
+
+
+
+### Comedor escolar
 
 **Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.**
-
-### Descargas
 
 [Menú comedor Enero 2014]()
+
+[Listado de precios]()
+
+
+

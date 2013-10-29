@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="description" content="">
+        <!-- NO INDEX -->
+        <meta name="robots" content="noindex" />
+        <meta name="viewport" content="width=device-width">
+        <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
+        <script type="text/javascript" src="{{ site.baseurl }}/scripts/vendor/modernizr-2.6.2.min.js"></script>
+        <script type="text/javascript" src="//use.typekit.net/yuc2bpi.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    </head>
+    <body>
+        {% include header.html %}
+            
+        <div id="content">
+
+            <nav class="breadcrumb">
+                <ul>
+                    <li><a href="/">Inicio</a></li>
+                   
+                </ul>
+            </nav>
+
+            <section class="main">
+                {{ content }}
+            </section>
+
+
+            <!-- Submenues -->
+            {% if page.submenu == 'alumnos'  %}
+            <aside class="navigation">
+                {% include alumnos.nav.html %}
+            </aside>
+            {% endif %}
+            
+            {% if page.submenu == 'admisiones'  %}
+            <aside class="navigation">
+                {% include admisiones.nav.html %}
+            </aside>
+            {% endif %}
+
+            {% if page.submenu == 'proyecto'  %}
+            <aside class="navigation">
+                {% include proyecto.nav.html %}
+            </aside>
+            {% endif %}
+
+            {% if page.submenu == 'exalumnos'  %}
+            <aside class="navigation">
+                {% include exalumnos.nav.html %}
+            </aside>
+            {% endif %}
+
+
+
+        </div><!-- #content -->
+            
+        {% include footer-nav.html %}
+        
+        </div><!-- #container -->
+    
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+        
+        <script src="{{ site.baseurl }}/scripts/vendor/foundation.min.js"></script>
+        <script src="{{ site.baseurl }}/scripts/plugins.js"></script>
+        <script src="{{ site.baseurl }}/scripts/main.js"></script>
+
+
+    </body>
+</html>
