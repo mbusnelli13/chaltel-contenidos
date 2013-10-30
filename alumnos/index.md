@@ -11,7 +11,7 @@ subtitulo: "Hola"
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
-## Este es un texto de introducción. Estaría bueno que tenga links en medio del parrafo.
+
 
 ### Accesos directos
 
@@ -39,7 +39,7 @@ Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolo
 
 ---
 [CLAVE]
-#### [Comunicaciones Institucionales]()
+#### [Comunicaciones a los Padres]()
 **[Icono Comunicaciones]**
 
 Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.

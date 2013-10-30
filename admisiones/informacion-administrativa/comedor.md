@@ -14,7 +14,9 @@ El servicio del Comedor, bar y quiosco está concesionado a la Sra. Gladys Tula 
 El menú diario consta de un plato principal –que se puede repetir–, pan, agua y postre. Se prioriza la incorporación de verduras, ya sea en forma de bocaditos, salteados o ensaladas, y se busca minimizar la cantidad de frituras para que la dieta sea más saludable. Así mismo, se ofrece diariamente fruta como alternativa de postre.
 
 El servicio de Bar ofrece comidas rápidas (empanadas, tartas, ensaladas, pizzetas, etc.).
-Aquellos alumnos que requieran una dieta especial, ya sea en forma ocasional o permanente, pueden solicitarlo.  El servicio de comedor es optativo; las familias pueden optar también por la modalidad de viandas (servicio arancelado).
+Aquellos alumnos que requieran una dieta especial, ya sea en forma ocasional o permanente, pueden solicitarlo.
+
+El servicio de comedor es optativo; las familias pueden optar también por la modalidad de viandas (servicio arancelado).
 
 [Ficha de contacto]
 

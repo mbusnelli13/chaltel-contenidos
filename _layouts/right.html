@@ -38,24 +38,17 @@
             </aside>
             {% endif %}
             
-            {% if page.submenu == 'admisiones'  %}
+            {% if page.submenu == 'padres'  %}
             <aside class="navigation">
-                {% include admisiones.nav.html %}
+                {% include padres.nav.html %}
             </aside>
             {% endif %}
 
-            {% if page.submenu == 'proyecto'  %}
-            <aside class="navigation">
-                {% include proyecto.nav.html %}
-            </aside>
-            {% endif %}
-
-            {% if page.submenu == 'exalumnos'  %}
-            <aside class="navigation">
-                {% include exalumnos.nav.html %}
-            </aside>
-            {% endif %}
-
+           {% if page.submenu == 'staff'  %}
+           <aside class="navigation">
+               {% include alumnos.nav.html %}
+           </aside>
+           {% endif %}
 
 
         </div><!-- #content -->

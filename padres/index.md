@@ -1,134 +1,210 @@
 ---
-layout: default
-title: "Welcome to Jekyll!"
-titular: Bienvenidos
-subtitulo: Hola
-published: true
+layout: right
+title:  "Portal de Padres"
+titular: "Bienvenidos"
+submenu: padres
+subtitulo: "Hola"
+
 ---
 
-# Portal para padres
+# Bienvenidos
  
-**Este es un texto de introducción. Estaría bueno que tenga links en medio del parrafo.**
-
 ![Foto de ...](http://placeimg.com/720/300/people)
 
-## Links útiles
-**Este es un texto de introducción. Respetar la longitud (aprox). Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.**
 
 
----
+### Accesos directos
 
-### Moodle
-**[Icono Moodle]**
+Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
 
-Texto explicativo/introducción. Esta longitud aprox. Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
 
-[Campus Virtual (Moodle)]()
-
----
-
-### Comtrack
-**[Icono Comtrack]**
-
-Texto explicativo/introducción. Esta longitud aprox. Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
-
-[Comtrack]()
-
----
-
-### Redes
-**[Icono Redes]**
-
-Texto explicativo/introducción. Esta longitud aprox. Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
-
-[Redes]()
-
----
-
-### Helpdesk
-**[Icono Helpdesk]**
-
-Texto explicativo/introducción. Esta longitud aprox. Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
-
-[Helpdesk]()
-
----
-
-### Google Drive
-**[Icono Google Drive]**
-
-Texto explicativo/introducción. Esta longitud aprox. Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
-
-[Google Drive]()
-
----
-
-### Schooltracks
-**[Icono Schooltracks]**
+#### [Campus Virtual]()
+**[Icono librito]**
 
 Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
 
-[SchoolTracks]()
+---
+
+#### [Información Académica]()
+**[Icono Computadora]**
+
+Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
 
 ---
 
-## Documentos útiles
+#### [Información Administrativa]()
+**[Icono]**
 
-Este es un texto de introducción. Respetar la longitud (aprox). Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
 
-### Descargas
+---
+[CLAVE]
+#### [Comunicaciones Institucionales]()
+**[Icono Comunicaciones]**
 
-[Apto médico]()
+Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
 
-[Permiso salidas y excursiones]()
+---
+[CLAVE]
+#### [Documentos Importantes]()
+**[Icono Documentos]**
 
-[Reglamento de Convivencia]()
-
-[Uniforme Escolar]()
-
-[Más documentos]()
+Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
 
 ---
 
-## Links útiles
 
-Este es un texto de introducción. Respetar la longitud (aprox). Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+#### [Help desk]()
+**[Icono help]**
 
-### Descargas
-
-[Documentos útiles]()
-
-[Comunicaciones(CANDADO)]()
-
-[Instructivos]()
-
-[Back to School Notes (CANDADO)]()
+Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
 
 ---
 
-## Comedor Escolar
 
-Este es un texto de introducción de longitud variable.
+### Back to School Notes
 
-### Descargas
+Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
 
-[Menú comedor Enero 2013]()
+#### Descargas
 
-**Contacto Conseción Comedor Escolar**
+[Back to School Notes - Nivel Inicial]() 
 
-- Sra. Gladys Tula:15 5942 4694
+[Listado de Materiales - Nivel Inicial]() 
 
-- Sr. Alan Maurel: 15 4028 2814
+[Back to School Notes - Primaria]()
 
-- Horarios de Atención: Lunes a Viernes de 8:00 a 15:00 hs.
+[Listado de Materiales - Primaria]() 
+
+[Back to School Notes - Secundaria]()
+
+[Listado de Materiales - Secundaria]() 
 
 ---
 
-## Transporte
 
-El servicio de transporte es prestado por empresas de transporte escolar, y es contratado directamente por los padres de los alumnos.
+### Room Mothers
 
-**Transportistas**
+Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
 
-- Ricardo Márques: 15 5700 6129 / 4748 6266
-- Ricardo Roco: 15 5995 1349 / 4741 2227
+#### Descargas 
+
+[Room Mothers - Nivel Inicial]() [CLAVE]
+
+[Room Mothers - Nivel Primario]() [CLAVE]
+
+[Room Mothers - Nivel Secundario]() [CLAVE]
+
+
+---
+
+### Reglamento interno
+
+Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+
+#### Descargas
+
+[Reglamento Interno - Nivel Inicial]() 
+
+[Reglamento Interno - Nivel Primario]() 
+
+[Reglamento Interno - Nivel Secundario]()
+
+
+---
+
+
+### Comedor escolar
+
+[Menú comedor Enero 2014]()
+
+[Listado de precios]()
+
+**Contacto:** 	
+Sra. Gladys Tula: 15 5942 4694  
+Sr. Alan Maurel: 15 4028 2814  
+
+**Email:** 
+
+**Horarios de Atención:** Lunes a Viernes de 8:00 a 15:00 hs.
+
+---
+
+### Transporte
+
+
+
+**Contacto:** 	
+Sra. Gladys Tula: 15 5942 4694  
+Sr. Alan Maurel: 15 4028 2814  
+
+**Email:** 
+
+**Horarios de Atención:** Lunes a Viernes de 8:00 a 15:00 hs.
+
+
+---
+
+### Información de contacto
+
+Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+
+#### Recepción
+Nombre  
+Mail  
+Telefono  
+
+#### Dirección General
+
+Alejandra Tuca  
+Mail  
+Telefono  
+
+
+#### Dirección Nivel Inicial  
+
+**Castellano**  
+Nombre  
+Mail  
+Telefono  
+
+**Inglés**  
+Nombre  
+Mail  
+Telefono  
+
+#### Dirección Primaria  
+
+**Castellano**  
+Nombre  
+Mail  
+Telefono  
+
+**Inglés**  
+Nombre  
+Mail  
+Telefono  
+
+#### Dirección Secundaria
+
+Nombre  
+Mail  
+Telefono  
+
+#### Departamento de Educación Física
+
+Nombre  
+Mail  
+Telefono  
+
+#### Administración
+
+Nombre  
+Mail  
+Telefono  
+
+#### Departamento de Comunicación y Desarrollo
+
+Nombre  
+Mail  
+Telefono  
