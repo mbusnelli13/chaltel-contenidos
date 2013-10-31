@@ -34,17 +34,18 @@ Mas...
 ---
 
 [Flechas para fotos]
-
+6 imagenes rotativas y que puedan ser administrables
+frases que cambian con las imagenes..
 
 ---
 
 - Novedades (x3) - Ver mas novedades
-- Spotlight
+- "Spotlight"
 - Próximos eventos - Ver calendario
 
 ---
 
-## Somos un colegio privado, bilingüe, mixto y laico.
+## Somos un colegio privado, bilingüe, laico y mixto.
 
 Texto...
 
