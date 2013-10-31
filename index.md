@@ -53,13 +53,13 @@ Texto...
 - Descripción abreviada
 - Niveles academicos
 - Activididades
-- Vida Escolar - a galerias
+- Vida Escolar - a galerias de imágenes
 
 ---
 
 ### Dirección  
 Escudo a la izquierda  
-
+Don Torcuato. Tigre
 Telefono 4444444 y rot.  
 
 ### Contacto [Link al formulario]
@@ -84,10 +84,10 @@ Sacar redes sociales y poner los portales
 - Campus Virtual
 - Información Académica
 - Información Administrativa
-- Comunicaciones
-- Documentos
+- Comunicaciones Institucionales
+- Documentos Importantes
 - Blogs
-- Help Desk
+- Help Desk > link a zendesk
 
 
 Todos los derechos reservados. Politica de confidencialidad.
