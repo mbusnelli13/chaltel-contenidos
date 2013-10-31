@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Your New Jekyll Site
+published: true
 ---
 
 # Home
@@ -33,7 +34,7 @@ Mas...
 ---
 
 [Flechas para fotos]
-[Video en la home]
+
 
 ---
 
