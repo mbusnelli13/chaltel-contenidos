@@ -9,9 +9,7 @@ published: true
 
 # Descripción Abreviada
 
-
-### Modalidad
-El Chaltel es un colegio privado, bilingüe (castellano – inglés), mixto y laico.  
+## El Chaltel es un colegio privado, bilingüe (castellano – inglés), mixto y laico.  
 
 ### Año de Fundación
 Fue fundado en el año 1983.
