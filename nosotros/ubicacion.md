@@ -9,7 +9,7 @@ published: true
 
 # En el corazón de Don Torcuato
  
-## Llegar al Chaltel es simple y seguro. Está ubicado sobre la calle Meléndez a 1 (una) cuadra de la Av. Marcelo T. de Alvear (Ruta 202) y a 7 minutos en auto desde la Panamericana (13 cuadras). A mitad de camino entre Villa de Mayo (CUBA) y Nordelta. 
+## Llegar al Chaltel es simple y seguro. Está ubicado sobre la calle Meléndez a 1 (una) cuadra de la Av. Marcelo T. de Alvear (Ruta 202) y a 7 minutos en auto de la Panamericana (13 cuadras). A mitad de camino entre Villa de Mayo (CUBA) y Nordelta. 
 
 
 Lucio Meléndez 1617 de Don Torcuato, Partido de Tigre
