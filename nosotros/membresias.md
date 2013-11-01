@@ -7,7 +7,7 @@ subtitulo: Hola
 published: true
 ---
 
-# Acuerdos y Membresías
+# Membresías y Acuerdos  
 
 ## Esto es un copete, respetar el largo del párrafo (aprox). Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.
 
