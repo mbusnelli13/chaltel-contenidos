@@ -14,4 +14,4 @@ published: true
 <iframe width="720" height="405" src="//www.youtube.com/embed/hMHJ5aUg9Nk" frameborder="0" allowfullscreen></iframe>
 
 
-Un poco de texto adicional sobre el video
+Video realizado en conmemoración al festejo del cumplimiento de los 30 años del Colegio. 
