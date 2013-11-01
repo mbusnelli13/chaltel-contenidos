@@ -9,7 +9,7 @@ published: true
 
 # Breve reseña histórica
  
-## Fundado en 1983, con el objetivo de ofrecer a las familias de Don Torcuato y alrededores, una opción educativa bilingue basada en  la excelencia académica, el bienestar emocional, la salud física  y la integridad ética y moral.
+## El Chaltel fue fundado en 1983 por..... , con el objetivo de ofrecer a las familias de Don Torcuato y alrededores, la primer opción educativa de gestión privada, bilingüe, mixta y laica de la zona. 
 
 ###1983 
 - La labor educativa se inicia en una casa-quinta ubicada en la Calle Chile, con sala 2 salas y 15 alumnos.
