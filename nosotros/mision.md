@@ -17,8 +17,6 @@ published: true
 
 Educar a nuestros alumnos para que adquieran una sólida base de conocimientos, competencias y habilidades, posean un carácter firme e íntegro y desarrollen al máximo sus potencialidades personales, en pos de estar capacitados para alcanzar una vida plena, sana, y productiva.   
 
-Para llevarla a cabo, nos esforzamos diariamente en dar lo mejor de nosotros, basando nuestro trabajo en cinco pilares que consideramos de fundamental importancia: la calidad académica, el bienestar emocional, la salud física, la responsabilidad social, y la integridad ética y moral.
-
 ### Nuestra visión es:
 
 Ser una Institución en donde la calidad y la mejora continua, estén presentes en la ejecución de cada una de las tareas realizadas.  Cultura "Ad Altiora".
