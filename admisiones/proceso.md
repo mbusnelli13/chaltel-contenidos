@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to Jekyll!"
+title: Proceso de Admisión
 submenu: admisiones
 titular: Bienvenidos
 subtitulo: Hola
