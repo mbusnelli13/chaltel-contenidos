@@ -9,26 +9,26 @@ published: true
 
 # Breve reseña histórica
  
-## Fundado en 1983, con el objetivo de ofrecer a las familias de Don Torcuato y alrededores, una opción educativa bilingue basada en la excelencia academica, el bienestar emocional, la salud fisica y la integridad etica y moral. 
+## Fundado en 1983, con el objetivo de ofrecer a las familias de Don Torcuato y alrededores, una opción educativa bilingue basada en  la excelencia académica, el bienestar emocional, la salud física  y la integridad ética y moral.
 
 ###1983 
 - La labor educativa se inicia en una casa-quinta ubicada en la Calle Chile, con sala 2 salas y 15 alumnos.
 
 ###1986
 - Se adquiere el predio de L. Meléndez 1617 y comienza la construcción del edificio principal.
-- Egresan los alumnos de la primera promoción de Junior School.
+- Egresan los alumnos de la primera promoción de Junior School. 
 
 ###1988
-- Se inauguran las nuevas instalaciones de Junior y Senior School.
+- Se inauguran las nuevas instalaciones de Primaria y Secundaria.
 - Se habilita el primer gabinete de informática.
-- Se inicia la sección Secundaria - Senior School.
+- Se inicia la sección Secundaria.
 
 ###1990
 - Se adquiere y recicla la casa contigua al colegio para destinarla al nuevo laboratorio de biología y se habilita el playón polideportivo para utilizarlo como minicancha de fútbol, basquet, hockey y handball.
 
 ###1992
 - Egresan los alumnos de la Primera Promoción de Bachilleres.
-- Se Inaugura el nuevo edificio de Kindergarten
+- Se Inaugura el nuevo edificio de Nivel Inicial
 - Se habilita el laboratorio y las salas de actividades especiales que son trasladadas (arte y música) a la nueva ampliación.
 
 ###1994
@@ -36,7 +36,7 @@ published: true
 - El colegio es nombrado sede de la Universidad de Cambridge para tomar los exámenes P.E.T., F.C.E. y I.G.C.S.E.
 
 ###1996
-- Se edita el ideario del colegio, sintetizando los principios que sustentan nuestra misión como educadores.
+- Se re-edita el ideario del colegio, sintetizando los principios que sustentan nuestra misión como educadores.
 
 ###1997
 - Se incorpora el lote aledaño al edificio principal para realizar actividades gimnásticas y recreativas.
@@ -72,3 +72,6 @@ published: true
 ###2012
 - Se inaugura un nuevo acceso sobre la calle Entre Ríos, exclusivo para el Nivel Inicial. Además de una "calle interna" que permite la comunicación entre edificios de manera segura, cómoda y ordenada.
 - Se equipa al Laboratorio de Informática (Primaria y Secundaria), con nuevo Hardware, Software y monitores LED.
+
+###2013
+- ...
