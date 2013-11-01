@@ -28,7 +28,7 @@ Los historiadores parecen coincidir en cuanto a las razones de la creación de D
 
 Esas tierras, que eran aproximadamente 4500 hectáreas y que iban desde el actual Hindú Club hasta la calle Buschiazzo y desde la zona de Bancalari hasta el hoy llamado Puente Negro,  dieron  lugar al primer loteo que sentarían las bases del nuevo pueblo, al que el presidente decidió llamar Don Torcuato en homenaje a su padre. 
 
-### Crecimos juntos...
-En el año 1983, ubicados en una pequeña casa quinta de la calle Chile, rodeada de verde, arboles, caminos de  polvo de ladrillo rojo y calles de tierra, fuimos el primer Colegio Privado Bilingüe en instalarse en la zona.
+### Juntos
+En el año 1983, ubicados en una pequeña casa quinta de la calle Chile, rodeada de casas quintas, mucho verde y calles de tierra, fuimos el primer Colegio Privado Bilingüe en instalarse en la zona.
 
-Crecimos con el barrio, y sostenemos, al igual que los antiguos vecinos, que la esencia de pueblo aún se respira en este centro urbano que hoy  cuenta con más de 100.000 habitantes y una oferta de todo tipo de servicios y propuestas comerciales que completan un esquema en el que se combinan la vida en el “verde” con la vida de una “ciudad/pueblo”, emplazada a tan solo 30 minutos en auto de la Capital Federal.
+Crecimos y maduramos junto al barrio, y sostenemos, al igual que los antiguos vecinos, que la esencia de pueblo aún se respira en este centro urbano que hoy cuenta con más de 100.000 habitantes y una oferta de todo tipo de servicios y propuestas comerciales, que completan un esquema en el que se combinan la vida en el “verde” con la vida de una “ciudad/pueblo”, emplazada a tan solo 30 minutos en auto de la Capital Federal.
