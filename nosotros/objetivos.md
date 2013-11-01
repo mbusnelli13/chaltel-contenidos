@@ -29,4 +29,4 @@ published: true
 - Fomentar una organización institucional que aprenda, que aspire a la mejora continua, que gestione con eficiencia y eficacia, que se caracterice por trabajar en un clima en donde prevalezca el bien común, la autogestión, la colaboración,  la confianza, la creatividad, el trabajo en equipo y en donde  exista un tipo de comunicación entre pares clara, precisa, sincera y permanente (política de puertas abiertas). 
 
 ### Respecto de la comunidad Educativa:
-- Promover una interacción sana, constructiva y enriquecedora entre la institución y todos los miembros de la comunidad canalizando sus intereses y necesidades educativas , culturales y sociales.
+- Promover una interacción sana, constructiva y enriquecedora entre la institución y todos los miembros de la comunidad, canalizando sus intereses y necesidades educativas, culturales y sociales.
