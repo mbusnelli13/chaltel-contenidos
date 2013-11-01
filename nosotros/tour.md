@@ -9,7 +9,7 @@ published: true
 
 # Tour Virtual
  
-## Contamos con edificios diseñados y construidos especialmente para la actividad educativa, comunicados entre sí, por espacios recreativos diferenciados por uso y nivel de enseñanza. 
+## Contamos con edificios diseñados y construidos especialmente para la actividad educativa, que crean una atmosfera y clima ideal para el intercambio, el aprendizaje y la realización de diversas actividades diarias. 
 
 [Ver los thumbnails de cada foto con el nombre de la foto: Ej: biblioteca]
 ![Foto de ...](http://placeimg.com/50/50/people)
