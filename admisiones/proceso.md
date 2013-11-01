@@ -19,7 +19,7 @@ Con el fin de orientarlos adecuadamente, a continuación, se plantean algunos as
 ### 1. Entrevista inicial. Primer contacto personal.
 El trato personal y dedicado es una de nuestras características principales, es por eso que  invitamos a los padres interesados en conocer personalmente el Colegio y/o obtener mayor información sobre nuestra propuesta educativa, a una entrevista inicial, a cargo de la Directora General , en donde se les brindará toda la información necesaria,  podrán  evacuar las dudas y/o inquietudes personales y  realizar una visita guiada por las instalaciones del Colegio.  
 
-[Solicitar entrevista inicial](/admisiones/entrevista)
+[Solicitar entrevista inicial](/admisiones/proceso/entrevista)
 
 ---
 [Computadora]
@@ -29,7 +29,7 @@ Mantenida la entrevista inicial, podrá continuar formalmente con el proceso de 
 
 De esta manera quedará formalizado su interés en el Colegio y nos permitirá  ponernos en contacto con usted para coordinar el próximo encuentro con su hijo/a.
 
-[Completar solicitud de admisión](/admisiones/solicitud).
+[Completar solicitud de admisión](/admisiones/proceso/solicitud).
 
 
 
@@ -95,7 +95,4 @@ La prioridad en la Admisión será otorgada a  hermanos de alumnos regulares,  h
 
 ### Reserva de la vacante
 
-El ingreso efectivo al  Colegio dependerá de la disponibilidad de vacantes y se formalizará mediante la entrega de la documentación requerida y el pago de la matricula correspondiente. El Colegio reservará la vacante del alumno/a admitido, por un plazo de 10 días hábiles luego de la comunicación del resultado positivo del proceso a las familias. Una vez superado el plazo, la vacante quedará  nuevamente disponible.  
-
-
-
+El ingreso efectivo al  Colegio dependerá de la disponibilidad de vacantes y se formalizará mediante la entrega de la documentación requerida y el pago de la matricula correspondiente. El Colegio reservará la vacante del alumno/a admitido, por un plazo de 10 días hábiles luego de la comunicación del resultado positivo del proceso a las familias. Una vez superado el plazo, la vacante quedará  nuevamente disponible.
