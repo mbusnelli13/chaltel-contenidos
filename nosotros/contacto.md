@@ -17,10 +17,10 @@ Muchas gracias.
 
 Le recordamos que todos los campos marcados con un asterisco son de caracter obligatorio.
 
-- Asunto de la consulta: Información general / Admisiones / 
- / Temas administrativos
+- Asunto de la consulta: Información específica / Admisiones / 
+Temas administrativos
 - Nombre
 - Apellido
 - Email
 - Telefono de contacto
-- Mensaje 
+- Mensaje
