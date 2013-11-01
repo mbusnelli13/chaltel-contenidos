@@ -7,12 +7,12 @@ subtitulo: Hola
 published: true
 ---
 
-# Abiertos a la comunidad
+# Acuerdos y Membresías
 
 ## Esto es un copete, respetar el largo del párrafo (aprox). Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.
 
 ### Membresías
-
+ (Todo con logos y una breve explicación)
 - Centro Examinador (AR 411) de la Universidad de Cambridge, autorizado para los exámenes internacionales (PET, FCE, IGCSE y ICE).
 - Miembro activo de I.S.A., (International Schools Association) entidad con Sede Central en Ginebra, que supervisa otros exámenes de nivel internacional, que rinden nuestros alumnos en el nivel E.G.B.
 - Asociado a ESSARP ("The English Speaking Scholastic of the River Plate").
@@ -21,11 +21,8 @@ published: true
 - Incorporado al programa desarrollado por JUNIOR ACHIEVEMENT DE ARGENTINA.
 
 ### Acuerdos con Universidades
-
+ (Todo con logos y una breve explicación)
 - UCEMA
 - Universidad Di Tella
 - Universidad Austral
 - Universidad San Andres
-
-
-
