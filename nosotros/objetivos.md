@@ -9,7 +9,7 @@ published: true
 
 # Objetivos Institucionales
 
-#### En función del cumplimiento de la misión institucional se propone:
+#### En función del cumplimiento de la misión institucional proponemos:
 
 ### Respecto del alumnado:
 - Brindar una currícula amplia y variada que permita la adquisición de conocimientos, competencias y habilidades socio-afectivas, intelectuales, artísticas y deportivas 
@@ -29,5 +29,4 @@ published: true
 - Fomentar una organización institucional que aprenda, que aspire a la mejora continua, que gestione con eficiencia y eficacia, que se caracterice por trabajar en un clima en donde prevalezca el bien común, la autogestión, la colaboración,  la confianza, la creatividad, el trabajo en equipo y en donde  exista un tipo de comunicación entre pares clara, precisa, sincera y permanente (política de puertas abiertas). 
 
 ### Respecto de la comunidad Educativa:
-- Promover una interacción sana, constructiva y enriquecedora entre la institución y todos los miembros de la comunidad educativa( alumnos, padres, personal docente y no docente y ex – alumnos) 
-
+- Promover una interacción sana, constructiva y enriquecedora entre la institución y todos los miembros de la comunidad educativa( alumnos, padres, personal docente y no docente y ex – alumnos)
