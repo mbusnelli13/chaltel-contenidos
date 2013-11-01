@@ -7,7 +7,7 @@ subtitulo: Hola
 published: true
 ---
 
-# Principios orientadores
+# Nuestros valores
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
