@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  "Solicitud de admision"
+title: Solicitud de admision
 submenu: admisiones
-titular: "Bienvenidos"
-subtitulo: "Hola"
+titular: Bienvenidos
+subtitulo: Hola
 published: true
 ---
 
