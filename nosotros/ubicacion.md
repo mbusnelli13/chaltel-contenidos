@@ -22,7 +22,7 @@ Lucio Meléndez 1617 de Don Torcuato, Partido de Tigre
 
 *Epígrafe foto*
 
-Don Torcuato, cuanta con el singular orgullo de ser una de las pocas ciudades del país que fue fundada por un presidente en ejercicio de su mandato: el Dr. Marcelo Torcuato de Alvear(1868-1942), quien fue nuestro décimo noveno Presidente  entre el 12 de octubre de 1922 y la misma fecha del año 1928.
+Don Torcuato, cuenta con el singular orgullo de ser una de las pocas ciudades del país que fue fundada por un presidente en ejercicio de su mandato: el Dr. Marcelo Torcuato de Alvear(1868-1942), quien fue nuestro décimo noveno Presidente  entre el 12 de octubre de 1922 y la misma fecha del año 1928.
 
 Los historiadores parecen coincidir en cuanto a las razones de la creación de Don Torcuato y afirman que durante el  año 1927,el Presidente Alvear requería de recursos para solventar sus gastos, y la venta de unas tierras que había heredado de su padre, eran un medio más que razonable para obtener esos fondos. 
 
