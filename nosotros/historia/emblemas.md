@@ -9,7 +9,7 @@ published: true
 
 # Escudo y lema
  
-## Los simbolos nos representan, sellan nuestra filosofía educativa, guían nuestro accionar diario y marcan nuestro camino.
+## Los símbolos nos representan, sellan la filosofía Educativa Chaltel, guían el accionar diario y marcan nuestro camino.
   
 ![Foto de ...](http://placeimg.com/720/300/people)
 
