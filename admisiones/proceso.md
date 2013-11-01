@@ -11,8 +11,14 @@ published: true
  
 ## Gracias por su interés en nuestra Institución.  
 
-Entendemos  que la elección de un Colegio, es una decisión  muy importante y trascendente en la vida de una familia. Es por eso, que hemos diseñado un proceso de admisión, con la intención de ayudarlos a evaluar si nuestro proyecto resulta la alternativa más adecuada para la educación de sus hijos y las aspiraciones de su familia. 
+Entendemos  que la elección de un Colegio, es una decisión  muy importante y trascendente en la vida de una familia. Es por eso, que hemos diseñado un proceso de admisión, con la intención de ayudarlos a evaluar juntos si nuestro proyecto resulta la alternativa más adecuada para la educación de sus hijos y las aspiraciones de su familia. 
 
+Esperamos conocerlos pronto.
+
+Cordialmente,
+
+Maria Perez
+Oficina de Admisiones
 
 
 ### Proceso de Admisión
@@ -22,16 +28,15 @@ A continuación detallamos los pasos a seguir para poder conocer el colegio pers
 
 [computadora y persona escribiendo]
 ### 1. Solicitud de Entevista Inicial
-Todas las familias interesadas en conocer el Colegio deben solicitar una entrevista inicial completando online el Formulario de solicitud de entrevista inicial. 
+Todas las familias interesadas en conocer personalmente el Colegio y/o obtener mayor información sobre nuestra propuesta educativa deben solicitar una entrevista inicial completando online un Formulario de Solicitud de entrevista. 
 
 [Solicitar entrevista inicial](/admisiones/proceso/entrevista)
 
 ---
 [Personas entrevista]
 ### 1. Entrevista inicial. Primer contacto.
-El trato personal y dedicado es una de nuestras características , es por eso que  invitamos a los padres interesados en conocer personalmente el Colegio y/o obtener mayor información sobre nuestra propuesta educativa, a una entrevista inicial, a cargo de la Directora General , en donde se les brindará toda la información necesaria,  podrán  evacuar las dudas y/o inquietudes personales y  realizar una visita guiada por las instalaciones del Colegio.  
+Una vez enviada la solicitud, nos contactaremos telefonicamente con usted, para concertar una fecha de entrevist que estará a cargo de la Directora General , en donde se les brindará toda la información necesaria,  podrán  evacuar las dudas y/o inquietudes personales y  realizar una visita guiada por las instalaciones del Colegio.  
 
-[Solicitar entrevista inicial](/admisiones/proceso/entrevista)
 
 ---
 [Computadora]
@@ -39,7 +44,7 @@ El trato personal y dedicado es una de nuestras características , es por eso qu
 
 Mantenida la entrevista inicial, podrá continuar formalmente con el proceso de admisión. Para ello, deberá completar online la ‘Solicitud de Admisión’.  
 
-De esta manera quedará formalizado su interés en el Colegio y nos permitirá  ponernos en contacto con usted para coordinar el próximo encuentro con su hijo/a.
+De esta manera quedará formalizado su interés en el Colegio y nos permitirá  ponernos en contacto nuevamente con usted para coordinar el próximo encuentro entre las directoras del área y su hijo/a.
 
 [Completar solicitud de admisión](/admisiones/proceso/solicitud).
 
