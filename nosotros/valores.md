@@ -11,10 +11,10 @@ published: true
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
-## El Colegio entendido como una comunidad de vida, fundamenta su accionar diario en los siguientes valores: respeto, responsabilidad, honestidad, excelencia,  perseverancia,  justicia, dialogo y solidaridad.
+## Nos proponemos brindar una educación integral (mente, cuerpo, espíritu) orientada al desarrollo personal de cada alumno,  fomentando en su accionar diario su comportamiento en los siguientes valores: 
 
 
-#### Que significan:
+#### Basamos nuestro accionar diario en los siguientes valores:
 
 - **Respeto:** principio que reconoce la dignidad de las personas, tomando en consideración los derechos y obligaciones de uno mismo y del otro. 
 - **Responsabilidad:** compromiso con el deber y la habilidad para responder y asumir acciones oportunas y asertivas generando seguridad y confianza sin necesidad de presión externa
@@ -23,7 +23,3 @@ published: true
 - **Perseverancia:** capacidad de mantener un esfuerzo sostenido en el tiempo con el fin de lograr las metas propuestas y superar dificultades.
 - **Justicia:** principio que destaca la actitud moral o la voluntad de dar a cada uno lo que le corresponda. 
 - **Diálogo:** principio que destaca actitudes favorables en la búsqueda del interés común, la cooperación social y que se fundamenta en el respeto al otro y a sus ideas.
-
-
-
-
