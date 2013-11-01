@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Proceso de Admisión
+title: Admisiones
 submenu: admisiones
 titular: Bienvenidos
 subtitulo: Hola
 published: true
 ---
 
-# Proceso de Admisión
+# Bienvenidos
  
 ## A continuación detallamos los pasos a seguir para inciar el proceso de admisión. 
 
