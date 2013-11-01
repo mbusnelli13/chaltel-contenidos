@@ -9,7 +9,9 @@ published: true
 
 # Proceso de Admisión
  
-## Esto es una introducción. Respetar la longitud del texto (aprox). Sed ut perspiciatis unde omnis iste natus error sit voluptatem laudantium.
+## A continuación detallamos los pasos a seguir para inciar el proceso de admisión. 
+
+
 
 ### ¿Cómo inscribirse?
 Con el fin de orientarlos adecuadamente, a continuación, se plantean algunos aspectos relevantes del proceso de admisión:
