@@ -9,7 +9,7 @@ published: true
 
 # Somos un equipo
  
-## Altamente capacitado, identificado y comprometido con la tarea educativa, capaz de generar experiencias de aprendizaje significativas, motivantes y creativas.
+## Somos un equipo altamente capacitado, identificado, comprometido con la tarea educativa y capaz de generar experiencias de aprendizaje significativas, motivantes y creativas.
 
 
 **Categorias**: Staff Directivo, Staff Docente, Staff Administración
