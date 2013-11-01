@@ -21,4 +21,4 @@ published: true
 - **La honestidad:** Expresandonos sin fingir, con sencillez y veracidad hacia nosotros mismo, los otros y la sociedad.
 - **La perseverancia:** Manteniendo un esfuerzo sostenido con el fin de lograr las metas propuestas y superar las dificultades.
 - **La justicia:** Intentando dar a cada uno lo que le corresponda. 
-- **El diálogo:** Teniendo actitudes favorables en la búsqueda del interés común, la cooperación social, fundamentada en el respeto al otro y a sus ideas.
+- **El diálogo:** Teniendo actitudes favorables en la búsqueda del interés común y la cooperación social, fundamentadas en el respeto hacia el otro y a sus ideas.
