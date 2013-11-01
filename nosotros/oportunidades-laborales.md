@@ -9,7 +9,7 @@ published: true
 
 # Trabajá con nosotros
 
-## Contamamos con con un clima de trabajo en donde prevalece la excelencia, el bien común, la autogestión, la colaboración, la confianza, la creatividad y el trabajo en equipo. Apasionados por lo que hacemos, trabajamos todos los días para ser un poco mejor. 
+## Contamamos con un clima de trabajo en donde prevalece la excelencia, el bien común, la autogestión, la colaboración, la confianza, la creatividad y el trabajo en equipo. Apasionados por lo que hacemos, trabajamos todos los días para ser un poco mejores. 
 
 ( Comentarios del staff, con fotito, tipo dialogo)
 
