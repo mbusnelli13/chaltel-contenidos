@@ -9,7 +9,7 @@ published: true
 
 # Proceso de Admisión
  
-## A continuación detallamos los pasos a seguir como para conocer el colegio personalmente y/o iniciar el proceso de admisión.
+## A continuación detallamos los pasos a seguir como para conocer el colegio personalmente y/o iniciar el proceso de admisión:
 
 
 [computadora y persona escribiendo]
@@ -23,20 +23,18 @@ Las familias interesadas en conocer personalmente el Colegio y/o obtener mayor i
 ### 1. Entrevista inicial. Primer contacto personal.
 Una vez enviada y recibida la solicitud, nos pondremos en contacto con usted, para concertar una fecha posible de entrevista. 
 
-La entrevista Incial está a cargo de la Directora General ,y se les brindará toda la información institucional necesaria,  podrán  evacuar sus dudas y/o inquietudes  y  realizar una visita guiada por las instalaciones del Colegio.  
+En la entrevista Incial, a cargo de la Directora General ,se les brindará toda la información institucional necesaria,  podrán  evacuar sus dudas y/o inquietudes  y  realizar una visita guiada por las instalaciones del Colegio.  
 
 
 ---
 [Computadora]
 ### 2. Solicitud de Admisión
 
-Mantenida la entrevista inicial, las familias interesadas , podrá continuar formalmente con el proceso de admisión. Para ello, deberán completar nuevamente online la ‘Solicitud de Admisión’.  
+Mantenida la entrevista inicial, las familias interesadas en inscribir a su/s hijo/s, podrán continuar formalmente con el proceso de admisión. Para ello, deberán completar  online la ‘Solicitud de Admisión’  
 
-De esta manera quedará formalizado su interés en el Colegio y nos permitirá  ponernos nuevamente en contacto con usted para coordinar el próximo encuentro con su hijo/a.
+De esta manera, quedará formalizado su interés en el Colegio y nos permitirá  ponernos nuevamente en contacto telefónico con usted, para coordinar el próximo encuentro con su hijo/a.
 
 [Completar la solicitud de admisión](/admisiones/proceso/solicitud).
-
-
 
 
 ---
