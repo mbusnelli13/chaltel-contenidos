@@ -9,10 +9,7 @@ published: true
 
 # Proceso de Admisión
  
-## El vínculo a largo plazo, que se genera entre el Colegio y el ingresante, debe gestarse en la comunión entre nuestra propuesta educativa y los objetivos y aspiraciones de las familias respecto de la educación de sus hijos.
-
-### Proceso de Admisión
-A continuación detallamos los pasos a seguir como para conocer el colegio personalmente y/o iniciar el proceso de admisión.
+## A continuación detallamos los pasos a seguir como para conocer el colegio personalmente y/o iniciar el proceso de admisión.
 
 
 [computadora y persona escribiendo]
