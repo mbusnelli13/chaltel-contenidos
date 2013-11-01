@@ -9,7 +9,7 @@ published: true
 
 # Escudo y lema
  
-## Esto es un copete, respetar el largo del párrafo (aprox). Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.
+## Nuestros simbolos representan, nos guían y resumen nuestro 
   
 ![Foto de ...](http://placeimg.com/720/300/people)
 
@@ -34,5 +34,4 @@ La figura artificial, está representada por la simbología de la coronación de
 **Ad Altiora - GRANDE
 
 ## Lema
-Nuestro lema en latin “Ad Altiora”, sella nuestra filosofía educativa, guía nuestro accionar diario, marca nuestro camino y significa: ’Hacia las alturas…siempre más alto y mejor’’ 
-
+Nuestro lema en latin “Ad Altiora”, sella nuestra filosofía educativa, guía nuestro accionar diario, marca nuestro camino y significa: ’Hacia las alturas…siempre más alto y mejor’’
