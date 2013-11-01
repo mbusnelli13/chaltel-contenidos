@@ -11,7 +11,7 @@ published: true
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
-## Nos proponemos brindar una educación integral (mente, cuerpo, espíritu) orientada al desarrollo de la libertad y la autonomia, la generosidad, la responsabilidad  y la solidaridad.
+## Orientamos el aprendizaje personal hacia al desarrollo de la libertad individual y la autonomia, la generosidad, la responsabilidad  y la solidaridad.
 
 #### Basamos nuestro accionar diario en:
 
