@@ -9,8 +9,9 @@ published: true
 
 # Trabajá con nosotros
 
-## Somos una organización que aspira a la mejora continua. Nos caracterizamos por trabajar en un clima en donde prevalece el bien común, la autogestión, la colaboración, la confianza, la creatividad y el trabajo en equipo.
+## Contamamos con con un clima de trabajo en donde prevalece la excelencia, el bien común, la autogestión, la colaboración, la confianza, la creatividad y el trabajo en equipo. Apasionados por lo que hacemos, trabajamos todos los días para ser un poco mejor. 
 
+( Comentarios del staff, con fotito, tipo dialogo)
 
 ### Titulo (cod.99)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ligula mi, ultrices sed faucibus quis, eleifend vel eros. Cras accumsan nisi vel purus egestas, volutpat sagittis lacus scelerisque. Pellentesque tempus magna vel arcu egestas fermentum. Vivamus in velit urna. Etiam nulla mauris, aliquam et placerat sit amet, blandit in mi. Cras commodo tortor ut sapien aliquet, vitae bibendum elit vulputate. Nullam in sapien orci. Praesent nec nunc non magna molestie semper quis sit amet nulla. Quisque ac tristique nibh.
