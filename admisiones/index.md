@@ -22,12 +22,14 @@ Los esperamos!
 Cordialmente,
 
 Firma
+
 Marta Campos 
+
 Oficina de Admisiones
 
 --- 
 
 ### Quiero...
-- [Visitar y conocer personalmente el Colegio ](/admisiones/entrevista) 
+- [Visitar y conocer personalmente el Colegio](/admisiones/entrevista) 
 - [Realizar una consulta específica](/admisiones/contacto)
-- [Incribir a mi hijo/a](/admisiones/proceso)
+- [Inscribir a mi hijo/a](/admisiones/proceso)
