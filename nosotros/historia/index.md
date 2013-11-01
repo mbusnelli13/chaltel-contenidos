@@ -7,7 +7,7 @@ subtitulo: Hola
 published: true
 ---
 
-# Educando desde 1983.
+# Educando desde 1983...
 
 ## El Chaltel mantiene su esencia como el primer día: enseñanza de excelencia, calidez humana y contención.
 
