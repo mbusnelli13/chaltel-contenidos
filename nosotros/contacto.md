@@ -7,17 +7,18 @@ subtitulo: Hola
 published: true
 ---
 
-# Contacto
+# Contáctenos
 
-## Esto es un copete, respetar el largo del párrafo. Neque pira quisquam est, qui dolorem ipsum quia dolor.
+## Estamos a su disposición para ayudarlo en lo que necesite. Por favor, complete el el formulario a continuación y nos comunciaremos con usted a la brevedad. 
+Muchas gracias
 
 
 ### Formulario de contacto
 
-Complete el siguiente formulario. Todos los campos marcados con un asterisco son obligatorios.
+Le recordamos que todos los campos marcados con un asterisco son obligatorios.
 
-- Asunto de consulta: Informacion general / Inscripciones / 
-Recepcion / Administracion
+- Asunto de la consulta: Información general / Inscripciones / 
+ / Temas administrativos
 - Nombre
 - Apellido
 - Email
