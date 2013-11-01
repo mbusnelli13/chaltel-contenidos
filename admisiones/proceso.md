@@ -9,9 +9,11 @@ published: true
 
 # Bienvenidos
  
-## A continuación detallamos los pasos a seguir para inciar el proceso de admisión. 
+## Gracias por su interés en nuestro Colegio.  
 
+Entendemos  que la elección de un Colegio, es una decisión  muy importante y trascendente en la vida de cualquier familia. Es por eso, que hemos diseñado un proceso de admisión, con la intención de ayudarlos a evaluar si nuestro proyecto resulta la alternativa más adecuada para la educación de sus hijos y las aspiraciones de su familia. 
 
+A continuación detallamos los pasos a seguir para inciar el proceso de admisión. 
 
 ### ¿Cómo inscribirse?
 Con el fin de orientarlos adecuadamente, a continuación, se detallan los pasos a seguir para iniciar el proceso de admisión:
