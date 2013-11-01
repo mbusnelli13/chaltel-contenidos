@@ -9,10 +9,10 @@ published: true
 
 # Breve reseña histórica
  
-## Esto es un copete, respetar el largo del párrafo. Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.
+## Fundado en 1983, con el objetivo de ofrecer a las familias de Don Torcuato y alrededores, una opción educativa bilingue basada en la excelencia academica, el bienestar emocional, la salud fisica y la integridad etica y moral. 
 
 ###1983 
-- Se funda el Chaltel College, en respuesta a la demanda de familias de la comunidad de Don Torcuato y zona de influencia, que pretendían para sus hijos una educación bilingüe con elevado nivel académico. La labor educativa se inicia en una casa-quinta ubicada en la Calle Chile, con Kindergarten y Junior School.
+- La labor educativa se inicia en una casa-quinta ubicada en la Calle Chile, con sala 2 salas y 15 alumnos.
 
 ###1986
 - Se adquiere el predio de L. Meléndez 1617 y comienza la construcción del edificio principal.
