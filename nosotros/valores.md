@@ -15,10 +15,10 @@ published: true
 
 #### Basamos nuestro accionar diario en los siguientes valores:
 
-- **Excelencia:** Entendida como el resultado de los esfuerzos deliberados por crear y abrir nuevas y más oportunidades de conocimiento y de buen comportamiento.  
-- **Respeto:** Principio que reconoce la dignidad de las personas, tomando en consideración los derechos y obligaciones de uno mismo y del otro. 
-- **Responsabilidad:** Compromiso con el deber y la habilidad para responder y asumir acciones oportunas y asertivas generando seguridad y confianza sin necesidad de presión externa
-- **Honestidad:** Principio que nos lleva a expresarnos sin fingir, con sencillez y veracidad hacia uno mismo, los otros y la sociedad.
-- **Perseverancia:** Capacidad de mantener un esfuerzo sostenido en el tiempo con el fin de lograr las metas propuestas y superar dificultades.
-- **Justicia:** Principio que destaca la actitud moral o la voluntad de dar a cada uno lo que le corresponda. 
-- **Diálogo:** Principio que destaca actitudes favorables en la búsqueda del interés común, la cooperación social y que se fundamenta en el respeto al otro y a sus ideas.
+- **Excelencia:** Esforzandonos para crear y abrir nuevas y más oportunidades de conocimiento y de buen comportamiento.  
+- **Respeto:** Reconociendo la dignidad de las personas, tomando en consideración nuestros derechos y obligaciones  y los de los demás. 
+- **Responsabilidad:** Comprometiendonos  con el deber y la habilidad para responder y asumir acciones oportunas y asertivas generando seguridad y confianza, sin necesidad de presión externa
+- **Honestidad:** Expresandonos sin fingir, con sencillez y veracidad hacia nosotros mismo, los otros y la sociedad.
+- **Perseverancia:** Manteniendo un esfuerzo sostenido con el fin de lograr las metas propuestas y superar las dificultades.
+- **Justicia:** Intentando dar a cada uno lo que le corresponda. 
+- **Diálogo:** Teniendo actitudes favorables en la búsqueda del interés común, la cooperación social, fundamentada en el respeto al otro y a sus ideas.
