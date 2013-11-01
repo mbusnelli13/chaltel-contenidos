@@ -14,7 +14,7 @@ published: true
 
 
 ### ¿Cómo inscribirse?
-Con el fin de orientarlos adecuadamente, a continuación, se plantean algunos aspectos relevantes del proceso de admisión:
+Con el fin de orientarlos adecuadamente, a continuación, se detallan los pasos a seguir para iniciar el proceso de admisión:
 
 ---
 [Personas entrevista]
