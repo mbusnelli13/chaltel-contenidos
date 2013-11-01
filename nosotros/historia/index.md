@@ -7,7 +7,7 @@ subtitulo: Hola
 published: true
 ---
 
-# 30 años junto a la comunidad
+# Educando desde 1983...
 
 ## Esto es un copete, respetar el largo del párrafo (aprox). Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.
 
