@@ -9,9 +9,9 @@ published: true
 
 # Objetivos Institucionales
 
-## En función del cumplimiento de nuestra misión trabajamos diariamente  dando lo mejor de nosotros, enfocando nuestra tarea en la calidad academica, el bienestar emocional, la salud fisica, la responsabilidad social y la integridad. 
+## En función del cumplimiento de nuestra misión, trabajamos diariamente dando lo mejor de nosotros, enfocando nuestra tarea en la busqueda de la excelencia académica, el bienestar emocional, la salud física, la responsabilidad social y la integridad ética y moral. 
 
-#### Proponemos:
+#### Para ello proponemos:
 
 ### Respecto del alumnado:
 - Brindar una currícula amplia y variada que permita la adquisición de conocimientos, competencias y habilidades socio-afectivas, intelectuales, artísticas y deportivas 
