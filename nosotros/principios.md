@@ -11,7 +11,7 @@ published: true
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
-## Orientamos el aprendizaje personal hacia al desarrollo de la libertad y la autonomia, la generosidad, la responsabilidad  y la solidaridad.
+## Orientamos el aprendizaje personal hacia al desarrollo de la libertad y la autonomía, la generosidad, la responsabilidad  y la solidaridad.
 
 #### Basamos nuestro accionar diario en:
 
