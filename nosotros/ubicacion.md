@@ -9,7 +9,7 @@ published: true
 
 # En el corazón de Don Torcuato
  
-## Llegar al Chaltel es simple y seguro. Chaltel está ubicado sobre la calle Melendez a 1 cuadra de la Av. Marcelo T. de Alvear (Ruta 202) y a 5 minutos de la Panamerica.  
+## Llegar al Chaltel es simple y seguro. Está ubicado sobre la calle Melendez a 1 (una) cuadra de la Av. Marcelo T. de Alvear (Ruta 202) y a 5 minutos en auto de la Panamericana (14 cuadras).  
 
 
 Lucio Meléndez 1617 de Don Torcuato, Partido de Tigre
