@@ -14,7 +14,7 @@ published: true
 [Solicitar Entrevista Inicial](/admisiones/proceso/entrevista)
  
   
-## Cómo inscribirse:
+## Proceso de Admisión
 A continuación detallamos los pasos a seguir para iniciar el proceso de admisión:
 
 
