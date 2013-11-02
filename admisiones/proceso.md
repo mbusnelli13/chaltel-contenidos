@@ -7,16 +7,15 @@ subtitulo: Hola
 published: true
 ---
 
-# Proceso de Admisión
- 
-## A continuación detallamos los pasos a seguir para conocer el colegio personalmente y/o iniciar el proceso de admisión:
+# Solicitud de Entevista Inicial
 
-
-[computadora y persona escribiendo]
-### 1. Solicitud de Entevista Inicial
-Las familias interesadas en conocer personalmente el Colegio y/o obtener mayor información sobre nuestra propuesta educativa, deben solicitar una entrevista inicial completando online el Formulario de Solicitud de Entrevista Inicial. 
+##Invitamos a las familias interesadas en conocer personalmente el Colegio y obtener mayor información sobre nuestra propuesta educativa, a solicitar una entrevista personal completando online, el Formulario de Solicitud de Entrevista Inicial. 
 
 [Solicitar Entrevista Inicial](/admisiones/proceso/entrevista)
+ 
+  
+## Cómo inscribirse?
+A continuación detallamos los pasos a seguir para iniciar el proceso de admisión:
 
 ---
 [Personas entrevista]
@@ -24,7 +23,6 @@ Las familias interesadas en conocer personalmente el Colegio y/o obtener mayor i
 Una vez enviada y recibida la solicitud, nos pondremos en contacto con usted, para concertar una fecha posible de entrevista. 
 
 En la entrevista inIcial, a cargo de la Directora General, se les brindará toda la información institucional necesaria, podrán evacuar sus dudas y/o inquietudes  y  realizar una visita guiada por las instalaciones del Colegio.  
-
 
 ---
 [Computadora]
