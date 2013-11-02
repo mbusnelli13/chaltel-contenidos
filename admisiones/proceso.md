@@ -7,7 +7,7 @@ subtitulo: Hola
 published: true
 ---
 
-# Entrevista Personal
+# Visita al Colegio
 
 ##Invitamos a las familias interesadas en conocer personalmente el Colegio, a solicitar una entrevista personal completando online, el Formulario de Solicitud de Entrevista Personal. 
 
