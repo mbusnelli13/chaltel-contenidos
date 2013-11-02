@@ -40,20 +40,20 @@ frases que cambian con las imagenes..
 ---
 
 - Novedades (x3) - Ver mas novedades
-- "Spotlight"
+- "Spotlight" (Entre Coemillas?)
 - Próximos eventos - Ver calendario
 
 ---
 
-## Somos un colegio privado, bilingüe, laico y mixto.
+## Chaltel es un colegio privado, bilingüe, mixto y laico.
 
-Texto...
+Nuestro proyecto educativo garantiza que cada alumno esté inmerso en una cultura de aprendizaje constante y formación integral. 
 
 - Historia y tradición
 - Descripción abreviada
-- Niveles academicos
+- Niveles académicos
 - Activididades
-- Vida Escolar - a galerias de imágenes
+- Vida Escolar > a galerias de imágenes
 
 ---
 
@@ -83,11 +83,11 @@ Sacar redes sociales y poner los portales
 - Webmail
 - Campus Virtual
 - Información Académica
-- Información Administrativa
+- Información Administrativa 
 - Comunicaciones Institucionales
 - Documentos Importantes
 - Blogs
-- Help Desk > link a zendesk
+- Mesa de Ayuda > link a zendesk
 
 
-Todos los derechos reservados. Politica de confidencialidad.
+Todos los derechos reservados. Politica de confidencialidad. 
