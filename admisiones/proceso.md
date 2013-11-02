@@ -29,7 +29,7 @@ En la entrevista inicial, a cargo de la Directora General, se les brindará toda
 [Computadora]
 ### 2. Solicitud de Admisión
 
-Mantenida la entrevista inicial, las familias interesadas en inscribir a su hijo/a, podrán continuar formalmente con el proceso de admisión. Para ello, deberán completar  online la ‘Solicitud de Admisión’. También podrán hacerlo descargando el formulario y presentandolo en un sobre cerrado con Nombre y Apellido del alumno/a, en la Recepción del Colegio.   
+Mantenida la entrevista inicial, las familias interesadas en inscribir a su hijo/a, podrán continuar formalmente con el proceso de admisión. Para ello, deberán completar  online la ‘Solicitud de Admisión’. También podrán optar por descargar la Solicitud y presentarla en un sobre cerrado con Nombre y Apellido del alumno/a, en la Recepción del Colegio.   
 
 De esta manera, quedará formalizado su interés en el Colegio y nos permitirá  ponernos nuevamente en contacto telefónico con usted, para coordinar el próximo encuentro con su hijo/a.
 
