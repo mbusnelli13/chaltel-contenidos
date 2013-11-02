@@ -17,6 +17,7 @@ published: true
 ## Cómo inscribirse?
 A continuación detallamos los pasos a seguir para iniciar el proceso de admisión:
 
+
 ---
 [Personas entrevista]
 ### 1. Entrevista inicial. Primer contacto personal.
