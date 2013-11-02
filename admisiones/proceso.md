@@ -30,11 +30,12 @@ En la entrevista Incial, a cargo de la Directora General ,se les brindará toda 
 [Computadora]
 ### 2. Solicitud de Admisión
 
-Mantenida la entrevista inicial, las familias interesadas en inscribir a su/s hijo/s, podrán continuar formalmente con el proceso de admisión. Para ello, deberán completar  online la ‘Solicitud de Admisión’  
+Mantenida la entrevista inicial, las familias interesadas en inscribir a su hijo, podrán continuar formalmente con el proceso de admisión. Para ello, deberán completar  online la ‘Solicitud de Admisión’. También podrán hacerlo descargando el formulario y presentandolo en un sobre cerrado con nombre y Apellido del alumno, en la recepción del Colegio.   
 
 De esta manera, quedará formalizado su interés en el Colegio y nos permitirá  ponernos nuevamente en contacto telefónico con usted, para coordinar el próximo encuentro con su hijo/a.
 
 [Completar la solicitud de admisión](/admisiones/proceso/solicitud).
+[Descargar la solicitud de Admisión]
 
 
 ---
@@ -62,10 +63,10 @@ Confirmada la intención de ingreso y en caso de existir vacante disponible, nos
 [Anotador]
 ### 4. Resultado
 
-Una vez que el alumno/a haya finalizado la entrevista pedagógica, el equipo directivo se reunirá para analizar y definir el resultado del proceso. El mismo, será comunicado telefónicamente a los padres en un plazo máximo de 10 (cinco) días hábiles.
+Una vez que el alumno/a haya finalizado con la entrevista pedagógica, el equipo directivo se reunirá para analizar y definir el resultado del proceso. El mismo, será comunicado telefónicamente a los padres en un plazo máximo de 10 (diez) días hábiles.
 
 ---
-[Lapiz]
+[Lapiz con papel]
 ### 5. Incripción
 
 Cumplidos estos requisitos, están dadas las condiciones para realizar la inscripción del/los alumno/s. Para ello, deberá:   
@@ -78,7 +79,7 @@ Cumplidos estos requisitos, están dadas las condiciones para realizar la inscri
 
 **2) Abonar la matrícula correspondiente (ver [Aranceles educativos]())**
 
-
+[Descargar la Solicitud de Inscripción]
 
 ---
 
