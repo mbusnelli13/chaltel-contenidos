@@ -23,14 +23,14 @@ Las familias interesadas en conocer personalmente el Colegio y/o obtener mayor i
 ### 1. Entrevista inicial. Primer contacto personal.
 Una vez enviada y recibida la solicitud, nos pondremos en contacto con usted, para concertar una fecha posible de entrevista. 
 
-En la entrevista Incial, a cargo de la Directora General ,se les brindará toda la información institucional necesaria,  podrán  evacuar sus dudas y/o inquietudes  y  realizar una visita guiada por las instalaciones del Colegio.  
+En la entrevista inIcial, a cargo de la Directora General, se les brindará toda la información institucional necesaria, podrán evacuar sus dudas y/o inquietudes  y  realizar una visita guiada por las instalaciones del Colegio.  
 
 
 ---
 [Computadora]
 ### 2. Solicitud de Admisión
 
-Mantenida la entrevista inicial, las familias interesadas en inscribir a su hijo, podrán continuar formalmente con el proceso. Para ello, deberán completar  online la ‘Solicitud de Admisión’. También podrán hacerlo descargando el formulario y presentandolo en un sobre cerrado con nombre y Apellido del alumno, en la recepción del Colegio.   
+Mantenida la entrevista inicial, las familias interesadas en inscribir a su hijo, podrán continuar formalmente con el proceso de admisión. Para ello, deberán completar  online la ‘Solicitud de Admisión’. También podrán hacerlo descargando el formulario y presentandolo en un sobre cerrado con nombre y Apellido del alumno, en la recepción del Colegio.   
 
 De esta manera, quedará formalizado su interés en el Colegio y nos permitirá  ponernos nuevamente en contacto telefónico con usted, para coordinar el próximo encuentro con su hijo/a.
 
