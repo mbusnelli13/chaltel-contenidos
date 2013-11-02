@@ -49,15 +49,18 @@ Confirmada la intención de ingreso y en caso de existir vacante disponible, nos
 #### Nivel Inicial
 
 - K2 y K3: Eximidos de este requisito 
-- K4 y K5: Evaluación de conocimiento del Alumno – Nivel Inglés 
+- K4 y K5: Evaluación de conocimiento del Alumno – Nivel Inglés. Duración estimada: 45 minutos 
+		  
 
 #### Primaria
 
 - Evaluación de aspectos pedagógicos y madurativos. Áreas de lengua, matemática e inglés  
+- Duración estimada: 1 hora y 15 minutos
 
 #### Secundaria
 
 - Evaluación de aspectos pedagógicos y madurativos. Áreas de lengua, matemática e inglés  
+- Duración estimada: 1 hora y 15 minutos
 
 ---
 [Anotador]
