@@ -9,7 +9,7 @@ published: true
 
 # Proceso de Admisión
  
-## A continuación detallamos los pasos a seguir como para conocer el colegio personalmente y/o iniciar el proceso de admisión:
+## A continuación detallamos los pasos a seguir para conocer el colegio personalmente y/o iniciar el proceso de admisión:
 
 
 [computadora y persona escribiendo]
