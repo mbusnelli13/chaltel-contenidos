@@ -7,9 +7,9 @@ subtitulo: Hola
 published: true
 ---
 
-# Solicitud de Entevista Inicial
+# Entevista Inicial
 
-##Invitamos a las familias interesadas en conocer personalmente el Colegio y obtener mayor información sobre nuestra propuesta educativa, a solicitar una entrevista personal completando online, el Formulario de Solicitud de Entrevista Inicial. 
+##Invitamos a las familias interesadas en conocer personalmente el Colegio, a solicitar una entrevista personal completando online, el Formulario de Solicitud de Entrevista Inicial. 
 
 [Solicitar Entrevista Inicial](/admisiones/proceso/entrevista)
  
