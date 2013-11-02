@@ -7,16 +7,15 @@ subtitulo: Hola
 published: true
 ---
 
-# Visita al Colegio
+# Proceso de Admisión
 
-##Invitamos a las familias interesadas en conocer personalmente el Colegio, a solicitar una entrevista personal completando online, el formulario de Solicitud de Entrevista Personal. 
+##A continuación detallamos los pasos a seguir para iniciar el proceso de admisión:
+
+  [computadora y personal entrevista] 
+## Solicitud de Entrevista personal
+Invitamos a las familias interesadas en conocer personalmente el Colegio, a solicitar una entrevista personal completando online, el formulario de Solicitud de Entrevista Personal. 
 
 [Solicitar Entrevista Personal](/admisiones/proceso/entrevista)
- 
-  
-## Proceso de Admisión
-A continuación detallamos los pasos a seguir para iniciar el proceso de admisión:
-
 
 ---
 [Personas entrevista]
