@@ -9,7 +9,7 @@ published: true
 
 # Visita al Colegio
 
-##Invitamos a las familias interesadas en conocer personalmente el Colegio, a solicitar una entrevista personal completando online, el Formulario de Solicitud de Entrevista Personal. 
+##Invitamos a las familias interesadas en conocer personalmente el Colegio, a solicitar una entrevista personal completando online, el formulario de Solicitud de Entrevista Personal. 
 
 [Solicitar Entrevista Personal](/admisiones/proceso/entrevista)
  
