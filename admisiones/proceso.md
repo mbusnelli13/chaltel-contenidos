@@ -92,7 +92,9 @@ Cumplidos estos requisitos, están dadas las condiciones para realizar la inscri
 
 ### Cronograma de Admisiones
 
-El periodo de entrevistas iniciales se realiza durante todo el año. Aceptamos solicitudes de admisión para el ingreso al ciclo lectivo en curso y los dos subsiguientes. [Si quiere solicitar una entrevista inicial por favor hacer click aquí](/admisiones/entrevista).
+El periodo de entrevistas iniciales se realiza durante todo el año. Aceptamos solicitudes de admisión para el ingreso al ciclo lectivo en curso y los dos subsiguientes. 
+
+[Si desaa solicitar una entrevista inicial, por favor hacer click aquí](/admisiones/entrevista).
 
 
 ### Prioridad
