@@ -7,20 +7,13 @@ subtitulo: Hola
 published: true
 ---
 
-# Visita al Colegio
+# Solicitud de Entrevista Personal
 
-##Invitamos a las familias interesadas en conocer personalmente el Colegio, a solicitar una entrevista personal completando online, el Formulario de Solicitud de Entrevista Personal. 
-
-![Foto de ...](http://placeimg.com/720/300/people)
-
-
-### Solicitud de Entrevista Personal
-
-Por favor completar el siguiente formulario. Les recordamos que todos los campos marcados con un asterisco son de caracter obligatorio.
-
+### Por favor completar el siguiente formulario. 
 
 
 #### Datos del Solicitante
+Todos los campos marcados con un asterisco son de caracter obligatorio.
 
 Nombre
 
@@ -31,6 +24,8 @@ Teléfono de contacto
 E-mail
 
 Nombre y fecha de nacimiento de/los postuntes 
+
+Establecimiento del cuál provienen
 
 Comentario
 
