@@ -45,5 +45,5 @@ published: true
 
 ---
 
-#### ¿Consultas?
-Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto) y nos pondremos en contacto a la brevedad.
+#### ¿Consultas , dudas?
+Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto) 
