@@ -107,4 +107,5 @@ La prioridad en la Admisión será otorgada a  hermanos de alumnos regulares,  h
 
 ---
 
-Consultas? Dudas? [Contactenós] > contacto admisiones
+#### ¿Consultas , dudas?
+Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto) 
