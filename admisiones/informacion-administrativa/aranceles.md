@@ -67,5 +67,7 @@ Los ex alumnos del Colegio se benefician con un descuento del 20% sobre el aranc
 - El transporte escolar del domicilio al Colegio y viceversa.
 - El alquiler mensual de lockers (Alumnos Secundaria)
 
+--- 
 
-Consultas ? Dudas? Contáctenos
+#### ¿Consultas , dudas?
+Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto) 
