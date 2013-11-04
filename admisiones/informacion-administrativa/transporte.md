@@ -7,7 +7,6 @@ subtitulo: Hola
 published: true
 ---
 
-
 # Transporte Escolar
 
 El Colegio no ofrece servicio de transporte escolar sino que el mismo es contratado directamente por los padres de los alumnos quienes acuerdan libremente las modalidades y precios  y formas de pago con el transportista de su preferencia.
@@ -34,3 +33,5 @@ Sr. Alan Maurel: 15 4028 2814
 
 **Horarios de Atención:** Lunes a Viernes de 8:00 a 15:00 hs.
 
+#### ¿Consultas , dudas?
+Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto) 
