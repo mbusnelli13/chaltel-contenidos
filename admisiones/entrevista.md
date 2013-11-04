@@ -7,16 +7,17 @@ subtitulo: Hola
 published: true
 ---
 
-# Solicitud de Entrevista Personal
+# Entrevista Personal
 
 ## Gracias por su interés en nuestro Colegio. 
 
-#### Por favor, le solicitamos completar el siguiente formulario. Una vez recibido, nos pondremos en contacto con usted para coordinar la fecha de la entrevista. 
-####Muchas gracias. 
+Por favor, le solicitamos completar el siguiente formulario. Una vez recibido, nos pondremos en contacto con usted para coordinar la fecha de la entrevista. 
+Muchas gracias. 
 
 (Firma)
-####Laura Crespto
-####Oficina de Admisiones
+Laura Crespto
+e-mail
+Oficina de Admisiones
 
 
 #### Datos del Solicitante
