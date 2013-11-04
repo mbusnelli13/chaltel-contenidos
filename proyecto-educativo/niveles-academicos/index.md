@@ -17,7 +17,7 @@ published: true
 
 
 ### [Educación Inicial / Kindergarten](/proyecto-educativo/niveles-academicos/inicial)
-Comienza a partir de los dos (2) hasta los cinco (5) años de edad inclusive, siendo obligatorio el último año. Consta de Sala de dos (2) hasta sala de cinco (5)- Preescolar. 
+Comienza a partir de los dos (2) hasta los cinco (5) años de edad inclusive, siendo obligatorio el último año. Consta 4 años.
 
 ---
 
