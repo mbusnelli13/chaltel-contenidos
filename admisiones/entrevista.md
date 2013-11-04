@@ -11,8 +11,7 @@ published: true
 
 ## Gracias por su interés en nuestro Colegio. 
 
-Por favor, le solicitamos completar el siguiente formulario. Una vez recibido, nos pondremos en contacto con usted para coordinar la fecha y hora de la entrevista. 
-
+Por favor, le solicitamos completar el siguiente formulario. Una vez recibido, nos pondremos en contacto telefónicamente para coordinar la coordinar la fecha y hora de la entrevista. 
 
 #### Datos del Solicitante
 Todos los campos marcados con un asterisco son de caracter obligatorio.
