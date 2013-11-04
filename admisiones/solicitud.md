@@ -11,7 +11,7 @@ published: true
 
 ## Enviada la Solicitud de Ingreso, quedará formalizado su interés en el Colegio.  
 
-Por favor, les solicitamos completar el siguiente formulario. Una vez recibido, los contactaremos telefónicamente para coordinar la próxima entrevista pedagógica con su hijo/a. 
+Por favor, le solicitamos completar el siguiente formulario. Una vez recibido, lo contactaremos telefónicamente para coordinar la próxima entrevista pedagógica con su hijo/a. 
 
 
 #### Datos del Solicitante
