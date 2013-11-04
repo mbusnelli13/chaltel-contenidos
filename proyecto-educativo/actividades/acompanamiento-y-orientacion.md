@@ -11,7 +11,7 @@ published: true
 
 ![Foto de ...](http://placeimg.com/720/200/nature)
 
-## Copete
+## Destinamos tiempo y recursos para que cada alumno desarrolle al máximo de sus posibilidades el potencial que posee, teniendo en cuenta sus facetas intelectuales, afectivas y sociales.
 
 ### Departamento de Orientación
 
@@ -36,6 +36,3 @@ Se desarrolla  un amplio y completo **Programa de Orientación Vocacional** que 
 -  Acompañar a los alumnos en los primeros contactos con las universidades: visitas a las sedes, cursos de orientación y clases abiertas con profesores universitarios. 
 -  Organizar anualmente el Seminario de "Orientación para el mundo del trabajo" donde participan en conferencias de profesionales especialistas en la materia, se capacitan en la confección de sus Curriculum Vitae, reconocimiento de fortalezas y debilidades para futuras entrevistas laborales y son entrevistados por padres profesionales convocados, quienes los enfrentan a una simulación de búsqueda de su primer trabajo.   
 - Realizar pasantías laborales que  les permiten vivenciar ámbitos de trabajo del mundo real, relacionados con su orientación vocacional.
-
-
-
