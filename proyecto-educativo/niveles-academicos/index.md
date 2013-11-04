@@ -14,17 +14,17 @@ published: true
 ---
 
 
-### [Nivel inicial / Kindergarten](/proyecto-educativo/niveles-academicos/inicial)
-de 2 a 5 años de edad.
+### [Educación Inicial / Kindergarten](/proyecto-educativo/niveles-academicos/inicial)
+Comprende a los/as niños/as desde los dos (2) a los cinco (5) años de edad inclusive, siendo obligatorio el último año.
 
 ---
 
-### [Primaria / Primary](/proyecto-educativo/niveles-academicos/primaria)
-de 6 a 12 años de edad.
+### [Educación Primaria / Primary](/proyecto-educativo/niveles-academicos/primaria)
+Comienza a partir de los 6 a 12 años de edad y consta de 6 años. 
 
 ---
 
-### [Secundaria / Secondary](/proyecto-educativo/niveles-academicos/secundaria)
-de 13 a 17 años de edad.
+### [Educación Secundaria / Secondary](/proyecto-educativo/niveles-academicos/secundaria)
+Comienza a partir de los trece (13) hasta los diescisiete (17) años de edad. Consta de 6 años. 
 
 ---
