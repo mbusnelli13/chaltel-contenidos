@@ -7,7 +7,6 @@ subtitulo: Hola
 published: true
 ---
 
-
 # Servicio de Comedor
 
 El servicio del Comedor, bar y quiosco está concesionado a la Sra. Gladys Tula y su familia.         
@@ -28,3 +27,7 @@ Sr. Alan Maurel: 15 4028 2814
 
 **Horarios de Atención:** Lunes a Viernes de 8:00 a 15:00 hs.
 
+---
+
+#### ¿Consultas , dudas?
+Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto) 
