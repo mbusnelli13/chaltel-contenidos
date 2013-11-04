@@ -96,9 +96,13 @@ Cumplidos estos requisitos, están dadas las condiciones para realizar la inscri
 
 El periodo de entrevistas iniciales se realiza durante todo el año. Aceptamos solicitudes de admisión para el ingreso al ciclo lectivo en curso y los dos subsiguientes. 
 
-[Si desaa solicitar una entrevista inicial, por favor hacer click aquí](/admisiones/entrevista).
+[Solicitar una entrevista personal](/admisiones/entrevista).
 
 
 ### Prioridad
 
 La prioridad en la Admisión será otorgada a  hermanos de alumnos regulares,  hijos de exalumnos y luego, cuando se cuente con disponibilidad de vacantes, a los aspirantes que hayan superado todas las instancias del proceso de admisión.
+
+---
+
+Consultas? Dudas? [Contactenós]
