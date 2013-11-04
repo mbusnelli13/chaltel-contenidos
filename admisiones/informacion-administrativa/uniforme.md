@@ -7,7 +7,6 @@ subtitulo: Hola
 published: true
 ---
 
-
 # Uniforme reglamentario
 
 
@@ -39,4 +38,9 @@ published: true
 [Ficha de contacto]
 Proveedor exclusivo: 
 
-FORTELA : María y Sussini. Don Torucato. Tel.: 48461994. De lunes a viernes de 9 a 13 y de 16 a 20 hs. 
+FORTELA : María y Sussini. Don Torucato. Tel.: 48461994. De lunes a viernes de 9 a 13 y de 16 a 20 hs.
+
+---
+
+#### ¿Consultas , dudas?
+Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto) 
