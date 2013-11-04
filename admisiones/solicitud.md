@@ -1,19 +1,17 @@
 ---
 layout: default
-title: Solicitud de admision
+title: Solicitud de ingreso
 submenu: admisiones
 titular: Bienvenidos
 subtitulo: Hola
 published: true
 ---
 
-# Solicitud de Admisión
+# Solicitud de Ingreso
 
-## Texto introductorio
+## Completada la solicitud ingreso, quedará formalizado su interés en el Colegio y nos permitirá contactarlo telefónicamente para coordinar la entrevista pedagógica entre la Dirección del Colegio y su hijo/a.
 
-
-Complete el siguiente formulario. Todos los campos marcados con un asterisco son obligatorios.
-Que pasa cuando lo completamos...
+Por favor, complete el siguiente formulario. Todos los campos marcados con un asterisco son de caracter obligatorio.
 
 
 #### Datos del Solicitante
