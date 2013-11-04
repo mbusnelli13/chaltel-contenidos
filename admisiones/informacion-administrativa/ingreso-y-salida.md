@@ -7,7 +7,6 @@ subtitulo: Hola
 published: true
 ---
 
-
 # Ingreso y salida de alumnos
 
 
@@ -19,4 +18,9 @@ published: true
 ### Salida
 
 - **Nivel Inicial:** Los alumnos se retiran por el acceso de la calle Entre Ríos. Las maestras entregan  a los alumnos a sus padres y/o adultos autorizados. 
-- **Primaria y Secundaria:** Los alumnos se retiran por el acceso de la calle Meléndez. Los adultos responsables de retirar a los alumnos, se anotan por orden de llegada en un listado y esperan hasta que sean llamados por sus maestras. 
+- **Primaria y Secundaria:** Los alumnos se retiran por el acceso de la calle Meléndez. Los adultos responsables de retirar a los alumnos, se anotan por orden de llegada en un listado y esperan hasta que sean llamados por sus maestras.
+
+
+# Uniforme Reglamentario
+# Servicio de Transporte
+# Comedor escolar
