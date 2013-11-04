@@ -9,7 +9,14 @@ published: true
 
 # Solicitud de Entrevista Personal
 
-### Por favor completar el siguiente formulario. 
+## Gracias por su interés en nuestro Colegio. 
+
+### Por favor, le solicitamos completar el siguiente formulario. Una vez recibido, nos pondremos en contacto con usted para coordinar la fecha de la Entrevista.
+Muchas gracias
+
+(Firma)
+Laura Crespto
+Oficina de Admisiones
 
 
 #### Datos del Solicitante
@@ -23,10 +30,19 @@ Teléfono de contacto
 
 E-mail
 
-Nombre y fecha de nacimiento de/los postuntes 
+Nombre y fecha de nacimiento de/los postulantes 
 
-Establecimiento del cuál provienen
+Establecimiento del cuál proviene/n
 
-Comentario
+Comentario adicional ( Optativo)
 
 enviar
+
+
+Respuesta del formulario
+
+Sr./a (nombre)
+Muchas gracias por ponerse en contacto con nosotros. Nos comunicaremos con usted a la brevedad.
+
+Atte.
+Oficina de Admisiones
