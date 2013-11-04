@@ -78,7 +78,7 @@ Cumplidos estos requisitos, están dadas las condiciones para realizar la inscri
 
 **1) Presentar en la Administración del Colegio:**
 
-- [Solicitud de Inscripción]() (Un ejemplar por familia: Completa y firmada por ambos padres) 
+- [Contrato Educativo]() (Conformidad firmada por ambos padres y/o tutor) 
 - Fotocopias del DNI de cada hijo/a ( 1ra y 2da hoja) 
 - Certificado de libre de deuda (del Colegio anterior) 
 
@@ -102,5 +102,3 @@ El periodo de entrevistas iniciales se realiza durante todo el año. Aceptamos s
 ### Prioridad
 
 La prioridad en la Admisión será otorgada a  hermanos de alumnos regulares,  hijos de exalumnos y luego, cuando se cuente con disponibilidad de vacantes, a los aspirantes que hayan superado todas las instancias del proceso de admisión.
-
-
