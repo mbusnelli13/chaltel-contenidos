@@ -9,18 +9,18 @@ published: true
 
 # Niveles Académicos
 
-## Los doce años tradicionales de educación están conformados por cuatro ciclos de tres años cada uno. Antes de ellos se encuentra el Nivel Inicial.
+## La educación es obligatoria desde la edad de cinco años y hasta la finalización de la escuela secundaria. Nuestro proyecto comprender tres (3) de los cuatro (4) niveles de la estructura del Sistema Educativo Argentino:
 
 ---
 
 
 ### [Educación Inicial / Kindergarten](/proyecto-educativo/niveles-academicos/inicial)
-Comprende a los/as niños/as desde los dos (2) a los cinco (5) años de edad inclusive, siendo obligatorio el último año.
+Comprende a los/as niños/as desde los dos (2) a los cinco (5) años de edad inclusive, siendo obligatorio el último año. Consta de Sala de dos (2) hasta Preescolar. 
 
 ---
 
 ### [Educación Primaria / Primary](/proyecto-educativo/niveles-academicos/primaria)
-Comienza a partir de los 6 a 12 años de edad y consta de 6 años. 
+Comienza a partir de los seis (6) hasto los doce (12) años de edad. Consta de 6 años. 
 
 ---
 
