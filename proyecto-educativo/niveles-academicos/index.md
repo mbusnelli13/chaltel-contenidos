@@ -11,7 +11,7 @@ published: true
 
 ## Según lo establecido por la legislación nacional, la educación es obligatoria desde la edad de cinco años y hasta la finalización de la escuela secundaria. 
 
-##Nuestro proyecto comprende los siguientes niveles 
+###Nuestro proyecto comprende los siguientes niveles educativos:
 
 ---
 
