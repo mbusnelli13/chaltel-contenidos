@@ -28,7 +28,7 @@ En la entrevista personal a cargo de la Directora General, se les brindará toda
 
 Mantenida la entrevista inicial, las familias interesadas en inscribir a su hijo/a, podrán continuar formalmente con el proceso de admisión. Para ello, deberán completar  online la ‘Solicitud de Ingreso’. También podrán optar por descargar la Solicitud y presentarla en un sobre cerrado con Nombre y Apellido del alumno/a, en la Recepción del Colegio.   
 
-De esta manera, quedará formalizado su interés en el Colegio y nos permitirá  ponernos nuevamente en contacto telefónico con usted, para coordinar el próximo encuentro con su hijo/a.
+De esta manera, quedará formalizado su interés en el Colegio y nos permitirá  ponernos nuevamente en contacto telefónico con la familia, para coordinar el próximo encuentro con su hijo/a.
 
 [Completar la solicitud de ingreso](/admisiones/proceso/solicitud).
 [Descargar la solicitud de Admisión]
@@ -38,7 +38,9 @@ De esta manera, quedará formalizado su interés en el Colegio y nos permitirá 
 [Persona entrevista a niño]
 ### 3. Entrevista pedagógica con el alumno/a
 
-Confirmada la intención de ingreso y en caso de existir vacante disponible, nos comunicaremos con usted,  para indicarle la fecha y el horario en que su hijo/a deberá concurrir  al Colegio para mantener la entrevista pedagógica con la Directora y la Psicopedagoga de la sección correspondiente.Paralelamente, recibirá un e-amail con los requisitos necesarios.
+Confirmada la intención de ingreso y en caso de existir vacante disponible, nos comunicaremos con usted,  para indicarle la fecha y el horario en que su hijo/a deberá concurrir  al Colegio para mantener la entrevista pedagógica con la Directora y la Psicopedagoga de la sección correspondiente.
+
+Paralelamente, recibirá un e-amail con los requisitos necesarios.
 
 #### Tipo de entrevista por nivel:
 
@@ -105,4 +107,4 @@ La prioridad en la Admisión será otorgada a  hermanos de alumnos regulares,  h
 
 ---
 
-Consultas? Dudas? [Contactenós]
+Consultas? Dudas? [Contactenós] > contacto admisiones
