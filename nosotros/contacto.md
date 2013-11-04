@@ -15,7 +15,7 @@ Muchas gracias.
 
 ### Formulario de contacto
 
-Le recordamos que todos los campos marcados con un asterisco son de caracter obligatorio.
+Todos los campos marcados con un asterisco son de caracter obligatorio.
 
 - Asunto de la consulta: Información específica / Admisiones / 
 Temas administrativos
