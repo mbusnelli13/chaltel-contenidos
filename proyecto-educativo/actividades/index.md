@@ -14,40 +14,40 @@ published: true
 ---
 
 [Foto]
-### [Expresiones Artísticas](/proyecto-educativo/actividades/expresiones-artisticas)
+### [Expresiones Artísticas]({{site.baseurl}}/proyecto-educativo/actividades/expresiones-artisticas)
 Arte, música y teatro.
 
 ---
 [Foto]
-### [Educación Física](/proyecto-educativo/actividades/educacion-fisica)
+### [Educación Física]({{site.baseurl}}/proyecto-educativo/actividades/educacion-fisica)
 Deportes, campamentos, torneos y giras deportivas.
 
 
 
 ---
 [Foto]
-### [Tecnología](/proyecto-educativo/actividades/tecnologia)
+### [Tecnología]({{site.baseurl}}/proyecto-educativo/actividades/tecnologia)
 
 
 ---
 [Foto]
-### [Tercer Idioma](/proyecto-educativo/actividades/tercer-idioma)
+### [Tercer Idioma]({{site.baseurl}}/proyecto-educativo/actividades/tercer-idioma)
 Francés.
 
 ---
 
 
 [Foto]
-### [Acompañamiento y Orientación](/proyecto-educativo/actividades/acompanamiento-y-orientacion)
+### [Acompañamiento y Orientación]({{site.baseurl}}/proyecto-educativo/actividades/acompanamiento-y-orientacion)
 Dpto. de Orientación y orientación vocacional.
 
 ---
 [Foto]
 
-### [Actividades Complementarias](/proyecto-educativo/actividades/actividades-complementarias)
+### [Actividades Complementarias]({{site.baseurl}}/proyecto-educativo/actividades/actividades-complementarias)
 Actividades extra clase, salidas didácticas, viajes de estudio, competencias culturales y biblioteca.
 
 ---
-
-### [Educación en Valores](/proyecto-educativo/actividades/actividades-complementarias)
+[Foto]
+### [Educación en Valores]({{site.baseurl}}/proyecto-educativo/actividades/educacion-en-valores)
 Proyecto Valores, Assemblies, y Servicio Comunitario.
