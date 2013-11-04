@@ -7,7 +7,6 @@ subtitulo: Hola
 published: true
 ---
 
-
 # Primaria / Primary
 ## Educamos a alumnos de 6 a 12 años de edad.
 
@@ -35,13 +34,15 @@ Nuestro currículo fue diseñado con el fin de que los alumnos sean capaces de:
 
 Se inicia el aprendizaje de Francés como segunda lengua extranjera.
 
+La formación académica se complementa con una selección de conocimientos relevantes extraídos de la tecnología, de las experiencias estético-expresivas (Artes Plásticas, Música, Teatro, Formaciones Orquestales) y de las actividades deportivas (campamentos, viajes de estudio y giras deportivas).
+
 Se desarrolla el Proyecto Valores, sistematizando su educación a través de 18 valores humanos universales como eje transversal del currículo, los que se constituyen en los objetivos actitudinales que los alumnos deberán asumir a lo largo del año. 
 
 Algunos de los hilos conductores que se trabajan a lo largo de la escolaridad son: bienestar y promoción de la salud, conocimiento de uno mismo, comunicación, convivencia, resolución de conflictos y toma de decisiones.
 
 Se realizan:
 
-- Visitas guiadas a exposiciones y  museos
+- Visitas guiadas a exposiciones, museos y sitios de interes cultural
 - Obras de teatro en inglés
 - Giras deportivas
 - Campamentos educativos 
