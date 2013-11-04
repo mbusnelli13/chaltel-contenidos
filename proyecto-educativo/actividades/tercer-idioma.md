@@ -7,7 +7,7 @@ subtitulo: null
 published: true
 ---
 
-# Tercer Idioma
+# Francés
 
 ![Foto de ...](http://placeimg.com/720/200/nature)
 
