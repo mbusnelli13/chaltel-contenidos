@@ -9,12 +9,13 @@ published: true
 
 # Solicitud de Ingreso
 
-## Completada la solicitud ingreso, quedará formalizado su interés en el Colegio y nos permitirá contactarlo telefónicamente para coordinar la entrevista pedagógica con su hijo/a.
+## Completada la solicitud, quedará formalizado su interés en el Colegio y nos permitirá contactarlo telefónicamente para coordinar la próxima entrevista pedagógica con su hijo/a.
 
-Por favor, complete el siguiente formulario. Todos los campos marcados con un asterisco son de caracter obligatorio.
+Por favor, le solicitamos completar el siguiente formulario. 
 
 
 #### Datos del Solicitante
+Todos los campos marcados con un asterisco son de caracter obligatorio.
 
 Nombre
 
