@@ -7,7 +7,7 @@ subtitulo: Hola
 published: true
 ---
 
-# Secundaria / Secondary
+# Educación Secundaria / Secondary
 ## Educamos a alumnos de 13 a 17 años de edad.
 
 
