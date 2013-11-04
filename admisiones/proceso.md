@@ -84,7 +84,7 @@ Cumplidos estos requisitos, están dadas las condiciones para realizar la inscri
 
 **2) Abonar la matrícula correspondiente (ver [Aranceles educativos]())**
 
-[Descargar la Solicitud de Inscripción]
+[Descargar el Contrato Educativo]
 
 ---
 
