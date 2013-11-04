@@ -11,8 +11,9 @@ published: true
 
 ![Foto de ...](http://placeimg.com/720/300/arch)
 
+## Brindamos a los alumnos una intensa formación académica bilingüe, fomentando su desarrollo integral y promoviendo el aprendizaje de competencias y habilidades que les permitan construir un proyecto de vida en conformidad con su propio ser.
 
-#### Se aspira a que el egresado sea: 
+#### Por lo tanto, aspiramos a que el Egresado sea: 
 
 
 - Una persona libre, capaz de actuar de acuerdo a los valores asumidos como fundamentales para su realización plena y el bien común 
