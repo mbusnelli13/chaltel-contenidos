@@ -11,7 +11,7 @@ published: true
 
 ![Foto de ...](http://placeimg.com/720/200/nature)
 
-## Se impulsa la capacidad sensorial y creativa de cada alumno, en un proceso donde se involucran aspectos emocionales, perceptivos e intelectuales a través de la concreción de distintos trabajos y actividades  con la idea de la obra realizada con dedicación, entrega  y creatividad.
+## Impulsamos la capacidad sensorial y creativa de cada alumno, en un proceso donde se involucran aspectos emocionales, perceptivos e intelectuales.
 
 
 ### Plástica
@@ -41,5 +41,3 @@ Se estimula el desarrollo de habilidades sociales teniendo como principal objeti
 [Thumb de 3 videos]
 
 <iframe width="220" height="165" src="//www.youtube.com/embed/sSOEaJoSPZw" frameborder="0" allowfullscreen></iframe>
-
-
