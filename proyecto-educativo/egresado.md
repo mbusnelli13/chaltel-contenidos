@@ -11,10 +11,9 @@ published: true
 
 ![Foto de ...](http://placeimg.com/720/300/arch)
 
-## Brindamos una completa formación académica, fomentando el desarrollo integral y promoviendo el aprendizaje de competencias y habilidades que permitan a cada uno de nuestro alumnos construir un proyecto de vida en conformidad con su propio ser.
+## Brindamos una completa formación académica, fomentando el desarrollo integral y promoviendo el aprendizaje de competencias y habilidades que permitan a cada uno de nuestros alumnos, construir un proyecto de vida en conformidad con su propio ser.
 
 #### Por lo tanto, aspiramos a que el Egresado sea: 
-
 
 - Una persona libre, capaz de actuar de acuerdo a los valores asumidos como fundamentales para su realización plena y el bien común 
 
