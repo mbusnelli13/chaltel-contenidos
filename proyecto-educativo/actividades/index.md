@@ -27,12 +27,12 @@ Deportes, campamentos, torneos y giras deportivas.
 ---
 [Foto]
 ### [Tecnología](/proyecto-educativo/actividades/tecnologia)
-???
+
 
 ---
 [Foto]
 ### [Tercer Idioma](/proyecto-educativo/actividades/tercer-idioma)
-???
+Francés.
 
 ---
 
@@ -45,7 +45,7 @@ Dpto. de Orientación y orientación vocacional.
 [Foto]
 
 ### [Actividades Complementarias](/proyecto-educativo/actividades/actividades-complementarias)
-Actividades extra clase, salidas didácticas, viajes de estudio, servicio comunitario, Proyecto Valores, competencias culturales y biblioteca.
+Actividades extra clase, salidas didácticas, viajes de estudio, competencias culturales y biblioteca.
 
 ---
 
