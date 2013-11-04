@@ -9,7 +9,7 @@ published: true
 
 # Información Administrativa
 
-## Esto es un copete, respetar el largo del párrafo. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+## Chaltel es un Colegio de gestión privada sin subvención estatal. Su funcionamiento está financiado exclusivamente por los aportes recibidos de las familias de los alumnos, en contraprestación de los servicios educativos ofrecidos.
 
 ---
 
