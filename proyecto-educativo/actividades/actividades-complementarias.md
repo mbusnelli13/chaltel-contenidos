@@ -11,7 +11,7 @@ published: true
 
 ![Foto de ...](http://placeimg.com/720/200/nature)
 
-## Ofrecemos diferentes tipos de actividades y entornos para enriquecer el acervo cultural y la calidad de aprendizaje de nuestros alumnos
+## Ofrecemos diferentes tipos de actividades, estimulos y entornos para enriquecer el acervo cultural y la calidad de aprendizaje de nuestros alumnos
 
 ### Actividades extra clase
 
