@@ -11,12 +11,12 @@ published: true
 
 ## Gracias por su interés en nuestro Colegio. 
 
-### Por favor, le solicitamos completar el siguiente formulario. Una vez recibido, nos pondremos en contacto con usted para coordinar la fecha de la Entrevista.
-Muchas gracias
+#### Por favor, le solicitamos completar el siguiente formulario. Una vez recibido, nos pondremos en contacto con usted para coordinar la fecha de la entrevista. 
+####Muchas gracias. 
 
 (Firma)
-Laura Crespto
-Oficina de Admisiones
+####Laura Crespto
+####Oficina de Admisiones
 
 
 #### Datos del Solicitante
