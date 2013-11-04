@@ -30,3 +30,10 @@ Todos los campos marcados con un asterisco son de caracter obligatorio.
 - Email
 - Telefono de contacto
 - Mensaje
+
+
+_Respuesta del formulario
+
+Sr./a (nombre) Muchas gracias por ponerse en contacto con nosotros. Nos comunicaremos con usted a la brevedad.
+
+Atte. Oficina de Admisiones_
