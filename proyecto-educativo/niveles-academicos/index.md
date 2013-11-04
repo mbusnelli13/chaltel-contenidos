@@ -9,7 +9,7 @@ published: true
 
 # Niveles Académicos
 
-## Esto es un copete, respetar el largo aproximado del párrafo.Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.
+## Los doce años tradicionales de educación están conformados por cuatro ciclos de tres años cada uno. Antes de ellos se encuentra el Nivel Inicial.
 
 ---
 
