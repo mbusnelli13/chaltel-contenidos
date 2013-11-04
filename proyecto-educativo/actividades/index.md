@@ -48,3 +48,6 @@ Dpto. de Orientación y orientación vocacional.
 Actividades extra clase, salidas didácticas, viajes de estudio, servicio comunitario, Proyecto Valores, competencias culturales y biblioteca.
 
 ---
+
+### [Educación en Valores](/proyecto-educativo/actividades/actividades-complementarias)
+Proyecto Valores, Assemblies, y Servicio Comunitario.
