@@ -7,8 +7,7 @@ subtitulo: Hola
 published: true
 ---
 
-
-# Nivel inicial / Kindergarten
+# Educación inicial / Kindergarten
 ## Educamos a alumnos de 2 a 5 años de edad.
 
 
