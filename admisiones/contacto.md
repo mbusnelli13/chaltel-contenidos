@@ -15,7 +15,7 @@ Foto.
 
 
 Soledad Genta
-Directora
+Asistente
 Oficina de Admisiones
 Tel. Directo: 
 Enviar e-mail
