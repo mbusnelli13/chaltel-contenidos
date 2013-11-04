@@ -24,7 +24,7 @@ Teléfono de contacto
 
 E-mail
 
-Nombre y fecha de nacimiento de/los postulantes 
+Nombre y fecha de nacimiento de/los candidatos 
 
 Establecimiento del cuál proviene/n
 
