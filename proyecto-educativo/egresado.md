@@ -14,7 +14,7 @@ published: true
 ## Copete....  
 
 
-#### Se aspira a que el egresado /a sea: 
+#### Se aspira a que el egresado sea: 
 
 
 - Una persona libre, capaz de actuar de acuerdo a los valores asumidos como fundamentales para su realización plena y el bien común 
@@ -26,6 +26,3 @@ published: true
 - Atento con  los límites de su conducta y actitud en la vida social y personal , respetuoso de las normas de convivencia y preparado para hacerlas respetar
 - Responsable con el cuidado de su cuerpo y su salud, el bienestar de sus allegados, la protección del medio ambiente, y todo aquello que se haga para respetar los legados de la naturaleza y la perduración de las especies
 - Muestra  evidente de una cultivada sensibilidad estética y una activa inquietud por las manifestaciones artísticas y culturales, como elementos enriquecedores de su personalidad y su quehacer cotidiano
-
-
-
