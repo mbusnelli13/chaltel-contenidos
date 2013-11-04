@@ -13,11 +13,11 @@ published: true
 
 ---
 
-### [Aranceles educativos](/admisiones/informacion-administrativa/aranceles)
+### [Aranceles educativos]({{baseurl}}/admisiones/informacion-administrativa/aranceles)
 
 ---
 
-### [Horario Escolar](/admisiones/informacion-administrativa/horario)
+### [Horario Escolar]({{baseurl}}/admisiones/informacion-administrativa/horario)
 
 
 ---
