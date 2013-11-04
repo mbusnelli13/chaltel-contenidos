@@ -7,7 +7,7 @@ subtitulo: Hola
 published: true
 ---
 
-# Primaria / Primary
+# Educación Primaria / Primary
 ## Educamos a alumnos de 6 a 12 años de edad.
 
 
