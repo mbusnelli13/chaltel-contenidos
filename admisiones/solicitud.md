@@ -22,8 +22,8 @@ Todos los campos marcados con un asterisco son de caracter obligatorio.
 ---
 
 ###Datos del Aspirante: Nº1 (Correspondiente a si eligio 1 hijo, si elije 2 hijos, deberia aparecer un formulario como el que sigue para el proximo hijo y asi sucesivamente)
-Sector (menu desplegable: Nivel Inicial, Primaria, Secundaria)
-Año	(menu desplegable: Si es Nivel Inicial ( K2, K3, k4, K5) , si es Primaria (1,2,3,4,5,6), y si es Secundaria: (1,2,3,4,5,6))
+Nivel (menu desplegable: Nivel Inicial, Primaria, Secundaria)
+Año	(menu desplegable: Si es Nivel Inicial ( Sala de 2, Sala de 3, Sala de 4, Sala de 5) , si es Primaria (1,2,3,4,5,6), y si es Secundaria: (1,2,3,4,5,6))
 Turno: Menu desplegable. Solo si es Nivel Inicial (mañana / tarde)
 Solicitud de ingreso para: (Menu desplegable: años en numero: 2015,2016, etc. etc.)  
 Nombre completo	 
