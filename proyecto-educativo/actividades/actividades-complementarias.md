@@ -15,7 +15,7 @@ published: true
 
 ### Actividades extra clase
 
-####Terminada la jornada escolar y en un clima de amistad  y compañerismo, se desarrollan en el Colegio actividades de carácter recreativo denominadas Clubes. Estas son de carácter optativo para los alumnos, abiertas a toda la comunidad y aranceladas. 
+Terminada la jornada escolar y en un clima de amistad  y compañerismo, se desarrollan en el Colegio actividades de carácter recreativo denominadas Clubes. Estas son de carácter optativo para los alumnos, abiertas a toda la comunidad y aranceladas. 
 
 El Colegio subsidia dos de estos los clubes, en donde el contenido trabajado, tiene relación directa con las actividades que los alumnos desarrollan durante la jornada escolar: Choir (Coro) y Drama Club (Teatro)
 
@@ -37,7 +37,7 @@ Algunos de ellos pueden ser:
 
 ### Salidas didácticas
 
-####Las salidas didácticas brindan a los alumnos la posibilidad de elaborar y construir conocimientos a partir de experiencias vivenciales que complementan las actividades que se realizan en el aula, fomentando la riqueza cultural y el aprendizaje en distintas situaciones y  escenarios. 
+Las salidas didácticas brindan a los alumnos la posibilidad de elaborar y construir conocimientos a partir de experiencias vivenciales que complementan las actividades que se realizan en el aula, fomentando la riqueza cultural y el aprendizaje en distintas situaciones y  escenarios. 
 
 En Nivel Inicial se realizan paseos como la visita al Planetario, al Museo de Bellas Artes, el Zoológico, obras de teatro en inglés, un día de granja, etc. 
 
@@ -48,7 +48,7 @@ En Primaria y Secundaria se realizan  visitas guiadas a exposiciones, museos, un
 
 ### Viajes de estudio
 
-####Los alumnos de Primaria y Secundaria tienen la posibilidad de conocer a través de los distintos viajes, dentro y fuera del país, diferentes destinos, costumbres y culturas con el objetivo de acumular experiencias enriquecedoras tanto a nivel personal como cultural.
+Los alumnos de Primaria y Secundaria tienen la posibilidad de conocer a través de los distintos viajes, dentro y fuera del país, diferentes destinos, costumbres y culturas con el objetivo de acumular experiencias enriquecedoras tanto a nivel personal como cultural.
 
 #### Viajes de Estudio Primaria
 
@@ -59,7 +59,7 @@ En Primaria y Secundaria se realizan  visitas guiadas a exposiciones, museos, un
 
 ### Competencias Culturales
 
-####En pos de revalidar los conocimientos y exponer a los alumnos a diferentes estímulos en Primaria y Secundaria se participa de las siguientes competencias externas: 
+En pos de revalidar los conocimientos y exponer a los alumnos a diferentes estímulos en Primaria y Secundaria se participa de las siguientes competencias externas: 
 
 #### En castellano:
 
@@ -84,7 +84,7 @@ En Primaria y Secundaria se realizan  visitas guiadas a exposiciones, museos, un
 
 ### Biblioteca
 
-####La Biblioteca es un espacio educativo en donde se fomenta la lectura, la investigación, el descubrimiento, el estudio y la autoformación.
+La Biblioteca es un espacio educativo en donde se fomenta la lectura, la investigación, el descubrimiento, el estudio y la autoformación.
 
 Ofrece una amplia selección bibliográfica, que consta de volúmenes con materiales en los idiomas castellano e inglés y abarca:
 
