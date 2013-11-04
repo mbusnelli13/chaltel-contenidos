@@ -7,7 +7,6 @@ subtitulo: Hola
 published: true
 ---
 
-
 # Aranceles
 
 El arancel  es anual, y será facturado en 10 cuotas mensuales consecutivas a abonar  desde el mes de Febrero hasta el mes de Noviembre inclusive.
@@ -68,3 +67,5 @@ Los ex alumnos del Colegio se benefician con un descuento del 20% sobre el aranc
 - El transporte escolar del domicilio al Colegio y viceversa.
 - El alquiler mensual de lockers (Alumnos Secundaria)
 
+
+Consultas ? Dudas? Contáctenos
