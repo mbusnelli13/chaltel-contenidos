@@ -9,9 +9,24 @@ published: true
 
 # Contacto de Admisiones
 
-## Gracias por su interes en nuestra propuesta.
 
 
-[computadora y persona escribiendo]
-### 1. Solicitud de Entevista Inicial
-Las familias interesadas en conocer personalmente el Colegio y/o obtener
+Foto.
+
+
+Soledad Genta
+Directora
+Oficina de Admisiones
+Tel. Directo: 
+Enviar e-mail
+
+### Formulario de contacto
+
+Todos los campos marcados con un asterisco son de caracter obligatorio.
+
+- Asunto de la consulta: Admisiones
+- Nombre
+- Apellido
+- Email
+- Telefono de contacto
+- Mensaje
