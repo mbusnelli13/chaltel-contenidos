@@ -7,14 +7,14 @@ subtitulo: Hola
 published: true
 ---
 
-# Solicitud de Ingreso
+# Solicitud de Admisión
 
-## Enviada la Solicitud de Ingreso, quedará formalizado su interés en el Colegio.  
+## Enviada la Solicitud de Admisión, quedará formalizado su interés en el Colegio.  
 
 Por favor, le solicitamos completar el siguiente formulario. Una vez recibido, nos pondremos en contacto con usted, para coordinar la próxima entrevista pedagógica con su hijo/a. 
 
 
-### Solicitud de Ingreso
+### Solicitud de Admisión
 Todos los campos marcados con un asterisco son de caracter obligatorio.
 
 ##Candidatos (Menu desplegable : 1 hijo, 2 hijos, 3 hijos, 4 hijos)
@@ -109,9 +109,5 @@ Localidad
 Codigo Postal
 Telefono fijo
 
-
-
-
 Información adicional
 Por favor agregue cualquier comentario que considere de utilidad
-
