@@ -11,7 +11,7 @@ published: true
 
 ![Foto de ...](http://placeimg.com/720/300/arch)
 
-## Brindamos a los alumnos una intensa formación académica bilingüe, fomentando su desarrollo integral y promoviendo el aprendizaje de competencias y habilidades que les permitan construir un proyecto de vida en conformidad con su propio ser.
+## Brindamos una completa formación académica, fomentando el desarrollo integral y promoviendo el aprendizaje de competencias y habilidades que permitan a cada uno de nuestro alumnos construir un proyecto de vida en conformidad con su propio ser.
 
 #### Por lo tanto, aspiramos a que el Egresado sea: 
 
