@@ -36,4 +36,7 @@ _Respuesta del formulario
 
 Sr./a (nombre) Muchas gracias por ponerse en contacto con nosotros. Nos comunicaremos con usted a la brevedad.
 
-Atte. Oficina de Admisiones_
+Atte. 
+Soldedad Genta
+Directora
+Oficina de Admisiones_
