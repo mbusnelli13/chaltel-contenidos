@@ -41,26 +41,6 @@ Nivel
 ¿Con idioma inglés?	Desplegable si, no
 
 ##Datos familiares
-###Personal / Personales (del padre y/o tutor)
-Nombre completo	
-Fecha de nacimiento	 /   /   dd/mm/aaaa
-Celular	
-Correo electrónico	
-Nacionalidad	
-Religión	
-Profesión	
-Estado civil (Desplegable scasado, divorciado, viudo, Soltero)
-
-####Laborales
-Nombre de la empresa	
-Cargo	
-Rubro	
-Teléfono	
-Dirección de la empresa	
-
-####Académicos
-Escuela Secundaria	  
-Estudios Adicionales	
 
 ###Personal / Personales (de la madre y/o tutor)
 Nombre completo	
@@ -83,6 +63,30 @@ Dirección de la empresa
 Escuela Secundaria	  
 House	
 Estudios Adicionales
+###Personal / Personales (del padre y/o tutor)
+Nombre completo	
+Fecha de nacimiento	 /   /   dd/mm/aaaa
+Celular	
+Correo electrónico	
+Nacionalidad	
+Religión	
+Profesión	
+Estado civil (Desplegable scasado, divorciado, viudo, Soltero)
+
+####Laborales
+Nombre de la empresa	
+Cargo	
+Rubro	
+Teléfono	
+Dirección de la empresa	
+
+####Académicos
+Escuela Secundaria	  
+Estudios Adicionales	
+
+####Hermanos (que concurran a otros establecimientos o no estén en edad escolar)
+Nombre/s  
+Edad/es
 
 ###Domicilio 
 Sus hijos viven con: ( desplegables: padres, madre, padre, otro)
