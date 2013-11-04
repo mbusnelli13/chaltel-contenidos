@@ -14,11 +14,11 @@ published: true
 ---
 [Personas entrevista]
 ### 1. Entrevista Personal
-Las familias interesadas en conocer personalmente el Colegio,deberá solicitar una entrevista personal completando online, el formulario de Solicitud de Entrevista Personal.
+Las familias interesadas en conocer personalmente el Colegio,deberán solicitar una entrevista personal completando online, el formulario de Solicitud de Entrevista Personal.
 
 Una vez enviada y recibida la solicitud, nos pondremos en contacto con usted, para concertar una fecha de entrevista. 
 
-En la entrevista personal, a cargo de la Directora General, se les brindará toda la información institucional necesaria, podrán evacuar sus dudas y/o inquietudes  y  realizar una visita guiada por las instalaciones del Colegio.  
+En la entrevista personal a cargo de la Directora General, se les brindará toda la información institucional necesaria, podrán evacuar sus dudas y/o inquietudes  y  realizar una visita guiada por las instalaciones del Colegio.  
 
 [Solicitar Entrevista Personal](/admisiones/proceso/entrevista)
 
