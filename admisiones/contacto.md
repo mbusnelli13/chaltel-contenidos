@@ -38,5 +38,5 @@ Sr./a (nombre) Muchas gracias por ponerse en contacto con nosotros. Nos comunica
 
 Atte. 
 Soldedad Genta
-Directora
+Asistente
 Oficina de Admisiones_
