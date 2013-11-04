@@ -9,7 +9,9 @@ published: true
 
 # Niveles Académicos
 
-## La educación es obligatoria desde la edad de cinco años y hasta la finalización de la escuela secundaria. Nuestro proyecto comprender tres (3) de los cuatro (4) niveles de la estructura del Sistema Educativo Argentino:
+## Según lo establecido por la legislación nacional, la educación es obligatoria desde la edad de cinco años y hasta la finalización de la escuela secundaria. 
+
+##Nuestro proyecto comprende los siguientes niveles 
 
 ---
 
