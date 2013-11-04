@@ -22,34 +22,28 @@ published: true
 
 ---
 
-### [Ingreso y salida de alumnos]()
+### [Ingreso y salida de alumnos]({{ site.baseurl }}/admisiones/informacion-administrativa/ingreso-y-salida)
 
 
 ---
 
-### [Uniforme Reglamentario]()
-
-
-
+### [Uniforme Reglamentario]({{ site.baseurl }}/admisiones/informacion-administrativa/uniforme)
 
 ---
 
-
-### [Documentación requerida]()
-
-
+### [Documentación requerida]({{ site.baseurl }}/admisiones/informacion-administrativa/documentacion)
 
 ---
 
-### [Servicio de Comedor]()
+### [Servicio de Comedor]({{ site.baseurl }}/admisiones/informacion-administrativa/comedor)
 
 ---
 
-### [Transporte Escolar]() 
+### [Transporte Escolar]({{ site.baseurl }}/admisiones/informacion-administrativa/transporte) 
 
  
 
 ---
 
 #### ¿Consultas?
-Por favor, [contáctenos](/admisiones/contacto) y nos pondremos en contacto a la brevedad.
+Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto) y nos pondremos en contacto a la brevedad.
