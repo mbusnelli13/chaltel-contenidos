@@ -1,3 +1,10 @@
-## A New Post
+---
+layout: default
+title: Educación en Valores
+submenu: proyecto
+titular: null
+subtitulo: null
+published: true
+---
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+# Educación en Valores
