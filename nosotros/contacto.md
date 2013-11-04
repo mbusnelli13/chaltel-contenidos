@@ -10,7 +10,7 @@ published: true
 # Contáctenos
 
 ## Estamos a su disposición para ayudarlo en lo que necesite. Por favor, complete el el siguiente formulario y nos comunicaremos con usted a la brevedad. 
-Muchas gracias.
+
 
 
 ### Formulario de contacto
