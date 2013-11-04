@@ -9,7 +9,7 @@ published: true
 
 # Transporte Escolar
 
-El Colegio no ofrece servicio de transporte escolar sino que el mismo es contratado directamente por los padres de los alumnos quienes acuerdan libremente las modalidades y precios  y formas de pago con el transportista de su preferencia.
+El Colegio no ofrece servicio de transporte escolar, sino que el mismo, es contratado directamente por los padres de los alumnos quienes acuerdan libremente las modalidades y precios  y formas de pago con el transportista de su preferencia.
 
 Al ser la  contratación efectuada directamente por los padres no es obligación , ni responsabilidad del Colegio supervisar el servicio. A pesar de ello,  para simplificar la tarea de las familias se verifica periódicamente  el cumplimiento de la normativa vigente, para lo cual se solicita a los transportistas de confianza que ofrecen el servicio la siguiente documentación:
 
@@ -36,4 +36,4 @@ Sr. Alan Maurel: 15 4028 2814
 ---
 
 #### ¿Consultas , dudas?
-Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto) 
+Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto)
