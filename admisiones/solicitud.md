@@ -13,6 +13,8 @@ published: true
 
 Por favor, le solicitamos completar el siguiente formulario. Una vez recibido, nos pondremos en contacto con usted, para coordinar la próxima entrevista pedagógica con su hijo/a. 
 
+Recuerde que antes de completar este formulario, debe haber mantenido la entrevista inicial con la Directora General. 
+
 
 ### Solicitud de Ingreso
 Todos los campos marcados con un asterisco son de caracter obligatorio.
