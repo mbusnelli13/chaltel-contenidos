@@ -24,3 +24,11 @@ Temas administrativos
 - Email
 - Telefono de contacto
 - Mensaje
+
+----
+
+_Respuesta del formulario
+
+Sr./a (nombre) Muchas gracias por ponerse en contacto con nosotros. Nos comunicaremos con usted a la brevedad.
+
+Atte. Oficina de Admisiones_
