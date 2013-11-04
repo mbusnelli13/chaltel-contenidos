@@ -7,7 +7,6 @@ subtitulo: Hola
 published: true
 ---
 
-
 # Secundaria / Secondary
 ## Educamos a alumnos de 13 a 17 años de edad.
 
@@ -44,6 +43,8 @@ Los objetivos de Senior School también incluyen la preparación de los Diplomas
 
 ### Actividades
 
+La formación académica se complementa con una selección de conocimientos relevantes extraídos de la tecnología, de las experiencias estético-expresivas (Artes Plásticas, Música, Teatro, Formaciones Orquestales) y de las actividades deportivas. 
+
 Se desarrolla el Proyecto Valores y se realizan Assemblies en donde los alumnos, tienen un espacio organizado en grupo para compartir, charlar y reflexionar sobre los valores humanos universales a través de historias desarrolladas y moderadas por especialistas, Directores del Área y/o sus docentes , sobre sucesos que acontecen cotidianamente, acciones y reacciones colectivas e individuales, y o temas de actualidad. 
 
 Se realizan:
@@ -78,7 +79,3 @@ Los alumnos se gradúan  con el TITULO OFICIAL DE BACHILLER BILINGÜE  en   CIEN
 Galerías de imágenes  
 
 [Galeria de Secundaria: Ultimas 4/6 galerias]
-
-
-
-
