@@ -49,7 +49,7 @@ Correo electrónico
 Nacionalidad	
 Religión	
 Profesión	
-Estado civil (Desplegable scasado, divorsiado, viudo, Soltero)
+Estado civil (Desplegable scasado, divorciado, viudo, Soltero)
 
 ####Laborales
 Nombre de la empresa	
@@ -70,7 +70,7 @@ Correo electrónico
 Nacionalidad	
 Religión	
 Profesión	
-Estado civil (Desplegable casada, divorsiada, viuda, Soltera)
+Estado civil (Desplegable casada, divorciada, viuda, Soltera)
 
 ####Laborales
 Nombre de la empresa
