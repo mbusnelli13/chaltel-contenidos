@@ -39,7 +39,7 @@ Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolo
 
 ---
 [CLAVE]
-#### [Comunicaciones a los Padres]()
+#### [Comunicación Institucional]()
 **[Icono Comunicaciones]**
 
 Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
@@ -54,7 +54,7 @@ Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolo
 ---
 
 
-#### [Help desk]()
+#### [Ayuda]()
 **[Icono help]**
 
 Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
@@ -98,8 +98,6 @@ Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed 
 ---
 
 
-
-
 ### Comedor escolar
 
 **Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.**
@@ -107,3 +105,5 @@ Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed 
 [Menú comedor Enero 2014]()
 
 [Listado de precios]()
+
+Consulta ( Formulario de consultas)
