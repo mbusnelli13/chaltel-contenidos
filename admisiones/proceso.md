@@ -20,7 +20,7 @@ Una vez enviada y recibida la solicitud, nos pondremos en contacto con usted, pa
 
 En la entrevista personal a cargo de la Directora General, se les brindará toda la información institucional necesaria, podrán evacuar sus dudas y/o inquietudes  y  realizar una visita guiada por las instalaciones del Colegio.  
 
-[Solicitar Entrevista Personal](/admisiones/proceso/entrevista)
+[Solicitar Entrevista Personal]({{site.url}}/admisiones/entrevista)
 
 ---
 [Computadora]
@@ -30,8 +30,8 @@ Mantenida la entrevista inicial, las familias interesadas en inscribir a su hijo
 
 De esta manera, quedará formalizado su interés en el Colegio y nos permitirá  ponernos nuevamente en contacto telefónico con la familia, para coordinar el próximo encuentro con su hijo/a.
 
-[Completar la solicitud de ingreso](/admisiones/proceso/solicitud).
-[Descargar la solicitud de Admisión]
+[Completar la solicitud de ingreso](/admisiones/proceso/solicitud) [Descarga]
+
 
 
 ---
@@ -84,9 +84,9 @@ Cumplidos estos requisitos, están dadas las condiciones para realizar la inscri
 - Fotocopias del DNI de cada hijo/a ( 1ra y 2da hoja) 
 - Certificado de libre de deuda (del Colegio anterior) 
 
-**2) Abonar la matrícula correspondiente (ver [Aranceles educativos]())**
+**2) Abonar la matrícula correspondiente ([ver Aranceles educativos]({{site.url}}/admisiones/informacion-administrativa/aranceles/))**
 
-[Descargar el Contrato Educativo]
+[Contrato Educativo]() [Descarga]
 
 ---
 
@@ -98,7 +98,7 @@ Cumplidos estos requisitos, están dadas las condiciones para realizar la inscri
 
 El periodo de entrevistas iniciales se realiza durante todo el año. Aceptamos solicitudes de admisión para el ingreso al ciclo lectivo en curso y los dos subsiguientes. 
 
-[Solicitar una entrevista personal](/admisiones/entrevista).
+[Solicitar una entrevista personal]({{site.url}}/admisiones/entrevista).
 
 
 ### Prioridad

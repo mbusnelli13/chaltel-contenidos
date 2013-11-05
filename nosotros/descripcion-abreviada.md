@@ -130,6 +130,6 @@ Título oficial de Bachiller Bilingüe en Ciencias Sociales ( Disp. Nro. 312 de 
 xxxxx
 
 ## Quiero...
-- [Visitar y conocer personalmente el Colegio](http://www.google.com) > a Solicitud de primera entrevista
-- [Realizar una consulta específica](http://www.google.com) >A formulario
-- [Inscribir a mi hijo/a](http://www.google.com) > a Proceso de Admisión
+- [Visitar y conocer personalmente el Colegio]( {{site.baseurl}}/admisiones/entrevista )
+- [Realizar una consulta específica]({{site.baseurl}}/admisiones/contacto )
+- [Inscribir a mi hijo/a]( {{site.baseurl}}/admisiones/proceso )
