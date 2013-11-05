@@ -1,21 +1,21 @@
 ---
 layout: right
-title:  "Portal de Alumnos"
-titular: "Bienvenidos"
+title: Portal de Alumnos
+titular: Bienvenidos
 submenu: alumnos
-subtitulo: "Hola"
-
+subtitulo: Hola
+published: true
 ---
 
-# Bienvenidos
+# Bienvenido a tu portal
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
 
 
-### Accesos directos
+### Tu Panel
 
-Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+Acá, vas a encontrar los accesos directos para todas nuestras aplicaciones. 
 
 
 #### [Campus Virtual]()
@@ -107,6 +107,3 @@ Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed 
 [Menú comedor Enero 2014]()
 
 [Listado de precios]()
-
-
-
