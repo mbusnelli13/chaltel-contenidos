@@ -7,7 +7,7 @@ subtitulo: Hola
 published: true
 ---
 
-# Bienvenido/a a tu portal
+# Bienvenidos
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
