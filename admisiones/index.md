@@ -7,11 +7,13 @@ subtitulo: Hola
 published: true
 ---
 
-# Estimadas familias:
+#Bienvenidos
  
 ![Foto de ...](http://placeimg.com/720/300/arch)
 
   
+Estimadas familias:
+
 Nos alegra que estén pensando en el Chaltel como posible Colegio para la educación de sus hijos.
 
 Hemos diseñado un Proceso de Admisión, con la intención de ayudarlos a evaluar si nuestro proyecto, resulta la alternativa más adecuada para la educación de sus hijos y las aspiraciones de su familia. 
