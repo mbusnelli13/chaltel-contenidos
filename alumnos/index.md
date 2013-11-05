@@ -7,7 +7,7 @@ subtitulo: Hola
 published: true
 ---
 
-# Bienvenido a tu portal
+# Bienvenido/a a tu portal
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
@@ -15,41 +15,41 @@ published: true
 
 ### Tu Panel
 
-Acá, vas a encontrar los accesos directos para todas nuestras aplicaciones. 
+Encontrá los accesos directos para todas nuestras aplicaciones. 
 
 
 #### [Campus Virtual]()
 **[Icono librito]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Tus tareas, clases y trabajos online. Comunicate con tus compañeros y docentes: "24/7".
 
 ---
 
 #### [Información Académica]()
 **[Icono Computadora]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Encontrá tus notas, inasistencias y 
 
 ---
 
-#### [Google Apps]()
+#### [Nube]()
 **[Icono Google Apps]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Paquete de productividad basado en la nube que te ayuda a estar comunicado y agilizar el trabajo estés donde estés, con cualquier dispositivo: E-mail, Drive, Docs, Hojas de cálculo, diapositivas...
 
 ---
 [CLAVE]
 #### [Comunicación Institucional]()
 **[Icono Comunicaciones]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Encontrá archivadas en un mismo lugar, todas las comunicaciónes enviadas desde las Direcciones  
 
 ---
 
 #### [Documentos Importantes]()
 **[Icono Documentos]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Si necesitas autorizaciones ( médicas, campamentos, salidas) , formularios, escudos del Colegio, etc. éste es el lugar!
 
 ---
 
