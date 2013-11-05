@@ -35,14 +35,14 @@ Encontrá tus notas, inasistencias y
 #### [Nube]()
 **[Icono Google Apps]**
 
-Paquete de productividad basado en la nube que te ayuda a estar comunicado y agilizar el trabajo estés donde estés, con cualquier dispositivo: E-mail, Drive, Docs, Hojas de cálculo, diapositivas...
+Google te ayuda a estar comunicado y agilizar tu trabajo: estés donde estés y desde cualquier dispositivo. E-mail, Drive, Docs, Hojas de cálculo, diapositivas...
 
 ---
 [CLAVE]
 #### [Comunicación Institucional]()
 **[Icono Comunicaciones]**
 
-Encontrá archivadas en un mismo lugar, todas las comunicaciónes enviadas desde las Direcciones  
+Todas las comunicaciones enviadas desde las Direcciones archivadas por nivel, fecha y año.  
 
 ---
 
@@ -57,14 +57,14 @@ Si necesitas autorizaciones ( médicas, campamentos, salidas) , formularios, esc
 #### [Ayuda]()
 **[Icono help]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Contactános ante cualquier duda, comentario y/o sugerencia. Nos comunicaremos con vos a la brevedad!
 
 ---
 
 
 ### Back to School Notes
 
-Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+Toda la información que necesitas para comenzar las clases; fechas, horarios, materiales y mucho más... Bienvenidos!
 
 #### Descargas
 
@@ -82,9 +82,9 @@ Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed 
 
 ---
 
-### Reglamento interno
+### Reglamento interno y de Convivencia Institucional
 
-Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+Documento que sirve como herramienta y guía para regular una adecuada convivencia entre todos los miembros de la Comunidad Educativa.
 
 #### Descargas
 
@@ -100,7 +100,7 @@ Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed 
 
 ### Comedor escolar
 
-**Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.**
+Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
 
 [Menú comedor Enero 2014]()
 
