@@ -28,33 +28,33 @@ Tu agenda, tus tareas, apuntes de clase y trabajos, disponibles online 24/7.
 #### [Información Académica]()
 **[Icono Computadora]**
 
-Tu boletín: todas las notas, inasistencias y sanciones. 
+Tu boletín: todas las notas, inasistencias e informes de conducta ( solo Secundaria). 
 
 ---
 
 #### [Nube]()
 **[Icono de una nube]**
 
-Trabajá y comunicate eficientemente, estés donde estes y desde cualquier dispositivo: E-mail, Google Drive, Docs, Hojas de cálculo...
+ webmail, Google Drive, Docs, Hojas de cálculo...
 
 ---
 [CLAVE]
 #### [Comunicación Institucional]()
 **[Icono Comunicaciones]**
 
-Reservorio con todas las comunicaciones enviadas desde las Dirección, archivadas por nivel, año y fecha.  
+Encontrá todas las comunicaciones enviadas desde la Dirección, archivadas por nivel, año y fecha.  
 
 ---
 
 #### [Documentos Importantes]()
 **[Icono Documentos]**
 
-Descargá, imprimí, completá y entregá: Autorizaciones, formularios, permisos, etc.  
+Descargá, imprimí, completá y entregá: Autorizaciones, formularios y permisos.  
 
 ---
 
 
-#### [Helpdesk]()
+#### [Mesa de Ayuda]()
 **[Icono help]**
 **[a formulario]**
 ¿Preguntas, dudas, sugerencias y/o comentarios? 
@@ -84,7 +84,7 @@ Encontrá toda la información que necesitas para comenzar las clases...
 
 ### Reglamento interno y de Convivencia Institucional
 
-Normas y procedimientos que regulan nuestro compromiso diario, conducta, derechos, obligaciones y deberes dentro del Colegio.
+Normas y procedimientos que regulan el compromiso diario, conducta, derechos, obligaciones y deberes de todos los miembros de la Comuniadd Educativa dentro del Colegio.
 
 #### Descargas
 
@@ -104,4 +104,3 @@ Normas y procedimientos que regulan nuestro compromiso diario, conducta, derecho
 
 [Listado de precios]()
 
-Consulta ( Formulario de consultas)
