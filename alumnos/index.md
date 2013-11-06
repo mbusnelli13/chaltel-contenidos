@@ -28,7 +28,7 @@ Tu agenda, tus tareas, apuntes de clase y trabajos, disponibles online 24/7.
 #### [Información Académica]()
 **[Icono Computadora]**
 
-Tu boletín: todas las notas, inasistencias e informes de conducta ( solo Secundaria). 
+El boletín Online : todas tus notas, inasistencias e informes de conducta ( solo Secundaria). 
 
 ---
 
@@ -103,4 +103,3 @@ Normas y procedimientos que regulan el compromiso diario, conducta, derechos, ob
 [Menú comedor Enero 2014]()
 
 [Listado de precios]()
-
