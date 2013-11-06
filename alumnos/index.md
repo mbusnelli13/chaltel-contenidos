@@ -15,41 +15,41 @@ published: true
 
 ### Tu Panel
 
-Encontrá los accesos directos para todas nuestras aplicaciones. 
+Encontrá todos los accesos rápidos para utilizar nuestras aplicaciones. 
 
 
 #### [Campus Virtual]()
 **[Icono librito]**
 
-Tus tareas, clases y trabajos online. Comunicate con tus compañeros y docentes: "24/7".
+Tus tareas, apuntes de clase y trabajos online, disponibles 24/7.
 
 ---
 
 #### [Información Académica]()
 **[Icono Computadora]**
 
-Encontrá tus notas, inasistencias y 
+Tu notas, inasistencias y sanciones. Actualización de datos personales.
 
 ---
 
 #### [Nube]()
-**[Icono Google Apps]**
+**[Icono de una nube]**
 
-Google te ayuda a estar comunicado y agilizar tu trabajo: estés donde estés y desde cualquier dispositivo. E-mail, Drive, Docs, Hojas de cálculo, diapositivas...
+Google: Comunicación y trabajo eficiente, estés donde estés y desde cualquier dispositivo: E-mail, Drive, Docs, Hojas de cálculo, diapositivas...
 
 ---
 [CLAVE]
 #### [Comunicación Institucional]()
 **[Icono Comunicaciones]**
 
-Todas las comunicaciones enviadas desde las Direcciones archivadas por nivel, fecha y año.  
+Reservorio con todas las comunicaciones enviadas desde las Direcciones, archivadas por nivel, año y fecha.  
 
 ---
 
 #### [Documentos Importantes]()
 **[Icono Documentos]**
 
-Si necesitas autorizaciones ( médicas, campamentos, salidas) , formularios, escudos del Colegio, etc. éste es el lugar!
+Descargá, imprimí, completá y entregá: Autorizaciones, formularios, permisos, etc.  
 
 ---
 
@@ -57,14 +57,14 @@ Si necesitas autorizaciones ( médicas, campamentos, salidas) , formularios, esc
 #### [Ayuda]()
 **[Icono help]**
 
-Contactános ante cualquier duda, comentario y/o sugerencia. Nos comunicaremos con vos a la brevedad!
+Evacuá tus dudas: consultá, comentá, sugerí y/o solicitá. 
 
 ---
 
 
 ### Back to School Notes
 
-Toda la información que necesitas para comenzar las clases; fechas, horarios, materiales y mucho más... Bienvenidos!
+Encontrá toda la información que necesitas para comenzar las clases... 
 
 #### Descargas
 
@@ -84,7 +84,7 @@ Toda la información que necesitas para comenzar las clases; fechas, horarios, m
 
 ### Reglamento interno y de Convivencia Institucional
 
-Documento que sirve como herramienta y guía para regular una adecuada convivencia entre todos los miembros de la Comunidad Educativa.
+Conjunto de normas y procedimientos que regulan los deberes de todos los miembros que conforman la Comunidad Educativa, 
 
 #### Descargas
 
@@ -99,8 +99,6 @@ Documento que sirve como herramienta y guía para regular una adecuada convivenc
 
 
 ### Comedor escolar
-
-Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
 
 [Menú comedor Enero 2014]()
 
