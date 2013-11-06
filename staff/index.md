@@ -49,7 +49,7 @@ Encontrá todas las comunicaciones que las Direcciones (General y la de tu secci
 #### [Documentos Importantes]()
 **[Icono Documentos]**
 **[Itendriamos que poder incorporar docuemtnos para los docentes sin que las vean los padres]**
-Reservorio con todos los archivos institucionales que podés necesitar y utilizar para realizar tu tarea diaria. Formularios, escudos, templates...
+Reservorio con todos los archivos institucionales que podés necesitar y utilizar para realizar tu tarea diaria. Formularios, escudos, papeles y tipografía institucional...
 
 
 ---
@@ -58,7 +58,7 @@ Reservorio con todos los archivos institucionales que podés necesitar y utiliza
 #### [Soporte]()
 **[Icono mesa de ayuda]**
 **[Formulario de zendesk]**
-Servicio de apoyo y ayuda para facilitar tu trabajo. Hacé tu pedido de materiales, fotocopias, reclamos,  avisos de manteniemto, consultas técnicas comentarios y/o sugerencias. 
+Servicio de apoyo y ayuda para facilitar tu trabajo. Hacé tu pedido de materiales, fotocopias, reclamos,  necesidad de mantenimiento, consultas técnicas, comentarios y/o sugerencias. 
 
 ---
 
@@ -99,11 +99,8 @@ Normas y procedimientos que regulan el compromiso diario, conducta, derechos, ob
 ---
 
 
-
-
 ### Comedor escolar
 
-**Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.**
 
 [Menú comedor Enero 2014]()
 
