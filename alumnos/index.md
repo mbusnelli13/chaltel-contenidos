@@ -35,7 +35,7 @@ El boletín Online : todas tus notas, inasistencias e informes de conducta ( sol
 #### [Nube]()
 **[Icono de una nube]**
 
- webmail, Google Drive, Docs, Hojas de cálculo...
+ Webmail institucional, Google Drive, Docs, Hojas de cálculo...
 
 ---
 [CLAVE]
