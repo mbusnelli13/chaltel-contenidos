@@ -7,10 +7,9 @@ subtitulo: Hola
 published: true
 ---
 
-# Portal de Padres
+# Portal para Padres
  
 ![Foto de ...](http://placeimg.com/720/300/people)
-
 
 
 ### Su panel
