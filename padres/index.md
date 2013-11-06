@@ -58,7 +58,7 @@ Descargue, imprima, complete y entregue, todas las autorizaciones, permisos y fo
 #### [Mesa de Ayuda]()
 **[Icono help]**
 
-Es un servicio que facilita y fomenta la comunicación e interacción entre el Colegio y cada familia. Recibimos todas sus consultas, dudas, comentarios, reclamos y/o sugerencias. 
+Servicio de soporte que facilita y fomenta la comunicación e interacción entre el Colegio y cada familia. Recibimos todas sus consultas, dudas, comentarios, reclamos y/o sugerencias. 
 
 
 ---
