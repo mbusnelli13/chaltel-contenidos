@@ -1,70 +1,71 @@
 ---
 layout: right
-title:  "Portal de Staff"
-titular: "Bienvenidos"
+title: Portal de Staff
+titular: Bienvenidos
 submenu: alumnos
-subtitulo: "Hola"
-
+subtitulo: Hola
+published: true
 ---
 
-# Bienvenidos
+# Portal de Staff
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
 
 
-### Accesos directos
+### Tu panel
 
-Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+Cliqueá en los accesos directos (íconos) para poder utilizar nuestras aplicaciones. 
 
 
 #### [Campus Virtual]()
 **[Icono librito]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Ingresá a tu Aula Virtual, en donde podrás "subir" comunicaciones, tareas, apuntes, comunicarte con tus alumnos  y sus familias. 
 
 ---
 
 #### [Boletines]()
 **[Icono Computadora]**
+Subí las calificaciones y las inasistencias online, desde el Colegio, tu casa o un bar. 
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
 
 ---
 
-#### [Webmail]()
+#### [Nube]()
 **[Icono Google Apps]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Trabajá y comunicate productivamente. Webmail institucional, calendarios, Google Drive, docs y muchos más...
 
 ---
 [CLAVE]
 #### [Comunicaciones de Dirección]()
 **[Icono Comunicaciones]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Encontrá todas las comunicaciones que las Direcciones (General y la de tu sección) envían a las familias. Organizadas por nivel, sala/año y fecha. 
 
 ---
 
 #### [Documentos Importantes]()
 **[Icono Documentos]**
+**[Itendriamos que poder incorporar docuemtnos para los docentes sin que las vean los padres]**
+Reservorio con todos los archivos institucionales que podés necesitar y utilizar para realizar tu tarea diaria. Formularios, escudos, templates...
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
 
 ---
 
 
-#### [Help desk]()
-**[Icono help]**
-
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+#### [Soporte]()
+**[Icono mesa de ayuda]**
+**[Formulario de zendesk]**
+Servicio de apoyo y ayuda para facilitar tu trabajo. Hacé tu pedido de materiales, fotocopias, reclamos,  avisos de manteniemto, consultas técnicas comentarios y/o sugerencias. 
 
 ---
 
 
 ### Back to School Notes
-
-Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+**[Itendriamos que poder incorporar bts notes para los docentes sin que las vean los padres]**
+Encontrá toda la información que necesitas para comenzar muy bien las clases... 
 
 #### Descargas
 
@@ -107,6 +108,3 @@ Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed 
 [Menú comedor Enero 2014]()
 
 [Listado de precios]()
-
-
-
