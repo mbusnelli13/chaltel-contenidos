@@ -1,34 +1,35 @@
 ---
 layout: right
-title:  "Portal de Padres"
-titular: "Bienvenidos"
+title: Portal de Padres
+titular: Bienvenidos
 submenu: padres
-subtitulo: "Hola"
-
+subtitulo: Hola
+published: true
 ---
 
-# Bienvenidos
+# Portal de Padres
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
 
 
-### Accesos directos
+### Tu panel
 
-Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+A continuación encontrarás todos los accesos directos a nuestras aplicaciones. Cliqueá en cualquiera de ellos para acceder.
 
 
 #### [Campus Virtual]()
-**[Icono librito]**
+**[Icono monitor con pizarron?]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Espacio online, en donde encontrarás el Aula Virtual de tu hijo/a. Agenda, tareas, novedades y comunicaciones específicas de cada sala (Jardín) y/o año (Primaria - Secundaria. 
+  
 
 ---
 
 #### [Información Académica]()
 **[Icono Computadora]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Boletines: todas las notas, inasistencias e informes de conducta (solo Secundaria. 
 
 ---
 
@@ -54,10 +55,11 @@ Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolo
 ---
 
 
-#### [Help desk]()
+#### [Mesa de Ayuda]()
 **[Icono help]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Servicio que facilita la comunicación e interacción Colegio - Familia. Recibimos tus consultas, dudas, comentarios, reclamos y/o sugerencias. Completá el formulario y nos pondremos en contacto con vos a la brevedad.
+
 
 ---
 
@@ -207,4 +209,4 @@ Telefono
 
 Nombre  
 Mail  
-Telefono  
+Telefono
