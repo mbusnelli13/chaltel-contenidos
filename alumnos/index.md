@@ -21,21 +21,21 @@ Cliqueá en los accesos directos para poder utilizar nuestras aplicaciones.
 #### [Campus Virtual]()
 **[Icono librito]**
 
-Tus tareas, apuntes de clase y trabajos, disponibles online 24/7.
+Tu agenda, tus tareas, apuntes de clase y trabajos, disponibles online 24/7.
 
 ---
 
 #### [Información Académica]()
 **[Icono Computadora]**
 
-Tu notas, inasistencias y sanciones. Actualizá tus datos personales.
+Tu boletín: todas las notas, inasistencias y sanciones. 
 
 ---
 
 #### [Nube]()
 **[Icono de una nube]**
 
-Trabajá y comunicate eficientemente, estés donde estes y desde cualquier dispositivo: E-mail, Google Drive, Docs, Hojas de cálculo, diapositivas...
+Trabajá y comunicate eficientemente, estés donde estes y desde cualquier dispositivo: E-mail, Google Drive, Docs, Hojas de cálculo...
 
 ---
 [CLAVE]
@@ -54,10 +54,10 @@ Descargá, imprimí, completá y entregá: Autorizaciones, formularios, permisos
 ---
 
 
-#### [Ayuda]()
+#### [Helpdesk]()
 **[Icono help]**
 
-Evacuá tus dudas: consultá, comentá, sugerí y/o solicitá. 
+¿Preguntas, dudas, sugerencias y/o comentarios? 
 
 ---
 
@@ -84,7 +84,7 @@ Encontrá toda la información que necesitas para comenzar las clases...
 
 ### Reglamento interno y de Convivencia Institucional
 
-Todas las normas y procedimientos que regulan nuestro comportamiento, conductas y deberes dentro del Colegio.
+Todas las normas y procedimientos que regulan nuestro compromiso, conducta, derechos, deberes y obligaciones dentro del Colegio.
 
 #### Descargas
 
