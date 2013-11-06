@@ -35,14 +35,14 @@ Tu notas, inasistencias y sanciones. Actualizá tus datos personales.
 #### [Nube]()
 **[Icono de una nube]**
 
-Trabajá y comunicate eficientemente, estés donde estés y desde cualquier dispositivo: E-mail, Google Drive, Docs, Hojas de cálculo, diapositivas...
+Trabajá y comunicate eficientemente, estés donde estes y desde cualquier dispositivo: E-mail, Google Drive, Docs, Hojas de cálculo, diapositivas...
 
 ---
 [CLAVE]
 #### [Comunicación Institucional]()
 **[Icono Comunicaciones]**
 
-Reservorio con todas las comunicaciones enviadas desde las Direcciones, archivadas por nivel, año y fecha.  
+Reservorio con todas las comunicaciones enviadas desde las Dirección, archivadas por nivel, año y fecha.  
 
 ---
 
@@ -84,7 +84,7 @@ Encontrá toda la información que necesitas para comenzar las clases...
 
 ### Reglamento interno y de Convivencia Institucional
 
-Conjunto de normas y procedimientos que regulan el accionar y los deberes de cada uno de los miembros que conforman la Comunidad Educativa (alumnos,padres, staff docente y Directivo) 
+Todas las normas y procedimientos que regulan nuestro comportamiento, conductas y deberes dentro del Colegio.
 
 #### Descargas
 
