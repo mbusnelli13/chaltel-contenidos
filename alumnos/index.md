@@ -15,27 +15,27 @@ published: true
 
 ### Tu Panel
 
-Encontrá todos los accesos rápidos para utilizar nuestras aplicaciones. 
+Cliqueá en los accesos directos para poder utilizar nuestras aplicaciones. 
 
 
 #### [Campus Virtual]()
 **[Icono librito]**
 
-Tus tareas, apuntes de clase y trabajos online, disponibles 24/7.
+Tus tareas, apuntes de clase y trabajos, disponibles online 24/7.
 
 ---
 
 #### [Información Académica]()
 **[Icono Computadora]**
 
-Tu notas, inasistencias y sanciones. Actualización de datos personales.
+Tu notas, inasistencias y sanciones. Actualizá tus datos personales.
 
 ---
 
 #### [Nube]()
 **[Icono de una nube]**
 
-Google: Comunicación y trabajo eficiente, estés donde estés y desde cualquier dispositivo: E-mail, Drive, Docs, Hojas de cálculo, diapositivas...
+Trabajá y comunicate eficientemente, estés donde estés y desde cualquier dispositivo: E-mail, Google Drive, Docs, Hojas de cálculo, diapositivas...
 
 ---
 [CLAVE]
@@ -84,7 +84,7 @@ Encontrá toda la información que necesitas para comenzar las clases...
 
 ### Reglamento interno y de Convivencia Institucional
 
-Conjunto de normas y procedimientos que regulan los deberes de todos los miembros que conforman la Comunidad Educativa, 
+Conjunto de normas y procedimientos que regulan el accionar y los deberes de cada uno de los miembros que conforman la Comunidad Educativa (alumnos,padres, staff docente y Directivo) 
 
 #### Descargas
 
