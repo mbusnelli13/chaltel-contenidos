@@ -36,7 +36,7 @@ Encuentre los Boletines ONLINE de su/s hijo/s: todas sus notas, inasistencias e 
 #### [Información Administrativa]()
 **[Icono]**
 
-Conocé, verificá y controla tu cuenta corriente.Descarga tus facturas. 
+Conozca, verifique y controle su cuenta corriente. También puede descargar sus facturas. 
 
 ---
 [CLAVE]
