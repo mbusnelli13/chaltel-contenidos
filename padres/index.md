@@ -15,7 +15,7 @@ published: true
 
 ### Tu panel
 
-A continuación encontrará todos los accesos directos a nuestras aplicaciones. Cliquee en cualquiera de ellos para acceder.
+A continuación encontrará todos los accesos directos a nuestras aplicaciones. Cliquee en cualquiera de ellos para poder acceder.
 
 
 #### [Campus Virtual]()
