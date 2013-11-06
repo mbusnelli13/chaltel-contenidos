@@ -83,9 +83,9 @@ Encontrá toda la información que necesitas para comenzar muy bien las clases..
 
 ---
 
-### Reglamento interno
+### Reglamento interno y de Convivencia Institucional
 
-Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+Normas y procedimientos que regulan el compromiso diario, conducta, derechos, obligaciones y deberes de todos los miembros de la Comunidad Educativa dentro del Colegio.
 
 #### Descargas
 
