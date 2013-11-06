@@ -21,7 +21,7 @@ A continuación encontrarás todos los accesos directos a nuestras aplicaciones.
 #### [Campus Virtual]()
 **[Icono monitor con pizarron?]**
 
-Espacio online, en donde encontrarás el Aula Virtual de tu hijo/a. Agenda, tareas, novedades y comunicaciones específicas de cada sala (Jardín) y/o año (Primaria - Secundaria. 
+Espacio online, en donde encontrarás el Aula Virtual de tu hijo/a. Agenda, tareas, novedades y comunicaciones específicas de cada sala (Jardín) y/o año (Primaria - Secundaria). 
   
 
 ---
@@ -29,28 +29,28 @@ Espacio online, en donde encontrarás el Aula Virtual de tu hijo/a. Agenda, tare
 #### [Información Académica]()
 **[Icono Computadora]**
 
-Boletines: todas las notas, inasistencias e informes de conducta (solo Secundaria. 
+Encontrá los Boletines de tu/s hijo/s: todas sus notas, inasistencias e informes de conducta (solo Secundaria) . También completa y mantene tus datos  personales y familiares actualizados de  forma simple, precisa y segura.  
 
 ---
 
 #### [Información Administrativa]()
 **[Icono]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Conocé, verificá y controla tu cuenta corriente.Descarga tus facturas. 
 
 ---
 [CLAVE]
 #### [Comunicaciones Institucionales]()
 **[Icono Comunicaciones]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Encontrá todas las Comunicaciones Institucionales enviadas por las Direcciones, ordenadas por Nivel, sala y/o año y fecha. 
 
 ---
 [CLAVE]
 #### [Documentos Importantes]()
 **[Icono Documentos]**
 
-Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolorem ipsum adipisci velit, sed quia non numquam eius modi sectetur, adipisci velit.
+Descargá, imprimí, completá y entrega, todas las autorizaciones, permisos y formularios requridos. 
 
 ---
 
@@ -58,7 +58,7 @@ Texto explicativo/introducción. Esta longitud aprox.Neque por quisquam est dolo
 #### [Mesa de Ayuda]()
 **[Icono help]**
 
-Servicio que facilita la comunicación e interacción Colegio - Familia. Recibimos tus consultas, dudas, comentarios, reclamos y/o sugerencias. Completá el formulario y nos pondremos en contacto con vos a la brevedad.
+Es un servicio que facilita y fomenta la comunicación e interacción entre el Colegio y cada Familia. Recibimos todas tus consultas, dudas, comentarios, reclamos y/o sugerencias. 
 
 
 ---
@@ -66,7 +66,7 @@ Servicio que facilita la comunicación e interacción Colegio - Familia. Recibim
 
 ### Back to School Notes
 
-Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+Documentos en donde encontrarás toda la información para que tus hijos puedan empezar las clases de la mejor forma posible. 
 
 #### Descargas
 
@@ -87,22 +87,26 @@ Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed 
 
 ### Room Mothers
 
-Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+Encontrá los datos de contacto de la "room mother" del curso de tu hijo/a. También, un reservorio con los archivos de las minutas con los temas tratados en las reuniones mantenidas con la Dirección General .  
 
 #### Descargas 
 
+Nivel Inicial
 [Room Mothers - Nivel Inicial]() [CLAVE]
-
+[Minutas]() [CLAVE]
+Primaria
 [Room Mothers - Nivel Primario]() [CLAVE]
-
+[Minutas]() [CLAVE]
+Secundaria
 [Room Mothers - Nivel Secundario]() [CLAVE]
-
+[Minutas]() [CLAVE]
 
 ---
 
-### Reglamento interno
+### Reglamento interno y de Convivenciaa Institucional
 
-Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
+
+Documento que contiene las normas y procedimientos que regulan el compromiso diario, conducta, derechos, obligaciones y deberes dentro del Coelgio de todos los miembros de la Comunidad Educativa ( alumnos, padres y personal docente)
 
 #### Descargas
 
