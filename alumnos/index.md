@@ -64,7 +64,7 @@ Descargá, imprimí, completá y entregá: Autorizaciones, formularios y permiso
 
 ### Back to School Notes
 
-Encontrá toda la información que necesitas para comenzar las clases... 
+Encontrá toda la información que necesitas para comenzar muy bien las clases... 
 
 #### Descargas
 
