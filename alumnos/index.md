@@ -84,7 +84,7 @@ Encontrá toda la información que necesitas para comenzar muy bien las clases..
 
 ### Reglamento interno y de Convivencia Institucional
 
-Normas y procedimientos que regulan el compromiso diario, conducta, derechos, obligaciones y deberes de todos los miembros de la Comuniadd Educativa dentro del Colegio.
+Normas y procedimientos que regulan el compromiso diario, conducta, derechos, obligaciones y deberes de todos los miembros de la Comunidad Educativa dentro del Colegio.
 
 #### Descargas
 
