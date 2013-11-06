@@ -57,7 +57,7 @@ Descargá, imprimí, completá y entregá: Autorizaciones, formularios y permiso
 #### [Mesa de Ayuda]()
 **[Icono help]**
 **[a formulario]**
-¿Preguntas, dudas, sugerencias y/o comentarios? 
+¿Preguntas, dudas, sugerencias y/o comentarios? Completá el formulario y nos comunicaremos con vos a la brevedad. 
 
 ---
 
