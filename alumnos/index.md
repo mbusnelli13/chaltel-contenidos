@@ -15,7 +15,7 @@ published: true
 
 ### Tu Panel
 
-Cliqueá en los accesos directos (íconos) para poder utilizar nuestras aplicaciones. 
+Cliqueá en los íconos para poder acceder y utilizar nuestras aplicaciones. 
 
 
 #### [Campus Virtual]()
