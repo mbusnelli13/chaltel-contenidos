@@ -7,7 +7,7 @@ subtitulo: Hola
 published: true
 ---
 
-# Bienvenidos
+# Portal de Alumnos
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
