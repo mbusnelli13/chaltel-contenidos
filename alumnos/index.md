@@ -56,7 +56,7 @@ Descargá, imprimí, completá y entregá: Autorizaciones, formularios, permisos
 
 #### [Helpdesk]()
 **[Icono help]**
-
+**[a formulario]**
 ¿Preguntas, dudas, sugerencias y/o comentarios? 
 
 ---
@@ -84,7 +84,7 @@ Encontrá toda la información que necesitas para comenzar las clases...
 
 ### Reglamento interno y de Convivencia Institucional
 
-Todas las normas y procedimientos que regulan nuestro compromiso, conducta, derechos, deberes y obligaciones dentro del Colegio.
+Normas y procedimientos que regulan nuestro compromiso diario, conducta, derechos, obligaciones y deberes dentro del Colegio.
 
 #### Descargas
 
