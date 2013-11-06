@@ -15,13 +15,13 @@ published: true
 
 ### Tu panel
 
-A continuación encontrarás todos los accesos directos a nuestras aplicaciones. Cliqueá en cualquiera de ellos para acceder.
+A continuación encontrará todos los accesos directos a nuestras aplicaciones. Cliquee en cualquiera de ellos para acceder.
 
 
 #### [Campus Virtual]()
 **[Icono monitor con pizarron?]**
 
-Espacio online, en donde encontrarás el Aula Virtual de tu hijo/a. Agenda, tareas, novedades y comunicaciones específicas de cada sala (Jardín) y/o año (Primaria - Secundaria). 
+Espacio online, en donde encontrará el Aula Virtual de su hijo/a. Agenda, tareas, novedades y comunicaciones específicas de cada sala (Jardín) y/o año (Primaria - Secundaria). 
   
 
 ---
@@ -29,7 +29,7 @@ Espacio online, en donde encontrarás el Aula Virtual de tu hijo/a. Agenda, tare
 #### [Información Académica]()
 **[Icono Computadora]**
 
-Encontrá los Boletines de tu/s hijo/s: todas sus notas, inasistencias e informes de conducta (solo Secundaria) . También completa y mantene tus datos  personales y familiares actualizados de  forma simple, precisa y segura.  
+Encuentre los Boletines ONLINE de su/s hijo/s: todas sus notas, inasistencias e informes de conducta (solo Secundaria) . También complete y mantenga sus datos  personales y familiares actualizados de forma  constante,simple, precisa y segura.  
 
 ---
 
@@ -50,7 +50,7 @@ Encontrá todas las Comunicaciones Institucionales enviadas por las Direcciones,
 #### [Documentos Importantes]()
 **[Icono Documentos]**
 
-Descargá, imprimí, completá y entrega, todas las autorizaciones, permisos y formularios requridos. 
+Descargue, imprima, complete y entregue, todas las autorizaciones, permisos y formularios requeridos. 
 
 ---
 
@@ -58,7 +58,7 @@ Descargá, imprimí, completá y entrega, todas las autorizaciones, permisos y f
 #### [Mesa de Ayuda]()
 **[Icono help]**
 
-Es un servicio que facilita y fomenta la comunicación e interacción entre el Colegio y cada Familia. Recibimos todas tus consultas, dudas, comentarios, reclamos y/o sugerencias. 
+Es un servicio que facilita y fomenta la comunicación e interacción entre el Colegio y cada familia. Recibimos todas sus consultas, dudas, comentarios, reclamos y/o sugerencias. 
 
 
 ---
@@ -66,7 +66,7 @@ Es un servicio que facilita y fomenta la comunicación e interacción entre el C
 
 ### Back to School Notes
 
-Documentos en donde encontrarás toda la información para que tus hijos puedan empezar las clases de la mejor forma posible. 
+Documentos en donde encontrará toda la información para que sus hijos puedan empezar las clases preparados de la mejor manera posible. 
 
 #### Descargas
 
@@ -87,7 +87,7 @@ Documentos en donde encontrarás toda la información para que tus hijos puedan 
 
 ### Room Mothers
 
-Encontrá los datos de contacto de la "room mother" del curso de tu hijo/a. También, un reservorio con los archivos de las minutas con los temas tratados en las reuniones mantenidas con la Dirección General .  
+Encuentre los datos de contacto de la "Room mother" del curso de su hijo/a. También, un reservorio con los archivos de las minutas, con los temas tratados en las reuniones mantenidas con la Dirección General .  
 
 #### Descargas 
 
@@ -106,7 +106,7 @@ Secundaria
 ### Reglamento interno y de Convivenciaa Institucional
 
 
-Documento que contiene las normas y procedimientos que regulan el compromiso diario, conducta, derechos, obligaciones y deberes dentro del Coelgio de todos los miembros de la Comunidad Educativa ( alumnos, padres y personal docente)
+Documento que contiene las normas y procedimientos que regulan el compromiso diario, conducta, derechos, obligaciones y deberes dentro del Colegio de todos los miembros de la Comunidad Educativa ( alumnos, padres y personal docente y no docente)
 
 #### Descargas
 
@@ -151,20 +151,19 @@ Sr. Alan Maurel: 15 4028 2814
 
 ---
 
-### Información de contacto
+### Contáctenos
 
-Pequeña introducción,aprox. esta longitud… consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.
 
-#### Recepción
+#### Recepción 
 Nombre  
 Mail  
-Telefono  
+Telefono  int.
 
 #### Dirección General
 
 Alejandra Tuca  
 Mail  
-Telefono  
+Telefono  int.
 
 
 #### Dirección Nivel Inicial  
@@ -172,12 +171,12 @@ Telefono
 **Castellano**  
 Nombre  
 Mail  
-Telefono  
+Telefono  int
 
 **Inglés**  
 Nombre  
 Mail  
-Telefono  
+Telefono  int.
 
 #### Dirección Primaria  
 
@@ -203,13 +202,20 @@ Nombre
 Mail  
 Telefono  
 
-#### Administración
+
+#### Departamento de Comunicación y Desarrollo
 
 Nombre  
 Mail  
-Telefono  
+Telefono
 
-#### Departamento de Comunicación y Desarrollo
+#### Oficina de Admisiones
+
+Nombre  
+Mail  
+Telefono
+
+#### Soporte Técnico
 
 Nombre  
 Mail  
