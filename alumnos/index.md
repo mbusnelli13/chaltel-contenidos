@@ -54,13 +54,19 @@ Descargá, imprimí, completá y entregá: Autorizaciones, formularios y permiso
 ---
 
 
-#### [Mesa de Ayuda]()
+#### [Help Desk]()
 **[Icono help]**
 **[a formulario]**
 ¿Preguntas, dudas, sugerencias y/o comentarios? Completá el formulario y nos comunicaremos con vos a la brevedad. 
 
 ---
 
+#### [Centro de Ayuda]()
+**[Icono Ayuda autoservicio]**
+**[a formulario]**
+Soporte autoservicio. Podés buscar un artículo que responda a tu duda,  o pedirles a los otros usuarios respuestas para tus consultas. Si no encontrás una respuesta,podés  enviar una solicitud que intentaremos responder. 
+
+--- 
 
 ### Back to School Notes
 
