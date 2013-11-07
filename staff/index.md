@@ -63,6 +63,13 @@ Servicio de apoyo y ayuda para facilitar tu trabajo. Hacé tu pedido de material
 ---
 
 
+#### [Centro de Ayuda]()
+**[Icono Ayuda autoservicio]**
+**[a zendesk helpdesk**
+Soporte autoservicio. Podés buscar un artículo que responda a tu duda,  o pedirles a los otros usuarios respuestas para tus consultas. Si no encontrás una respuesta,podés  enviar una solicitud que intentaremos responder. 
+
+---
+
 ### Back to School Notes
 **[Itendriamos que poder incorporar bts notes para los docentes sin que las vean los padres]**
 Encontrá toda la información que necesitas para comenzar muy bien las clases... 
