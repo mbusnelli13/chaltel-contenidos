@@ -64,7 +64,7 @@ Servicio de soporte online que facilita y fomenta la comunicación e interacció
 
 #### [Centro de Ayuda]()
 **[Icono Ayuda autoservicio]**
-**[a formulario]**
+**[a helpdesk de zendesk]**
 Soporte autoservicio. Puede buscar un artículo que responda a su duda,  o solicitar a otros  usuarios respuestas para  sus consultas. Si no encuentra una respuesta, también puede  enviar una solicitud, que intentaremos responder. 
 
 ----
