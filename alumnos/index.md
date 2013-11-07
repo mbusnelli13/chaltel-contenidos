@@ -54,7 +54,7 @@ Descargá, imprimí, completá y entregá: Autorizaciones, formularios y permiso
 ---
 
 
-#### [Help Desk]()
+#### [Ayuda]()
 **[Icono help]**
 **[a formulario]**
 ¿Preguntas, dudas, sugerencias y/o comentarios? Completá el formulario y nos comunicaremos con vos a la brevedad. 
@@ -63,7 +63,7 @@ Descargá, imprimí, completá y entregá: Autorizaciones, formularios y permiso
 
 #### [Centro de Ayuda]()
 **[Icono Ayuda autoservicio]**
-**[a formulario]**
+**[a zendesk helpdesk**
 Soporte autoservicio. Podés buscar un artículo que responda a tu duda,  o pedirles a los otros usuarios respuestas para tus consultas. Si no encontrás una respuesta,podés  enviar una solicitud que intentaremos responder. 
 
 --- 
