@@ -28,7 +28,7 @@ Espacio online, en donde encontrará el Aula Virtual de su hijo/a. Agenda, tarea
 #### [Información Académica]()
 **[Icono Computadora]**
 
-Encuentre los Boletines ONLINE de su/s hijo/s: todas sus notas, inasistencias e informes de conducta (solo Secundaria) . También complete y mantenga sus datos  personales y familiares actualizados de forma  constante,simple, precisa y segura.  
+Encuentre los Boletines ONLINE de su/s hijo/s: todas sus calificaciones, inasistencias e informes de conducta (solo Secundaria) . También complete y mantenga actualizados sus datos  personales y familiares  de forma constante,simple, precisa y segura.  
 
 ---
 
@@ -54,14 +54,20 @@ Descargue, imprima, complete y entregue, todas las autorizaciones, permisos y fo
 ---
 
 
-#### [Mesa de Ayuda]()
+#### [Ayuda]()
 **[Icono help]**
 
-Servicio de soporte que facilita y fomenta la comunicación e interacción entre el Colegio y cada familia. Recibimos todas sus consultas, dudas, comentarios, reclamos y/o sugerencias. 
+Servicio de soporte online que facilita y fomenta la comunicación e interacción entre el Colegio y cada familia. Recibimos todas sus consulta, comentarios, dudas y/o sugerencias? 
 
 
 ---
 
+#### [Centro de Ayuda]()
+**[Icono Ayuda autoservicio]**
+**[a formulario]**
+Soporte autoservicio. Puede buscar un artículo que responda a su duda,  o solicitar a otros  usuarios respuestas para  sus consultas. Si no encuentra una respuesta, también puede  enviar una solicitud, que intentaremos responder. 
+
+----
 
 ### Back to School Notes
 
