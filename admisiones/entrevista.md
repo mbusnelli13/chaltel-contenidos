@@ -16,19 +16,35 @@ Por favor, le solicitamos completar el siguiente formulario. Una vez recibido, n
 #### Datos del Solicitante
 Todos los campos marcados con un asterisco son de caracter obligatorio.
 
-Nombre
+Datos del solicitante (padre/madre y/o tutor)
 
-Apellido
+Nombre y Apellido
 
 Teléfono de contacto
 
-E-mail
+Email
 
-Nombre y fecha de nacimiento de/los candidatos 
+Cantidad de aspirantes(desplegables):  1 / 2 / 3 / 4 / 5
 
-Establecimiento del cuál proviene/n
+Ciclo lectivo de ingreso:  (desplegable): año actual + los 2 próximos siguientes
 
-Comentario adicional ( Optativo)
+Datos personales del aspirante 1 / 2 / etc. Segun cantidad de aspirantes que alla seleccionado
+
+Nombre y apellido  
+
+Edad
+
+Establecimiento del cuál proviene:
+
+Nivel al ingreso: Jardín de infantes, Primaria, secundaria
+
+Sala / año:  K2 / K3 / K4 / K5 / 1ro / 2do / 3ro / 4to / 5to / 6to
+
+Información general (subtitulo)
+Cómo nos conoció (menu):  publicidad  /
+Internet / nuestro website / boca en boca / recomendación /familia del colegio / docente del colegio /  reputación / otro
+
+Consulta y/o Comentario adicional ( opcional)
 
 enviar
 
