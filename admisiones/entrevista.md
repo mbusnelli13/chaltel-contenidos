@@ -41,6 +41,7 @@ Nivel al ingreso: Jardín de infantes, Primaria, secundaria
 Sala / año:  K2 / K3 / K4 / K5 / 1ro / 2do / 3ro / 4to / 5to / 6to
 
 Información general (subtitulo)
+
 Cómo nos conoció (menu):  publicidad  /
 Internet / nuestro website / boca en boca / recomendación /familia del colegio / docente del colegio /  reputación / otro
 
