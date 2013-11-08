@@ -67,6 +67,27 @@ opcion 2: Formularios, escudos, hojas membretadas, etc.
 Servicio de apoyo y ayuda para facilitar tu trabajo. Hacé tu pedido de materiales, fotocopias, reclamos,  necesidad de mantenimiento, consultas técnicas, comentarios y/o sugerencias. 
 
 opcion 2: Pedí materiales, fotocopias, mantenimiento, Soporte Técnico.
+
+link a formulario linkeado a zendesk
+
+Nombre:
+Apellido:
+Sección (menú desplegable) : Jardín de Infantes / Primaria / Secundaria
+sala/año (menú desplegable): K2 / K3 / K4 / K5 / 1ro / 2do / 3ro / 4to / 5to / 6to
+(aparece salas o años segun selección anterior)
+Turno (menu desplegable): mañana / tarde
+Docente de(menu desplegable): castellano / inglés
+e-mail:
+Asunto (menú desplegable): Comentario / Consulta/Requerimiento/ Sugerencia
+Dirigido a (menu deplegable: Administración / Mantenimiento/
+Dpto. de Comunicación y Desarrollo / Soporte Técnico 
+
+Tema: 
+Mensaje:
+Adjuntar archivo:
+
+enviar
+
 ---
 
 
