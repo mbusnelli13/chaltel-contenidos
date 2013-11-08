@@ -61,22 +61,45 @@ Opcion 2: Autorizaciones, permisos y formularios
 ---
 
 
-#### [Ayuda]()
+#### [Mesa de Ayuda]()
 **[Icono help]**
 
 Servicio de soporte online que facilita y fomenta la comunicación e interacción entre el Colegio y cada familia. Recibimos todas sus consulta, comentarios, dudas y/o sugerencias? 
 
-opcion 2;: Consultas, comentarios, dudas y/o sugerencias
+opcion 2: Consultas, comentarios, requerimiento y/o sugerencias
+
+link a formulario linkeado a zendesk:
+
+Nombre y Apellido
+E-mail 
+Padre o madre de: 
+_Escribir nombre y apellido de su hijo/s_
+Asunto  : Comentario / Consulta /Requerimiento / Sugerencia 
+Dirigido a  (menu desplegable): Administración
+Admisiones
+Dirección General
+Dirección Jardín
+Dirección Primaria
+Dirección Secundaria
+Dpto. de Educación Física
+Dpto. de Comunicación y Desarrollo
+Soporte Técnico
+
+Tema: 
+Mensaje:
+Adjuntar archivo:
+Enviar
+
 
 ---
 
 #### [Centro de Ayuda]()
 **[Icono Ayuda autoservicio]**
-**[a helpdesk de zendesk]**
+**[link a helpdesk de zendesk]**
 Soporte autoservicio. Puede buscar un artículo que responda a su duda,  o solicitar a otros  usuarios respuestas para  sus consultas. Si no encuentra una respuesta, también puede  enviar una solicitud, que intentaremos responder. 
 
 opcion 2: Soporte Autoservicio. Preguntas frecuentes
-(link para que lo vean: chaltelcollege1.zendesk.com)
+(link para que ustedes lo vean: chaltelcollege1.zendesk.com)
 ----
 
 ### Back to School Notes
@@ -173,6 +196,3 @@ Sr. Alan Maurel: 15 4028 2814
 Nombre  
 Mail  
 Telefono  int.
-
-
-
