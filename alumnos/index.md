@@ -84,7 +84,7 @@ Enviar:
 
 ---
 
-#### [Centro de Ayuda]()
+#### [Help Center]()
 **[Icono Ayuda autoservicio]**
 **[a zendesk helpdesk**
 Soporte autoservicio. Podés buscar un artículo que responda a tu duda,  o pedirles a los otros usuarios respuestas para tus consultas. Si no encontrás una respuesta,podés  enviar una solicitud que intentaremos responder. 
