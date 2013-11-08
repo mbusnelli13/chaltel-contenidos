@@ -64,9 +64,9 @@ Opcion 2: Autorizaciones, permisos y formularios
 #### [Mesa de Ayuda]()
 **[Icono help]**
 
-Servicio de soporte online que facilita y fomenta la comunicación e interacción entre el Colegio y cada familia. Recibimos todas sus consulta, comentarios, dudas y/o sugerencias? 
+Servicio de soporte online que facilita y fomenta la comunicación e interacción entre el Colegio y cada familia. Recibimos todas sus consultas, comentarios, dudas y/o sugerencias? 
 
-opcion 2: Consultas, comentarios, requerimiento y/o sugerencias
+opcion 2: Consultas, comentarios, dudas y/o sugerencias
 
 link a formulario linkeado a zendesk:
 
