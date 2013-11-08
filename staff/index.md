@@ -23,12 +23,14 @@ Cliqueá en los accesos directos (íconos) para poder utilizar nuestras aplicaci
 
 Ingresá a tu Aula Virtual, en donde podrás "subir" comunicaciones, tareas, apuntes, comunicarte con tus alumnos  y sus familias. 
 
+OPcion 2: Ingresá a tu aula virtual
 ---
 
 #### [Boletines]()
 **[Icono Computadora]**
 Subí las calificaciones y las inasistencias online, desde el Colegio, tu casa o un bar. 
 
+Opcion 2: Subí Calificaciones e inasistencias
 
 ---
 
@@ -37,21 +39,25 @@ Subí las calificaciones y las inasistencias online, desde el Colegio, tu casa o
 
 Trabajá y comunicate productivamente. Webmail institucional, calendarios, Google Drive, docs y muchos más...
 
+
+Opcion 2: Webmail, calendarios, Google drive, docs....
 ---
+
 [CLAVE]
 #### [Comunicaciones de Dirección]()
 **[Icono Comunicaciones]**
 
 Encontrá todas las comunicaciones que las Direcciones (General y la de tu sección) envían a las familias. Organizadas por nivel, sala/año y fecha. 
 
+opcion 2: Cartas a las flias y al staff
 ---
 
 #### [Documentos Importantes]()
 **[Icono Documentos]**
 **[Itendriamos que poder incorporar docuemtnos para los docentes sin que las vean los padres]**
-Reservorio con todos los archivos institucionales que podés necesitar y utilizar para realizar tu tarea diaria. Formularios, escudos, papeles y tipografía institucional...
+Reservorio con todos los archivos institucionales que podés necesitar y utilizar para realizar tu tarea diaria. Formularios, escudos, hojas membretadas, etc.  institucional...
 
-
+opcion 2: Formularios, escudos, hojas membretadas, etc. 
 ---
 
 
@@ -60,6 +66,7 @@ Reservorio con todos los archivos institucionales que podés necesitar y utiliza
 **[Formulario de zendesk]**
 Servicio de apoyo y ayuda para facilitar tu trabajo. Hacé tu pedido de materiales, fotocopias, reclamos,  necesidad de mantenimiento, consultas técnicas, comentarios y/o sugerencias. 
 
+opcion 2: Pedí materiales, fotocopias, mantenimiento, Soporte Técnico.
 ---
 
 
@@ -67,6 +74,9 @@ Servicio de apoyo y ayuda para facilitar tu trabajo. Hacé tu pedido de material
 **[Icono Ayuda autoservicio]**
 **[a zendesk helpdesk**
 Soporte autoservicio. Podés buscar un artículo que responda a tu duda,  o pedirles a los otros usuarios respuestas para tus consultas. Si no encontrás una respuesta,podés  enviar una solicitud que intentaremos responder. 
+
+
+opcion 2: Soporte Autoservicio. Preguntas Frecuentes. 
 
 ---
 
