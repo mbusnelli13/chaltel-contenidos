@@ -64,9 +64,9 @@ Opcion 2: Autorizaciones, permisos y formularios
 #### [Mesa de Ayuda]()
 **[Icono help]**
 
-Servicio de soporte online que facilita y fomenta la comunicación e interacción entre el Colegio y cada familia. Recibimos todas sus consultas, comentarios, dudas y/o sugerencias? 
+Servicio de soporte online que facilita y fomenta la comunicación e interacción entre el Colegio y cada familia. Recibimos todas sus consultas, comentarios, requerimientos y/o sugerencias? 
 
-opcion 2: Consultas, comentarios, dudas y/o sugerencias
+opcion 2: Consultas, Comentarios, Requerimientos y/o sugerencias
 
 link a formulario linkeado a zendesk:
 
@@ -76,7 +76,7 @@ Padre o madre de:
 _Escribir nombre y apellido de su hijo/a 
 Sección (menú desplegable): Jardín/Primaria / Secundaria
 Año (menú desplegable): K2 / K3 / K4 / K5 / 1ro / 2do / 3ro / 4to / 5to / 6to ( Nota: Si seleciona Jardin deberian aparecer solo las salas de jardin, Primaria o Secundaria , los años de P/S)
-Asunto  : Comentario / Consulta /Requerimiento / Sugerencia 
+Asunto  : Consulta / Comentario / Requerimiento / Sugerencia 
 Dirigido a  (menu desplegable): Administración
 Admisiones
 Dirección General
