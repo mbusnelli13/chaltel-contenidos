@@ -78,9 +78,17 @@ sala/año (menú desplegable): K2 / K3 / K4 / K5 / 1ro / 2do / 3ro / 4to / 5to /
 Turno (menu desplegable): mañana / tarde
 Docente de(menu desplegable): castellano / inglés
 e-mail:
-Asunto (menú desplegable): Comentario / Consulta/Requerimiento/ Sugerencia
+Asunto (menú desplegable): Comentario / Consulta/ Pedido / Sugerencia
 Dirigido a (menu deplegable: Administración / Mantenimiento/
 Dpto. de Comunicación y Desarrollo / Soporte Técnico 
+
+Si selecciona: Pedido
+Seleccionar : Materiales / Fotocopias
+
+
+Materials: 
+
+
 
 Tema: 
 Mensaje:
