@@ -64,6 +64,17 @@ Telefono 4444444 y rot.
 
 ### Contacto [Link al formulario]
 
+Contacto: general
+Nombre
+Apellido
+E-mail
+Asunto (menu desplegable) : Comentario / Consulta /Requerimiento/ Sugerencia
+Dirigido a:  Admisiones/ Administración / Dirección General 
+Tema: 
+Mensaje:
+Enviar
+
+
 Sacar redes sociales y poner los portales
 
 
