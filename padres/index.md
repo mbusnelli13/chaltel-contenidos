@@ -73,7 +73,9 @@ link a formulario linkeado a zendesk:
 Nombre y Apellido
 E-mail 
 Padre o madre de: 
-_Escribir nombre y apellido de su hijo/s_
+_Escribir nombre y apellido de su hijo/a 
+Sección (menú desplegable): Jardín/Primaria / Secundaria
+Año (menú desplegable): K2 / K3 / K4 / K5 / 1ro / 2do / 3ro / 4to / 5to / 6to ( Nota: Si seleciona Jardin deberian aparecer solo las salas de jardin, Primaria o Secundaria , los años de P/S)
 Asunto  : Comentario / Consulta /Requerimiento / Sugerencia 
 Dirigido a  (menu desplegable): Administración
 Admisiones
