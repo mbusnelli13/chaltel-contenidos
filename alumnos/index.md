@@ -67,10 +67,21 @@ opcion 2: Autorizaciones, formularios y permisos.
 #### [Ayuda]()
 **[Icono help]**
 **[a formulario]**
-¿Preguntas, dudas, sugerencias y/o comentarios? Completá el formulario y nos comunicaremos con vos a la brevedad. 
-
+¿Cometarios, consultas, dudas y/o sugerencias? 
 
 Opcion 2:Comentarios, Consultas, Dudas y/o sugerencias?
+
+link a formulario linkeado con zendesk
+
+Nombre y apellido:
+Sección (menú desplegable): Primaria / Secundaria
+Año (menú desplegable): 1ro / 2do / 3ro / 4to / 5to / 6to
+e-mail:
+Asunto: (menú desplegable): Comentario /Consulta/Requerimiento/ Sugerencia
+Tema menu desplegable: Aula virtual, Boletines, Nube, otro
+Mensaje:
+Enviar:
+
 ---
 
 #### [Centro de Ayuda]()
