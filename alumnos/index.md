@@ -23,7 +23,7 @@ Cliqueá en los íconos para poder acceder y utilizar nuestras aplicaciones.
 
 Tu agenda, tus tareas, apuntes de clase y trabajos, disponibles online 24/7.
 
-Opción2 : Agenda, Tares y apuntes de clase. 24/7
+Opción2 : Agenda, Tareas y apuntes de clase. 24/7
 
 ---
 
@@ -33,13 +33,16 @@ Opción2 : Agenda, Tares y apuntes de clase. 24/7
 El boletín Online : todas tus notas, inasistencias e informes de conducta ( solo Secundaria). 
 
 Opción 2: Boletín online
+
 ---
 
 #### [Nube]()
 **[Icono de una nube]**
 
  Webmail institucional, Google Drive, Docs, Hojas de cálculo...
+ 
  Opcion 2_ Webmail, Drive, Docs ...
+ 
 ---
 [CLAVE]
 #### [Comunicación Institucional]()
@@ -48,6 +51,7 @@ Opción 2: Boletín online
 Encontrá todas las comunicaciones enviadas desde la Dirección, archivadas por nivel, año y fecha.  
 
 Opcion 2.: Comunicaciones de Dirección
+
 ---
 
 #### [Documentos Importantes]()
@@ -56,6 +60,7 @@ Opcion 2.: Comunicaciones de Dirección
 Descargá, imprimí, completá y entregá: Autorizaciones, formularios y permisos.  
 
 opcion 2: Autorizaciones, formularios y permisos.
+
 ---
 
 
