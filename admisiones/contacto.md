@@ -24,7 +24,7 @@ Enviar e-mail
 
 Todos los campos marcados con un asterisco son de caracter obligatorio.
 
-- Asunto de la consulta: Proceso de Admisión / Inquietud Administrativa 
+- Asunto de la consulta: Proceso de Admisión / Inquietud Administrativa / otro
 - Nombre
 - Apellido
 - Email
