@@ -15,10 +15,21 @@ published: true
 
 ---
 
-###Comentanos tus novedades? 
-####En que andás?
+###Comentanos tus novedades? ( esto es si llegamos)
+#### Te mudaste, te casaste, empezaste un nuevo proyecto? Esperamos tus novedades para compartirlas con el resto!
 
-Formulario para comentar.... nacimientos, viajes... cualquier cosa de interes general... 
+Formulario ( yo no escribiria el titulo)
+
+Nombre
+Apellido
+Promoción (menu despegable) : 1991 / 1992/ 1993/ etc...
+E-mail:
+Tema: 
+Tu novedad: 
+Subir archivo:
+_Subí una foto para acompañar tu novedad_
+enviar: 
+
 
 ---
 
@@ -27,8 +38,8 @@ Formulario para comentar.... nacimientos, viajes... cualquier cosa de interes ge
 
 te redireccionaria a una pagina donde estarian las noticias, nacimientos, recibimiento, casamientos.... 
 
-Nombre y apellido
 camada
+Nombre y apellido
 imagen ( si es que envio)
 Novedad....
 
@@ -45,6 +56,19 @@ Si estás interesado/a en recibir novedades, invitaciónes a festejos y a evento
 
 [Completar el formulario](/ex-alumnos/actualizacion-datos)
 
+Nombre:
+Apellido:
+Promoción (menu despegable) : 1991 / 1992/ 1993/ etc...
+E-mail:
+Teléfono de contacto (opcional):
+Dirección (opcional):
+Pais (opcional):
+Empleo (opcional):
+Teléfono empleo (opcional):
+Comentario adicional (opcional)
+
+enviar
+
 ---
 
 ### Contacto
@@ -56,6 +80,17 @@ Camada
 Mail  
 Telefono  int.
 
+También podes completar el siguiente formulario:
+
+Nombre
+Apellido
+Promoción (menu despegable) : 1991 / 1992/ 1993/ etc...
+E-mail:
+Asunto (menu desplegable) : Comentario / Consulta /Requerimiento/ Sugerencia
+Tema: 
+Mensaje:
+enviar: 
+
 ---
 Info en el lateral
 
@@ -65,6 +100,3 @@ Solo ex-alumnos
 #PROXIMOS EVENTOS
 Solo ex-alumnos
 #CHALTEL MEDIA
-
-
-
