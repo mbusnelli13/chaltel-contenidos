@@ -60,11 +60,13 @@ Nombre:
 Apellido:
 Promoción (menu despegable) : 1991 / 1992/ 1993/ etc...
 E-mail:
+Universidad en la que estudiaste:
+Profesión / Ocupación:
 Teléfono de contacto (opcional):
-Dirección (opcional):
-Pais (opcional):
-Empleo (opcional):
-Teléfono empleo (opcional):
+Domicilio personal(opcional):
+País (opcional):
+Lugar de trabajo (opcional):
+Teléfono del trabajo (opcional):
 Comentario adicional (opcional)
 
 enviar
