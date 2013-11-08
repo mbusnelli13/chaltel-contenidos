@@ -23,6 +23,8 @@ Cliqueá en los íconos para poder acceder y utilizar nuestras aplicaciones.
 
 Tu agenda, tus tareas, apuntes de clase y trabajos, disponibles online 24/7.
 
+Opción2 : Agenda, Tares y apuntes de clase. 24/7
+
 ---
 
 #### [Información Académica]()
@@ -30,13 +32,14 @@ Tu agenda, tus tareas, apuntes de clase y trabajos, disponibles online 24/7.
 
 El boletín Online : todas tus notas, inasistencias e informes de conducta ( solo Secundaria). 
 
+Opción 2: Boletín online
 ---
 
 #### [Nube]()
 **[Icono de una nube]**
 
  Webmail institucional, Google Drive, Docs, Hojas de cálculo...
-
+ Opcion 2_ Webmail, Drive, Docs ...
 ---
 [CLAVE]
 #### [Comunicación Institucional]()
@@ -44,6 +47,7 @@ El boletín Online : todas tus notas, inasistencias e informes de conducta ( sol
 
 Encontrá todas las comunicaciones enviadas desde la Dirección, archivadas por nivel, año y fecha.  
 
+Opcion 2.: Comunicaciones de Dirección
 ---
 
 #### [Documentos Importantes]()
@@ -51,6 +55,7 @@ Encontrá todas las comunicaciones enviadas desde la Dirección, archivadas por 
 
 Descargá, imprimí, completá y entregá: Autorizaciones, formularios y permisos.  
 
+opcion 2: Autorizaciones, formularios y permisos.
 ---
 
 
@@ -59,6 +64,8 @@ Descargá, imprimí, completá y entregá: Autorizaciones, formularios y permiso
 **[a formulario]**
 ¿Preguntas, dudas, sugerencias y/o comentarios? Completá el formulario y nos comunicaremos con vos a la brevedad. 
 
+
+Opcion 2:Comentarios, Consultas, Dudas y/o sugerencias?
 ---
 
 #### [Centro de Ayuda]()
@@ -66,6 +73,7 @@ Descargá, imprimí, completá y entregá: Autorizaciones, formularios y permiso
 **[a zendesk helpdesk**
 Soporte autoservicio. Podés buscar un artículo que responda a tu duda,  o pedirles a los otros usuarios respuestas para tus consultas. Si no encontrás una respuesta,podés  enviar una solicitud que intentaremos responder. 
 
+Opción 2: Soporte Autoservicio. Preguntas Frecuentes 
 --- 
 
 ### Back to School Notes
