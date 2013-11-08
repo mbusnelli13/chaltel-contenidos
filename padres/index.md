@@ -14,7 +14,7 @@ published: true
 
 ### Su panel
 
-A continuación encontrará todos los accesos directos (íconos) a nuestras aplicaciones. Cliquee en cualquiera de ellos para poder acceder a los mismos.
+A continuación encontrará todos los accesos directos (íconos) a nuestras aplicaciones. Cliquee en cualquiera de ellos para poder acceder a donde desee.
 
 
 #### [Campus Virtual]()
@@ -22,6 +22,7 @@ A continuación encontrará todos los accesos directos (íconos) a nuestras apli
 
 Espacio online, en donde encontrará el Aula Virtual de su hijo/a. Agenda, tareas, novedades y comunicaciones específicas de cada sala (Jardín) y/o año (Primaria - Secundaria). 
   
+Opcion2: Aula Virtual: Agendas, Tareas, novedades y comunicaciones.
 
 ---
 
@@ -30,12 +31,15 @@ Espacio online, en donde encontrará el Aula Virtual de su hijo/a. Agenda, tarea
 
 Encuentre los Boletines ONLINE de su/s hijo/s: todas sus calificaciones, inasistencias e informes de conducta (solo Secundaria) . También complete y mantenga actualizados sus datos  personales y familiares  de forma constante,simple, precisa y segura.  
 
+opcion 2: Boletines online. Actualización de datos.
 ---
 
 #### [Información Administrativa]()
 **[Icono]**
 
 Conozca, verifique y controle su cuenta corriente. También puede descargar sus facturas. 
+
+opcion 2:  Cuenta corriente y facturas. 
 
 ---
 [CLAVE]
@@ -44,6 +48,8 @@ Conozca, verifique y controle su cuenta corriente. También puede descargar sus 
 
 Encontrá todas las Comunicaciones Institucionales enviadas por las Direcciones, ordenadas por Nivel, sala y/o año y fecha. 
 
+opcion 2: Comunicaciones de Dirección
+
 ---
 [CLAVE]
 #### [Documentos Importantes]()
@@ -51,6 +57,7 @@ Encontrá todas las Comunicaciones Institucionales enviadas por las Direcciones,
 
 Descargue, imprima, complete y entregue, todas las autorizaciones, permisos y formularios requeridos. 
 
+Opcion 2: Autorizaciones, permisos y formularios
 ---
 
 
@@ -59,6 +66,7 @@ Descargue, imprima, complete y entregue, todas las autorizaciones, permisos y fo
 
 Servicio de soporte online que facilita y fomenta la comunicación e interacción entre el Colegio y cada familia. Recibimos todas sus consulta, comentarios, dudas y/o sugerencias? 
 
+opcion 2;: Consultas, comentarios, dudas y/o sugerencias
 
 ---
 
@@ -67,6 +75,8 @@ Servicio de soporte online que facilita y fomenta la comunicación e interacció
 **[a helpdesk de zendesk]**
 Soporte autoservicio. Puede buscar un artículo que responda a su duda,  o solicitar a otros  usuarios respuestas para  sus consultas. Si no encuentra una respuesta, también puede  enviar una solicitud, que intentaremos responder. 
 
+opcion 2: Soporte Autoservicio. Preguntas frecuentes
+(link para que lo vean: chaltelcollege1.zendesk.com)
 ----
 
 ### Back to School Notes
@@ -156,7 +166,7 @@ Sr. Alan Maurel: 15 4028 2814
 
 ---
 
-### Contáctenos
+### ¿Necesita comunicarse con nosotros telefonicamente?
 
 
 #### Recepción 
@@ -164,64 +174,5 @@ Nombre
 Mail  
 Telefono  int.
 
-#### Dirección General
-
-Alejandra Tuca  
-Mail  
-Telefono  int.
 
 
-#### Dirección Nivel Inicial  
-
-**Castellano**  
-Nombre  
-Mail  
-Telefono  int
-
-**Inglés**  
-Nombre  
-Mail  
-Telefono  int.
-
-#### Dirección Primaria  
-
-**Castellano**  
-Nombre  
-Mail  
-Telefono  
-
-**Inglés**  
-Nombre  
-Mail  
-Telefono  
-
-#### Dirección Secundaria
-
-Nombre  
-Mail  
-Telefono  
-
-#### Departamento de Educación Física
-
-Nombre  
-Mail  
-Telefono  
-
-
-#### Departamento de Comunicación y Desarrollo
-
-Nombre  
-Mail  
-Telefono
-
-#### Oficina de Admisiones
-
-Nombre  
-Mail  
-Telefono
-
-#### Soporte Técnico
-
-Nombre  
-Mail  
-Telefono
