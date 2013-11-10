@@ -4,14 +4,16 @@ ul, ol {
 }
 #header, #footer {
     background-color: #ececec;
-    .container  { @include outer-container; }
+    .container  { 
+       // @include outer-container; 
+    }
 }
 #header  {
     margin-bottom: 0.5em;
 }
 #header .header-top { background-color: gray; }
 #header .portal-nav { 
-    @include outer-container; 
+    // @include outer-container; 
     ul { 
         margin: 0;
         padding: 0;
@@ -19,9 +21,11 @@ ul, ol {
     }
 }
 
-#header .branding { @include span-columns(5);}
+#header .branding {
+    // @include span-columns(5);
+ }
 #header .main-nav { 
-    @include span-columns(7); 
+    // @include span-columns(7); 
     ul { 
         margin: 0;
         padding: 0;
@@ -32,13 +36,13 @@ ul, ol {
 }
 
 #content {
-    @include outer-container;
+   // @include outer-container;
 }
 #content > .main {
-    @include span-columns(9);
+   // @include span-columns(9);
 }
 #content > .navigation {
-    @include span-columns(3);
+   // @include span-columns(3);
 }
 
 #footer section {
