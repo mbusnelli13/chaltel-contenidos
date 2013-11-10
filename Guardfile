@@ -1,6 +1,6 @@
 notification :off
  
-# Sass/Compass https://github.com/guard/guard-compass
+# Sass
 guard 'sass', :input => 'css/_sass', :output => 'css'
  
 # Jekyll
@@ -16,5 +16,7 @@ if Find.find(Dir.pwd).detect{|dir|dir=~/.+\.(css|html|js)$/}
     watch(%r{.+\.(css|html|js)$})
   end
 end
+
+
 
 

@@ -4,7 +4,5 @@ safe: true
 lsi: false
 pygments: true
 permalink: pretty
-baseurl: /chaltel-contenidos
-
-
+baseurl: ''
 exclude: ['sass','Gem*','Guard*','*.rb','.sass-cache','.git']
