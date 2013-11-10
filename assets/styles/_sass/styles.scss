@@ -1,17 +1,23 @@
 
+// Neat + Bourbon
+//@import "vendor/bourbon/bourbon";
+//@import "grid-settings";
+//@import "vendor/neat/neat";
 
 @import "global/reset";
 //@import "global/grid";
 @import "global/base";
 
-@import "components/foundation";
+//@import "components/foundation";
 
+// Layouts 
 @import "layouts/tpl-2-col-left";
 //@import "layouts/tpl-2-col-left-title";
-
 //@import "layouts/tpl-2-col-right";
 //@import "layouts/tpl-2-col-right-submenu";
-
+h1 {
+    color: red;
+}
 h2 {
     font-size: 28px;
     margin-bottom: 1.5em;
@@ -39,7 +45,7 @@ hr {
 }
 
 .home #content .main {
-    @include grid-column(12);
+    //@include grid-column(12);
 }
 #content .main {
     min-height: 550px;
@@ -64,12 +70,12 @@ hr {
 }
 
 .contact-form {
-    @include grid-row($behavior: nest);
+    //@include grid-row($behavior: nest);
     .form {
-        @include grid-column(7);
+        //@include grid-column(7);
     }
     aside {
-        @include grid-column(4);
+        //@include grid-column(4);
     }
 }
 
