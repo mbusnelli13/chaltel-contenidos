@@ -1,7 +1,7 @@
 notification :off
  
 # Use Sass
-guard 'sass', :input => 'assets/styles/sass', :output => 'assets/styles'
+guard 'sass', :input => 'assets/styles/sass', :load_paths => ['assets/components'], :output => 'assets/styles'
 
 # or Compass
 # guard :compass, configuration_file: 'assets/styles/config.rb' do

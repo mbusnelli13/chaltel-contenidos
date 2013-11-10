@@ -10,7 +10,7 @@
         <meta name="viewport" content="width=device-width">
         <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/style.css">
-        <script src="{{ site.baseurl }}/assets/scripts/vendor/modernizr/modernizr.js"></script>
+        <script src="{{ site.baseurl }}/assets/components/modernizr/modernizr.js"></script>
         <script src="//use.typekit.net/yuc2bpi.js"></script>
         <script>try{Typekit.load();}catch(e){}</script>
     </head>
@@ -27,7 +27,7 @@
             </nav>
 
             <section class="main">
-            
+
                 {{ content }}
             </section>
 
@@ -67,8 +67,8 @@
     
        <!-- RequireJS -->
        <!-- Use data-main="absolute-path-to-main-js" -->
-        <script src="{{ site.baseurl }}/assets/scripts/vendor/requirejs/require.js"></script>
-        <script>require({baseUrl: '{{ site.baseurl }}/assets/scripts/'}, ['{{ site.baseurl }}/assets/scripts/config.js'])</script>
+        <script src="{{ site.baseurl }}/assets/components/requirejs/require.js"></script>
+        <script>require({baseUrl: '{{ site.baseurl }}/'}, ['{{ site.baseurl }}/assets/scripts/config.js'])</script>
 
     </body>
 </html>
