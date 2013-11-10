@@ -7,7 +7,7 @@ subtitulo: Hola
 published: true
 ---
 
-#Bienvenidos
+#Bienvenidos a todos
  
 ![Foto de ...](http://placeimg.com/720/300/arch)
 
