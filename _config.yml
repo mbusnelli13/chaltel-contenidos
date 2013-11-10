@@ -5,4 +5,4 @@ lsi: false
 pygments: true
 permalink: pretty
 baseurl: /chaltel-contenidos
-exclude: ['sass','Gem*','Guard*','*.rb','.sass-cache','.git']
+exclude: ['sass','Gem*','Guard*','*.rb','.sass-cache','.git', 'bower.json', '.sublime-project','.sublime-workspace']
