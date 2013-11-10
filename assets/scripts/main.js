@@ -14,8 +14,9 @@ require([
     "foundation.reveal",
     "foundation.section",
     "foundation.tooltips",
-    "foundation.topbar"
-], function($, foundation) {
+    "foundation.topbar",
+    "plugins"
+], function($, foundation, plugins) {
 
     // Initialize Foundation
     // ****************************************

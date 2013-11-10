@@ -27,7 +27,8 @@ require.config({
         "foundation.reveal": "components/foundation/js/foundation/foundation.reveal",
         "foundation.section": "components/foundation/js/foundation/foundation.section",
         "foundation.tooltips": "components/foundation/js/foundation/foundation.tooltips",
-        "foundation.topbar": "components/foundation/js/foundation/foundation.topbar"
+        "foundation.topbar": "components/foundation/js/foundation/foundation.topbar",
+        "plugins": "scripts/plugins"
     },
     shim: {
         "jquery": {
@@ -74,6 +75,9 @@ require.config({
         },
         "foundation.topbar": {
             deps: ["foundation"]
+        },
+        "plugins": {
+            deps: ["jquery"]
         }
     },
 
