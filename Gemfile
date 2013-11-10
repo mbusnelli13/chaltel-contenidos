@@ -4,7 +4,7 @@ group :development do
   # CSS Preprocessing
 	gem 'sass'
 	gem 'compass'
-	gem 'jekyll'
+	gem "jekyll", "~> 1.3.0"
  
 	# Guard Specific
 	gem 'guard'
