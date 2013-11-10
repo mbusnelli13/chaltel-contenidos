@@ -1,10 +1,26 @@
 {
-	"name": "Chaltel",
-	"version": "1.0.0",
-	"dependencies": {
-		"modernizr": "latest",
-		"respond": "latest",
-		"jquery": "1.10.0",
-		"requirejs": "latest"
-	}
+  "name": "Chaltel",
+  "version": "1.0.0",
+  "dependencies": {
+    "modernizr": "latest",
+    "respond": "latest",
+    "jquery": "1.10.0",
+    "requirejs": "latest",
+    "foundation": "~4.3.2"
+  },
+  "homepage": "https://github.com/landitus/chaltel-contenidos",
+  "authors": [
+    "Fernando Carrettoni <fcarrettoni@gmail.com>"
+  ],
+  "description": "Chaltel College",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/scripts/vendor",
+    "test",
+    "tests"
+  ]
 }

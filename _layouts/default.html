@@ -10,9 +10,9 @@
         <meta name="viewport" content="width=device-width">
         <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/style.css">
-        <script type="text/javascript" src="{{ site.baseurl }}/assets/scripts/vendor/modernizr-2.6.2.min.js"></script>
-        <script type="text/javascript" src="//use.typekit.net/yuc2bpi.js"></script>
-        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+        <script src="{{ site.baseurl }}/assets/scripts/vendor/modernizr/modernizr.js"></script>
+        <script src="//use.typekit.net/yuc2bpi.js"></script>
+        <script>try{Typekit.load();}catch(e){}</script>
     </head>
     <body>
         {% include header.html %}
@@ -64,14 +64,10 @@
         
         </div><!-- #container -->
     
-
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="assets/scripts/vendor/jquery-1.10.1.min.js"><\/script>')</script>
-        
-        <script src="{{ site.baseurl }}/assets/scripts/vendor/foundation.min.js"></script>
-        <script src="{{ site.baseurl }}/assets/scripts/plugins.js"></script>
-        <script src="{{ site.baseurl }}/assets/scripts/main.js"></script>
-
+       <!-- RequireJS -->
+       <!-- Use data-main="absolute-path-to-main-js" -->
+        <script src="{{ site.baseurl }}/assets/scripts/vendor/requirejs/require.js"></script>
+        <script>require({baseUrl: '{{ site.baseurl }}/assets/scripts/'}, ['{{ site.baseurl }}/assets/scripts/config.js'])</script>
 
     </body>
 </html>

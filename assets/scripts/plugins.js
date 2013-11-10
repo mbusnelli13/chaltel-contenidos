@@ -23,6 +23,4 @@
 
 // Place any jQuery/helper plugins in here
 
-// Initialize Foundation
-// ****************************************
-$(document).foundation();
+
