@@ -312,10 +312,10 @@
 	"buffers":
 	[
 		{
-			"file": "_layouts/default.html",
+			"file": "_includes/header.html",
 			"settings":
 			{
-				"buffer_size": 2352,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -323,15 +323,7 @@
 			"file": "assets/styles/sass/style.scss",
 			"settings":
 			{
-				"buffer_size": 2148,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Guardfile",
-			"settings":
-			{
-				"buffer_size": 602,
+				"buffer_size": 2285,
 				"line_ending": "Unix"
 			}
 		},
@@ -340,6 +332,22 @@
 			"settings":
 			{
 				"buffer_size": 243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "nosotros/index.md",
+			"settings":
+			{
+				"buffer_size": 1352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 5163,
 				"line_ending": "Unix"
 			}
 		}
@@ -432,6 +440,10 @@
 	},
 	"file_history":
 	[
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/vendor/foundation/_variables.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/Guardfile",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/components/foundation/scss/foundation/_variables.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_layouts/default.html",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/scripts/config.js",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/scripts/main.js",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/bower.json",
@@ -445,7 +457,6 @@
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/Gruntfile.js",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/style.scss",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/_temp.scss",
-		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/Guardfile",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_terminal.md",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/temp.scss",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/vendor/_foundation.scss",
@@ -462,7 +473,6 @@
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/alumnos/index.md",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/layouts/_tpl-2-col-left.scss",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/vendor/_susy.scss",
-		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_layouts/default.html",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/config.rb",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_site/config.rb",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/config.rb",
@@ -557,9 +567,7 @@
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/layouts/tpl-2-col-left-title.scss",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/templates/nosotros/historia.liquid",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/global/_base.scss",
-		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/layouts/layouts/tpl-2-col-left.scss",
-		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/layouts/layouts/tpl-2-col-left",
-		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/styles.scss"
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/layouts/layouts/tpl-2-col-left.scss"
 	],
 	"find":
 	{
@@ -579,6 +587,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Tisa",
 			"publ",
 			"publo",
 			"This form was already submitted.",
@@ -705,8 +714,7 @@
 			".btn",
 			"cach",
 			"btn-s",
-			"call-to-action",
-			"button"
+			"call-to-action"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -731,36 +739,23 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_layouts/default.html",
+					"file": "_includes/header.html",
 					"settings":
 					{
-						"buffer_size": 2352,
+						"buffer_size": 0,
 						"regions":
 						{
-							"TagLint":
-							{
-								"flags": 52,
-								"icon": "dot",
-								"regions":
-								[
-									[
-										2004,
-										2010
-									]
-								],
-								"scope": "variable.parameter"
-							}
 						},
 						"selection":
 						[
 							[
-								1489,
-								1489
+								0,
+								0
 							]
 						],
 						"settings":
@@ -771,7 +766,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 704.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -781,15 +776,15 @@
 					"file": "assets/styles/sass/style.scss",
 					"settings":
 					{
-						"buffer_size": 2148,
+						"buffer_size": 2285,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								47,
-								47
+								564,
+								564
 							]
 						],
 						"settings":
@@ -799,39 +794,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "Guardfile",
-					"settings":
-					{
-						"buffer_size": 602,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								61,
-								61
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "_config.yml",
 					"settings":
 					{
@@ -842,13 +811,82 @@
 						"selection":
 						[
 							[
-								222,
-								222
+								204,
+								204
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Sublime Text 2.backup/Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "nosotros/index.md",
+					"settings":
+					{
+						"buffer_size": 1352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								1352
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 5163,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 52,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										4815,
+										4821
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -901,16 +939,28 @@
 		"selected_items":
 		[
 			[
+				"variab",
+				"assets/styles/sass/vendor/foundation/_variables.scss"
+			],
+			[
+				"variables",
+				"assets/styles/sass/vendor/foundation/_variables.scss"
+			],
+			[
+				"varia",
+				"assets/components/foundation/scss/foundation/_variables.scss"
+			],
+			[
+				"head",
+				"_includes/header.html"
+			],
+			[
 				"foot",
 				"site/templates/foot.inc"
 			],
 			[
 				"foo",
 				"site/templates/foot.inc"
-			],
-			[
-				"head",
-				"site/templates/head.inc"
 			],
 			[
 				"scri",
@@ -1003,6 +1053,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 352.0,
+	"side_bar_width": 210.0,
 	"status_bar_visible": true
 }

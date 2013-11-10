@@ -5108,11 +5108,8 @@ ul, ol {
   font-size: 32px;
   padding: 0.75em 0; }
 
-.wf-loading h1 {
+.wf-loading h1, .wf-loading h2, .wf-loading h3, .wf-loading h4, .wf-loading p, .wf-loading a, .wf-loading li {
   visibility: hidden; }
-
-.wf-active h1 {
-  visibility: visible; }
 
 h2 {
   font-size: 28px;
