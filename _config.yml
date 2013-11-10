@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
+name: Chaltel College
 markdown: redcarpet
 safe: true
 lsi: false
@@ -6,3 +6,5 @@ pygments: true
 permalink: pretty
 baseurl: /chaltel-contenidos
 
+
+exclude: ['sass','Gem*','Guard*','*.rb','.sass-cache','.git']
