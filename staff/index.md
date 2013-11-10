@@ -1,5 +1,5 @@
 ---
-layout: right
+layout: default
 title: Portal de Staff
 titular: Bienvenidos
 submenu: alumnos

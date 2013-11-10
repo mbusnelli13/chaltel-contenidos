@@ -1,5 +1,5 @@
 ---
-layout: right
+layout: default
 title: Portal de Padres
 titular: Bienvenidos
 submenu: padres
