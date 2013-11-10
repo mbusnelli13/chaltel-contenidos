@@ -366,7 +366,7 @@ body {
   color: #7a7a7a;
   padding: 0;
   margin: 0;
-  font-family: "Lato", "proxima-nova", "ff-tisa-sans-web-pro", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "proxima-nova-alt", "source-sans-pro", "Lato", "ff-tisa-sans-web-pro", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   line-height: 1;
@@ -5107,6 +5107,12 @@ ul, ol {
 #header .logo {
   font-size: 32px;
   padding: 0.75em 0; }
+
+.wf-loading h1 {
+  visibility: hidden; }
+
+.wf-active h1 {
+  visibility: visible; }
 
 h2 {
   font-size: 28px;

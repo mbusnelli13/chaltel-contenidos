@@ -21,7 +21,13 @@
 //@import "layouts/tpl-2-col-right";
 //@import "layouts/tpl-2-col-right-submenu";
 
+.wf-loading h1 {
 
+    visibility: hidden;
+}
+  .wf-active h1 {
+    visibility: visible;
+  }
 h2 {
     font-size: 28px;
     margin-bottom: 1.5em;

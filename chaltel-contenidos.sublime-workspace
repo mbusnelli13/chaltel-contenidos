@@ -328,14 +328,6 @@
 			}
 		},
 		{
-			"file": "admisiones/index.md",
-			"settings":
-			{
-				"buffer_size": 1010,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "Guardfile",
 			"settings":
 			{
@@ -344,10 +336,10 @@
 			}
 		},
 		{
-			"file": "assets/scripts/config.js",
+			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 3039,
+				"buffer_size": 243,
 				"line_ending": "Unix"
 			}
 		}
@@ -440,21 +432,23 @@
 	},
 	"file_history":
 	[
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/scripts/config.js",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/scripts/main.js",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/bower.json",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/scripts/plugins.js",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/admisiones/index.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/chaltel-contenidos.sublime-project",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_site/assets/scripts/config.js",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/vendor/foundation.scss",
-		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/scripts/config.js",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/.bowerrc",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/package.json",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/Gruntfile.js",
-		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/scripts/main.js",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/style.scss",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/_temp.scss",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/Guardfile",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_terminal.md",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/temp.scss",
-		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/bower.json",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/vendor/_foundation.scss",
-		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/scripts/plugins.js",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_config.yml",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_site/comunicaciones/index.html",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/component.json",
@@ -476,7 +470,6 @@
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/_susy.scss",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/_sussy.scss",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_site/assets/styles/_sass/styles.scss",
-		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/admisiones/index.md",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/_grid-settings.scss",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/nosotros/objetivos.md",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/comunicaciones/index.md",
@@ -566,8 +559,7 @@
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/global/_base.scss",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/layouts/layouts/tpl-2-col-left.scss",
 		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/layouts/layouts/tpl-2-col-left",
-		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/styles.scss",
-		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/models/nosotros/staff.json"
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/styles.scss"
 	],
 	"find":
 	{
@@ -767,8 +759,8 @@
 						"selection":
 						[
 							[
-								1374,
-								1374
+								1489,
+								1489
 							]
 						],
 						"settings":
@@ -796,8 +788,8 @@
 						"selection":
 						[
 							[
-								276,
-								276
+								47,
+								47
 							]
 						],
 						"settings":
@@ -814,33 +806,6 @@
 				},
 				{
 					"buffer": 2,
-					"file": "admisiones/index.md",
-					"settings":
-					{
-						"buffer_size": 1010,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								131,
-								131
-							]
-						],
-						"settings":
-						{
-							"is_xml": false,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "Guardfile",
 					"settings":
 					{
@@ -851,8 +816,8 @@
 						"selection":
 						[
 							[
-								111,
-								111
+								61,
+								61
 							]
 						],
 						"settings":
@@ -866,26 +831,24 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "assets/scripts/config.js",
+					"buffer": 3,
+					"file": "_config.yml",
 					"settings":
 					{
-						"buffer_size": 3039,
+						"buffer_size": 243,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1821,
-								1821
+								222,
+								222
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Sublime Text 2.backup/Packages/YAML/YAML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1040,6 +1003,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 196.0,
+	"side_bar_width": 352.0,
 	"status_bar_visible": true
 }
