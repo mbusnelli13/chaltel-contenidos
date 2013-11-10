@@ -1,7 +1,7 @@
 // apply global RequireJS configuration
 require.config({
     // baseUrl: '/assets/scripts/',
-    deps: ['assets/scripts/main'],
+    deps: ['scripts/main'],
     // the left side is the module ID,
     // the right side is the path to
     // the jQuery file, relative to baseUrl.
@@ -12,22 +12,22 @@ require.config({
     // the HTML page.
     paths: {
         // jquery: "//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min,"
-        "jquery": "assets/components/jquery/jquery.min",
-        "foundation": "assets/components/foundation/js/foundation/foundation",
-        "foundation.alerts": "assets/components/foundation/js/foundation/foundation.alerts",
-        "foundation.clearing": "assets/components/foundation/js/foundation/foundation.clearing",
-        "foundation.cookie": "assets/components/foundation/js/foundation/foundation.cookie",
-        "foundation.dropdown": "assets/components/foundation/js/foundation/foundation.dropdown",
-        "foundation.forms": "assets/components/foundation/js/foundation/foundation.forms",
-        "foundation.joyride": "assets/components/foundation/js/foundation/foundation.joyride",
-        "foundation.magellan": "assets/components/foundation/js/foundation/foundation.magellan",
-        "foundation.orbit": "assets/components/foundation/js/foundation/foundation.orbit",
-        "foundation.placeholder": "assets/components/foundation/js/foundation/foundation.placeholder",
-        "foundation.topbar": "assets/components/foundation/js/foundation/foundation.topbar",
-        "foundation.reveal": "assets/components/foundation/js/foundation/foundation.reveal",
-        "foundation.section": "assets/components/foundation/js/foundation/foundation.section",
-        "foundation.tooltips": "assets/components/foundation/js/foundation/foundation.tooltips",
-        "foundation.topbar": "assets/components/foundation/js/foundation/foundation.topbar"
+        "jquery": "components/jquery/jquery.min",
+        "foundation": "components/foundation/js/foundation/foundation",
+        "foundation.alerts": "components/foundation/js/foundation/foundation.alerts",
+        "foundation.clearing": "components/foundation/js/foundation/foundation.clearing",
+        "foundation.cookie": "components/foundation/js/foundation/foundation.cookie",
+        "foundation.dropdown": "components/foundation/js/foundation/foundation.dropdown",
+        "foundation.forms": "components/foundation/js/foundation/foundation.forms",
+        "foundation.joyride": "components/foundation/js/foundation/foundation.joyride",
+        "foundation.magellan": "components/foundation/js/foundation/foundation.magellan",
+        "foundation.orbit": "components/foundation/js/foundation/foundation.orbit",
+        "foundation.placeholder": "components/foundation/js/foundation/foundation.placeholder",
+        "foundation.topbar": "components/foundation/js/foundation/foundation.topbar",
+        "foundation.reveal": "components/foundation/js/foundation/foundation.reveal",
+        "foundation.section": "components/foundation/js/foundation/foundation.section",
+        "foundation.tooltips": "components/foundation/js/foundation/foundation.tooltips",
+        "foundation.topbar": "components/foundation/js/foundation/foundation.topbar"
     },
     shim: {
         "jquery": {

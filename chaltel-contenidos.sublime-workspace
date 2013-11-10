@@ -1,0 +1,1045 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backg",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"list",
+				"listId"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ov",
+				"ov	overflow"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"gray",
+				"gray-lighter"
+			],
+			[
+				"gra",
+				"gray-darker"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"icon",
+				"icon"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"transp",
+				"transparent"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"gray-l",
+				"gray-light"
+			],
+			[
+				"gr",
+				"gray-light"
+			],
+			[
+				"w-header-",
+				"w-header-actions"
+			],
+			[
+				"boer",
+				"border-bottom"
+			],
+			[
+				"gt",
+				"gray-light"
+			],
+			[
+				"inc",
+				"include	@include"
+			],
+			[
+				"fl",
+				"fl:l	float:left"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"ligh",
+				"gray-lighter"
+			],
+			[
+				"ma",
+				"mar	margin"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"m",
+				"mar	margin"
+			],
+			[
+				"mr",
+				"mar	margin"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"pd",
+				"pad	padding"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"li",
+				"lis	list-style"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"fut",
+				"futbol-ar-logo-afa"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"z",
+				"z	z-index"
+			],
+			[
+				"pdd",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"text-s",
+				"text-transform"
+			],
+			[
+				"rg",
+				"rgba	rgba(0,0,0,.5)"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"fonte",
+				"font-size"
+			],
+			[
+				"background-c",
+				"background-clip"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bode",
+				"border"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"w",
+				"w	width"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text-in",
+				"text-indent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 2352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/styles/sass/style.scss",
+			"settings":
+			{
+				"buffer_size": 2148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admisiones/index.md",
+			"settings":
+			{
+				"buffer_size": 1010,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Guardfile",
+			"settings":
+			{
+				"buffer_size": 602,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/scripts/config.js",
+			"settings":
+			{
+				"buffer_size": 3039,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 230.0,
+		"selected_items":
+		[
+			[
+				"bowe",
+				"Bower: Install"
+			],
+			[
+				"bow",
+				"Bower: Install"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacl",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 196.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_site/assets/scripts/config.js",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/vendor/foundation.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/scripts/config.js",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/.bowerrc",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/package.json",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/Gruntfile.js",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/scripts/main.js",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/style.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/_temp.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/Guardfile",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_terminal.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/temp.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/bower.json",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/sass/vendor/_foundation.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/scripts/plugins.js",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_config.yml",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_site/comunicaciones/index.html",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/component.json",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/config.rb",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/staff/index.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/Gemfile",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/Procfile",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/terminal.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/style.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/padres/index.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/alumnos/index.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/layouts/_tpl-2-col-left.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/vendor/_susy.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_layouts/default.html",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/config.rb",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_site/config.rb",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/config.rb",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/styles.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/_susy.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/_sussy.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_site/assets/styles/_sass/styles.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/admisiones/index.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/_sass/_grid-settings.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/nosotros/objetivos.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/comunicaciones/index.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/comunicaciones/nivel-inicial/index.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_override.yml",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/.gitignore",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/override.yml",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/index.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/styles/styles.css",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/assets/css/_sass/styles.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/css/_sass/styles.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/css/styles.css",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_plugins/notify.rb",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_plugins/growl_generator.rb",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/.gemfile",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/.rvmrc",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/.ruby-version",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_includes/header.html",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/admisiones/contacto.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/nosotros/staff.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_personas/index.html",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_personas/template.html",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_personas/maria.yml",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_personas/juana.yml",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_posts/staff-maria.markdown",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_staff/index.html",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_staff/template.html",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_staff/juana.yml",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/_staff/maria.yml",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos/admisiones/entrevista.md",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/testing/craft/www/craft/config/db.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/testing/craft/www/craft/templates/sobre-nosotros/mision",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/testing/craft/www/craft/templates/sobreNosotros/index.html",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/testing/craft/www/craft/app/etc/config/defaults/general.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/testing/craft/www/craft/config/general.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/scripts/libs/jquery.form.js",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/foot.inc",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/form-builder.inc",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/helpers/countries.json",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/styles/style.css",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/scripts/script.js",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/head.inc",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/helpers/data-import.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/modules/MailChimpApi/MailChimpApi.module",
+		"/Users/fernando/Desktop/countries.txt",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/modules/MaintenanceMode.module",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/modules/MailChimpApi/mailchimp/inc/config.inc.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/modules/MailChimpApi/mailchimp/MCAPI.class.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/modules/FormBuilder/FormBuilderProcessor.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/modules/FormBuilder/FormBuilderField.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/modules/FormBuilder/FormBuilderMain.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/modules/FormBuilder/form-builder.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/modules/FormBuilder/FormBuilderForm.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/oficinas-comerciales.inc",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/helpers/iphorm/process.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/ferrocement.sublime-project",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/modules/MailChimpApi/mailchimp/examples/mcapi_listSubscribe.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/medios-de-pago.inc",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/contacto.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/entidades-bancarias.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/tarjetas-de-credito.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/representantes-oficiales.inc",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/medios-pago.inc",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Ferrocement/Ferro - Web/site-pw/site/templates/medios-pago.php",
+		"/Users/fernando/Dropbox/Pileta/Clientes/The Social Radio/TSR - Widget/www/js/main.js",
+		"/Users/fernando/Dropbox/Pileta/Clientes/The Social Radio/TSR - Widget/www/config.rb",
+		"/Users/fernando/Dropbox/Pileta/Clientes/The Social Radio/TSR - Widget/www/css/application.css",
+		"/Users/fernando/Dropbox/Pileta/Clientes/The Social Radio/TSR - Widget/www/css/sass/application.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/The Social Radio/TSR - Widget/www/.gitignore",
+		"/Users/fernando/Dropbox/Pileta/Clientes/The Social Radio/TSR - Widget/www/css/sass/_layout.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/The Social Radio/TSR - Widget/www/css/icons/foundation-icons.css",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/templates/includes/nosotros.nav.liquid",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/templates/layouts/2-col-right-submenu.liquid",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/layouts/tpl-2-col-right-submenu.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/layouts/tpl-2-col-right.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/templates/nosotros/ideario.liquid",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/templates/nosotros/bienvenidos.liquid",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/templates/layouts/2-col-submenu.liquid",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/templates/nosotros/mision.liquid",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/templates/layouts/2-col-right.liquid",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/templates/nosotros/staff.liquid",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/templates/nosotros/tour.liquid",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/layouts/tpl-2-col-left.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/templates/layouts/2-col-left-title.liquid",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/layouts/tpl-2-col-left-title.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/templates/nosotros/historia.liquid",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/global/_base.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/layouts/layouts/tpl-2-col-left.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/layouts/layouts/tpl-2-col-left",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/public/styles/sass/styles.scss",
+		"/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/www/models/nosotros/staff.json"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"publ",
+			"publo",
+			"This form was already submitted.",
+			"form",
+			"home-bg",
+			"bg",
+			"español",
+			"itemDescriptionLength",
+			"defaultConfigData",
+			"showPage",
+			"defaultConfigData",
+			"popula",
+			"$allFields",
+			"getErrors",
+			"$form",
+			"h5",
+			"server_url",
+			"volume",
+			"icons-music-next-hover",
+			"icons",
+			"margin-bo",
+			"role=menuitem",
+			"-->\n",
+			"is-volume-max",
+			"volumen",
+			"volume",
+			"jp_container_1",
+			"icon-twitter",
+			"futbol",
+			"sprite",
+			"ondas-bg-v2",
+			"ondas-bg",
+			"account",
+			"error",
+			"loading",
+			".list",
+			"last",
+			"loading",
+			"prel",
+			"footer-",
+			"testimoni",
+			"counters",
+			"faceboo",
+			"testimonial",
+			"features",
+			"home-tes",
+			"testim",
+			"testimonial",
+			"counters",
+			"dropdow",
+			"counter",
+			"more-fea",
+			"counter",
+			"more-fea",
+			"more-",
+			"descripti",
+			"home",
+			".mobileBtn",
+			"more-fe",
+			".block",
+			"block",
+			"choferes",
+			"h5",
+			"quote",
+			"choferes-fea",
+			"intro-text",
+			"@2x",
+			"more-fea",
+			"logo-ecotaxi",
+			"tooltip",
+			"hero-img",
+			"transit",
+			"large",
+			"checkbox",
+			"qty",
+			"details",
+			"body",
+			"text-s",
+			"webap",
+			"action",
+			"app-do",
+			"action",
+			"app-do",
+			"social",
+			"quote",
+			"blockqu",
+			"block",
+			"body",
+			"coming",
+			"btn-pr",
+			"punchl",
+			"app-do",
+			"descarg",
+			"descarga",
+			"actions",
+			"action",
+			"navbar",
+			"actions",
+			"nav-collapse",
+			"btn-s",
+			"check",
+			"webapp",
+			"icon-caret",
+			"url('proximanova",
+			"PEdir t",
+			"Pedi",
+			"pedi",
+			"more-features",
+			"action",
+			"footer",
+			"actions",
+			"descr",
+			"count",
+			"home-b",
+			"actions",
+			"formFieldState",
+			"formFieldState()",
+			"formFieldState",
+			"box-s",
+			".action",
+			"cach",
+			"primar",
+			"app-downloads",
+			".btn",
+			"cach",
+			"btn-s",
+			"call-to-action",
+			"button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"espanol",
+			"url('fonts/proximanova",
+			"@ecoBlueDark",
+			"@ecoDarkBlue",
+			"assets/js/",
+			"<td class=\"action\"><a href=\"#\" class=\"add-to-cart btn btn-primary\"><i class=\"icon-shopping-cart\"></i> Agregar</a></td>",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 2352,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 52,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										2004,
+										2010
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								1374,
+								1374
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 704.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/styles/sass/style.scss",
+					"settings":
+					{
+						"buffer_size": 2148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "admisiones/index.md",
+					"settings":
+					{
+						"buffer_size": 1010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Guardfile",
+					"settings":
+					{
+						"buffer_size": 602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/scripts/config.js",
+					"settings":
+					{
+						"buffer_size": 3039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1821,
+								1821
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"foot",
+				"site/templates/foot.inc"
+			],
+			[
+				"foo",
+				"site/templates/foot.inc"
+			],
+			[
+				"head",
+				"site/templates/head.inc"
+			],
+			[
+				"scri",
+				"site/templates/scripts/script.js"
+			],
+			[
+				"jso",
+				"site/templates/helpers/countries.json"
+			],
+			[
+				"scrip",
+				"site/templates/scripts/script.js"
+			],
+			[
+				"css",
+				"site/templates/styles/style.css"
+			],
+			[
+				"scr",
+				"site/templates/scripts/script.js"
+			],
+			[
+				".js",
+				"site/templates/scripts/script.js"
+			],
+			[
+				"conta",
+				"site/templates/contacto.php"
+			],
+			[
+				"medios",
+				"site/templates/medios-de-pago.inc"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"appl",
+				"css/application.css"
+			],
+			[
+				"mai",
+				"js/main.js"
+			],
+			[
+				"ma",
+				"js/main.js"
+			],
+			[
+				"futbo",
+				"css/skins/futbol-ar.less"
+			],
+			[
+				"fu",
+				"futbol-argentino.html"
+			],
+			[
+				"js",
+				"js/application.js"
+			],
+			[
+				"eco",
+				"css/less/ecotaxi.less"
+			],
+			[
+				"hea",
+				"shared/head.php"
+			],
+			[
+				"de",
+				"shared/dev.nav.php"
+			],
+			[
+				"",
+				"shared/dev.nav.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true
+}
