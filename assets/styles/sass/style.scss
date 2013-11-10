@@ -6,7 +6,7 @@
 // @import 'compass/css3';
 
 // Reset
-@import "global/reset";
+@import "reset";
 
 
 // Grid
@@ -20,8 +20,10 @@
 //@import "layouts/tpl-2-col-left-title";
 //@import "layouts/tpl-2-col-right";
 //@import "layouts/tpl-2-col-right-submenu";
+
+
 h1 {
-    color: blue;
+    color: red
 }
 h2 {
     font-size: 28px;
