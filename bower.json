@@ -6,7 +6,8 @@
     "respond": "latest",
     "jquery": "1.10.0",
     "requirejs": "latest",
-    "foundation": "~4.3.2"
+    "foundation": "~4.3.2",
+    "normalize-css": "latest"
   },
   "homepage": "https://github.com/landitus/chaltel-contenidos",
   "authors": [
