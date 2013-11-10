@@ -1,7 +1,7 @@
 notification :off
  
 # Sass
-guard 'sass', :input => 'css/_sass', :output => 'css'
+guard 'sass', :input => 'assets/styles/_sass', :output => 'assets/styles'
  
 # Jekyll
 guard 'jekyll-plus', :config => ['_config.yml'] do

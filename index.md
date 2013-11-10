@@ -4,7 +4,7 @@ title: Chaltel College
 published: true
 ---
 
-# Home
+<h1>Home</h1>
 
 - Busqueda
 - Calendario
