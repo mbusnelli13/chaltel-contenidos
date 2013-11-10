@@ -3,14 +3,14 @@
 //@import "vendor/bourbon/bourbon";
 //@import "grid-settings";
 //@import "vendor/neat/neat";
-
+// @import 'compass/css3';
 
 // Reset
 @import "global/reset";
 
-@import 'compass/css3';
+
 // Grid
-@import "vendor/susy";
+//@import "vendor/susy";
 
 
 //@import "components/foundation";
@@ -21,7 +21,7 @@
 //@import "layouts/tpl-2-col-right";
 //@import "layouts/tpl-2-col-right-submenu";
 h1 {
-    color: red;
+    color: blue;
 }
 h2 {
     font-size: 28px;

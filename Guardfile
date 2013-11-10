@@ -1,14 +1,12 @@
 notification :off
  
-# Sass
-# guard 'sass', :input => 'assets/styles/_sass', :output => 'assets/styles'
+# Use Sass
+guard 'sass', :input => 'assets/styles/_sass', :output => 'assets/styles'
 
-# Sass/Compass https://github.com/guard/guard-compass
-
-  guard :compass, configuration_file: 'assets/styles/config.rb' do
-    watch(%r{(.*)\.s[ac]ss$})
-  end
-
+# or Compass
+# guard :compass, configuration_file: 'assets/styles/config.rb' do
+#	watch(%r{(.*)\.s[ac]ss$})
+# end
 
 # Jekyll
 guard 'jekyll-plus', :config => ['_config.yml', '_override.yml'] do
