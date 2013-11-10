@@ -1,0 +1,10 @@
+{
+	"name": "Chaltel",
+	"version": "1.0.0",
+	"dependencies": {
+		"modernizr": "latest",
+		"respond": "latest",
+		"jquery": "1.10.0",
+		"requirejs": "latest"
+	}
+}
