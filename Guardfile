@@ -4,7 +4,7 @@ notification :off
 guard 'sass', :input => 'assets/styles/_sass', :output => 'assets/styles'
  
 # Jekyll
-guard 'jekyll-plus', :config => ['_config.yml'] do
+guard 'jekyll-plus', :config => ['_config.yml', '_override.yml'] do
   watch /.*/
   ignore /_site/
 end
