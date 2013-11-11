@@ -311,10 +311,12 @@ Describir
 -ELEMENTOS DEPORTIVOS: si/no
 Describir:
 
+-ALQUILER DE ALGÚN ELEMENTO ESPECIAL: si/no
+Destallar:
+
 -COMENTARIOS Y/OBSERVACIONES ADICIONALES:
 Adjuntar archivo:
 send
-
 
 ---
 
