@@ -258,11 +258,18 @@ gradas: si/no
 Detallar cantidades:
 
 PROGRAMA : SI/NO
-Encargado/a del diseño:
-Encargado/a de la realización:
+Responsable del diseño:
+Responsable de la realización:
+Fotoduplicación: si/nop
 Cantidad de copias:
 
 INVITACIONES: SI/NO
+Web site isntitucional:
+email:
+Responsable del diseño:
+Responsable de la realización:
+Fotoduplicación:si/no
+Cantidad de copias:
 Texto: 
 
 PREMIOS: SI/NO
