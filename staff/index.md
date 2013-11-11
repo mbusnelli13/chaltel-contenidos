@@ -68,6 +68,11 @@ Servicio de apoyo y ayuda para facilitar tu trabajo. Hacé tu pedido de material
 
 opcion 2: Pedí materiales, fotocopias, mantenimiento, Soporte Técnico.
 
+**[Organización Eventos / Actos]**
+**[Organización Exámenes]**
+**[Organización Salidas]**
+**[Organización Torneos]**
+
 link a formulario linkeado a zendesk
 
 Nombre:
