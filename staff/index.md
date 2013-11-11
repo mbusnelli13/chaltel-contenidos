@@ -70,7 +70,7 @@ opcion 2: Pedí materiales, fotocopias, mantenimiento, Soporte Técnico.
 opcion 3: Organizá, pedí y consulta!
 
 **[Organización de Eventos ]**
-**[Organización de Exámenes]**
+**[Requerimientos para Mesa de Exámen]**
 **[Organización de Salidas]**
 **[Organización de Torneos]**
 
@@ -410,7 +410,7 @@ send
 
 ---
 
-**[Requerimientos para exámenes]**
+**[Requerimientos para mesa de exámen]**
 Indicar fecha límite para la organización
 
 **Datos del/la solicitante**
@@ -438,6 +438,8 @@ Nombre del exámen :
 Fecha de realización:
 
 Horario: 
+
+Duración:
 
 Lugar:
 
@@ -478,6 +480,8 @@ pc: si/no
 otros: 
 Describir
 
+-AULAS A UTILIZAR 
+Describir nombre (ej: 4A Secundaria):
 
 -TRANSPORTE 
 Para examinadores: si/no
@@ -486,6 +490,8 @@ Para alumnos: si/no
 Describir
 
 -REFRIGERIO : SI/NO
+
+
 
 -ACLARACIONES, COMENTARIOS Y/OBSERVACIONES ADICIONALES:
 
