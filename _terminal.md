@@ -1,2 +1,2 @@
 bundle exec guard
-jeckyll serve --baseurl ''
+jekyll serve --baseurl ''
