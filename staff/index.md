@@ -153,7 +153,10 @@ enviar
 ---
 **[Organización de Eventos ]**
 
-Quiero organizar un/a (menú desplegable): Concert / Acto / Reunión 
+Quiero organizar un/a (menú desplegable): Concert / Acto / Reunión / Torneo / Sports / Evento especial
+
+
+**Datos del/la solicitante**
 
 Nombre:
 
@@ -170,10 +173,14 @@ Docente de(menu desplegable): castellano / inglés
 
 e-mail:
 
-Quiero organizar un (menú desplegable): Concert / Acto 
+**Datos del evento**
+
+Nombre del Evento: 
 
 Fecha de realización:
+
 Horario: 
+
 Lugar / espacio donde se realizará:
 
 Cantidad de asistentes
@@ -183,9 +190,9 @@ Docentes:
 Padres
 Otros: 
 
-NECESIDADES:
+**Necesidades**
 
-SONIDO
+-SONIDO
 Necesito: si/no
 Si selecciona si, se despliega el siguiente menu..
 Requerimientos técnicos: 
@@ -202,7 +209,7 @@ _Describir cantidad de instrumentos_
 Hay coro? si/no
 _Describir cantidad de cantantes_
 
-LUCES
+-LUCES
 Necesito: si/no
 Si selecciona si, se despliega el siguiente menu..
 Requerimientos técnicos: 
@@ -219,24 +226,24 @@ Necesito: si/no
 TELEVISOR PARA ALUMNOS 
 Necesito: si/no
 
-PC
+-PC
 Necesito: si/no
 
-DVD
+-DVD
 Necesito: si/no
 
-Pistas
+-PISTAS
 Necesito: si/no
 Si selecciona si, se despliega el siguiente menu..
 Explicar el procedimiento para adquirirlas:
 
-ENSAYOS
+-ENSAYOS
 Necesito hacer ensayo general : si/no
 Día/s y horario:
 Que cursos y alumnos participan:
 Necesito realizarlo con luces y sonido: si/no
 
-ESCENOGRAFÍA:
+-ESCENOGRAFÍA:
 Necesito escenografia: si/no
 Describir necesidades:
 Detallas Materiales y cantidades. Especificar
@@ -244,12 +251,12 @@ Detallas Materiales y cantidades. Especificar
 Encargadas/as:
 Completar con Nombre y apellido
 
-DISFRACES:
+-DISFRACES:
 Necesito disfraces: si/no
 Encargadas/os 
 Completar con Nombre y apellido
 
-MOBILIARIO
+-MOBILIARIO
 Tarima:  si/no
 Atril: si/no
 Sillas: si/no
@@ -257,13 +264,13 @@ Detallar cantidades:
 gradas: si/no
 Detallar cantidades:
 
-PROGRAMA : SI/NO
+-PROGRAMA : SI/NO
 Responsable del diseño:
 Responsable de la realización:
 Fotoduplicación: si/nop
 Cantidad de copias:
 
-INVITACIONES: SI/NO
+-INVITACIONES: SI/NO
 Web site isntitucional:
 email:
 Responsable del diseño:
@@ -272,7 +279,7 @@ Fotoduplicación:si/no
 Cantidad de copias:
 Texto: 
 
-PREMIOS: SI/NO
+-PREMIOS: SI/NO
 especificar cantidades
 Medallas: 
 Diplomas:
@@ -280,20 +287,20 @@ trofeos:
 plaquetas:
 Observaciones: 
 
-FLORES: si/no
+-FLORES: si/no
 especificar cantidades
 Ramos: 
 centro de mesa:
 otros:
 
-TRANSPORTE
+-TRANSPORTE
 MICRO: SI/NO
 REMISE: SI /NO
 Describir necesidad:
 
-REFRIGERIO: SI/NO
+-REFRIGERIO: SI/NO
 
-VENTA DE BAR: SI/NO
+-VENTA DE BAR: SI/NO
 Quien la realiza?
 Alumnos
 Padres
@@ -301,8 +308,10 @@ Comedor
 otros
 Describir
 
+-ELEMENTOS DEPORTIVOS: si/no
+Describir:
 
-Comentarios adicionales:
+-COMENTARIOS Y/OBSERVACIONES ADICIONALES:
 Adjuntar archivo:
 send
 
