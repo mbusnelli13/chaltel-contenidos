@@ -153,6 +153,7 @@ enviar
 ---
 **[Organización de Eventos ]**
 
+Quiero organizar un/a (menú desplegable): Concert / Acto / Reunión 
 
 Nombre:
 
@@ -172,8 +173,10 @@ e-mail:
 Quiero organizar un (menú desplegable): Concert / Acto 
 
 Fecha de realización:
+Horario: 
 Lugar / espacio donde se realizará:
-cantidad de asistentes:
+
+Cantidad de asistentes
 Detallar cantidades
 Alumnos: 
 Docentes:
@@ -247,14 +250,53 @@ Encargadas/os
 Completar con Nombre y apellido
 
 MOBILIARIO
-Tarima:
-Atril:
-Sillas:
-Detallar cantidades
-gradas: 
+Tarima:  si/no
+Atril: si/no
+Sillas: si/no
+Detallar cantidades:
+gradas: si/no
+Detallar cantidades:
 
-Comentarios adicionales
-Adjuntar archivo
+PROGRAMA : SI/NO
+Encargado/a del diseño:
+Encargado/a de la realización:
+Cantidad de copias:
+
+INVITACIONES: SI/NO
+Texto: 
+
+PREMIOS: SI/NO
+especificar cantidades
+Medallas: 
+Diplomas:
+trofeos:
+plaquetas:
+Observaciones: 
+
+FLORES: si/no
+especificar cantidades
+Ramos: 
+centro de mesa:
+otros:
+
+TRANSPORTE
+MICRO: SI/NO
+REMISE: SI /NO
+Describir necesidad:
+
+REFRIGERIO: SI/NO
+
+VENTA DE BAR: SI/NO
+Quien la realiza?
+Alumnos
+Padres
+Comedor
+otros
+Describir
+
+
+Comentarios adicionales:
+Adjuntar archivo:
 send
 
 
