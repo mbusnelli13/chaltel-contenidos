@@ -319,7 +319,7 @@ Adjuntar archivo:
 send
 
 ---
-**[Organización de Salidas ]**
+**[Organización de Salidas]**
 
 
 **Datos del/la solicitante**
@@ -339,15 +339,22 @@ Docente de(menu desplegable): castellano / inglés
 
 e-mail:
 
-**Datos del evento**
+**Datos de la salida**
 
-Nombre de la salida: 
+Quiero organizar un/a: salida / campamento / viaje de estudios / convivencia / otro
+
+Nombre : 
 
 Fecha de realización:
 
 Horario: 
 
-Lugar / espacio donde se realizará:
+Duración en días:
+
+Lugar:
+
+Operador y/o agencia de viaje: 
+Indicar, nombre de la empresa / persona, tel de contacto y toda la info que considere necesaria.
 
 Que salas/años participan: 
 
@@ -360,27 +367,42 @@ Otros:
 
 **Costos**
 
-Costo de la entrada:
+Detallar: 
 
--
+**Comunicación**
+
+Envío de carta a los padres: si/no
+Mensaje a enviar:
+
+Aviso a administración: 
+Mensaje:
+Describir detalles a tener en cuenta
+
+Documentación a Inspección: si/no
+Responsable de la entrega:
+Material e info a entregar: 
+Describir
+
+**Transporte**
+Remis: si/no
+Cant. de pasajeros:
+Ida
+Vuelta
+Ida y vuelta
+Micros: si/no
+cantidad de pasajeros
+Ida
+Vuelta
+Ida y vuelta
+Otro: 
+detallar
+Cant. de pasajeros
+Ida
+Vuelta
+Ida y vuelta
 
 
--PROGRAMA : SI/NO
-Responsable del diseño:
-Responsable de la realización:
-Fotoduplicación: si/nop
-Cantidad de copias:
-
--INVITACIONES: SI/NO
-Web site isntitucional:
-email:
-Responsable del diseño:
-Responsable de la realización:
-Fotoduplicación:si/no
-Cantidad de copias:
-Texto: 
-
--COMENTARIOS Y/OBSERVACIONES ADICIONALES:
+-ACLARACIONES, COMENTARIOS Y/OBSERVACIONES ADICIONALES:
 
 Adjuntar archivo:
 
