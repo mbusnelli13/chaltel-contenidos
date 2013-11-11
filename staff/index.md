@@ -319,7 +319,74 @@ Adjuntar archivo:
 send
 
 ---
+**[Organización de Salidas ]**
 
+
+**Datos del/la solicitante**
+
+Nombre:
+
+Apellido:
+
+Sección (menú desplegable) : Jardín de Infantes / Primaria / Secundaria
+
+sala/año (menú desplegable): K2 / K3 / K4 / K5 / 1ro / 2do / 3ro / 4to / 5to / 6to
+(aparece salas o años segun selección anterior)
+
+Turno (menu desplegable): mañana / tarde
+
+Docente de(menu desplegable): castellano / inglés
+
+e-mail:
+
+**Datos del evento**
+
+Nombre de la salida: 
+
+Fecha de realización:
+
+Horario: 
+
+Lugar / espacio donde se realizará:
+
+Que salas/años participan: 
+
+Cantidad de asistentes
+Detallar cantidades
+Alumnos: 
+Docentes:
+Padres
+Otros: 
+
+**Costos**
+
+Costo de la entrada:
+
+-
+
+
+-PROGRAMA : SI/NO
+Responsable del diseño:
+Responsable de la realización:
+Fotoduplicación: si/nop
+Cantidad de copias:
+
+-INVITACIONES: SI/NO
+Web site isntitucional:
+email:
+Responsable del diseño:
+Responsable de la realización:
+Fotoduplicación:si/no
+Cantidad de copias:
+Texto: 
+
+-COMENTARIOS Y/OBSERVACIONES ADICIONALES:
+
+Adjuntar archivo:
+
+send
+
+---
 #### [Help Center]()
 **[Icono Ayuda autoservicio]**
 **[a zendesk helpdesk**
