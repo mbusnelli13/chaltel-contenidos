@@ -99,6 +99,18 @@
             </aside>
             {% endif %}
 
+            {% if page.submenu == 'alumnos'  %}
+            <aside class="navigation">
+                {% include alumnos.nav.html %}
+            </aside>
+            {% endif %}
+
+            {% if page.submenu == 'padres'  %}
+            <aside class="navigation">
+                {% include padres.nav.html %}
+            </aside>
+            {% endif %}
+
 
 
         </div><!-- #content -->
