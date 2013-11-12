@@ -21,7 +21,7 @@
           })();
         </script>
     </head>
-    <body>
+    <body {% if page.template == 'right' %}class="l-right"{% endif %}>
         <!-- Edit current page -->
         <a class="edit-link" href="{% if page.path %}//prose.io/#landitus/chaltel-contenidos/edit/gh-pages/{{ page.path }}{% else %}//prose.io/#landitus/chaltel-contenidos{% endif %}" target="_blank">Editar</a>
 
@@ -35,8 +35,14 @@
                             <li><a href="{{ site.baseurl }}/padres">Padres</a></li>
                             <li><a href="{{ site.baseurl }}/staff">Staff</a></li>
                             <li><a href="{{ site.baseurl }}/ex-alumnos">Ex-Alumnos</a></li>
+                            <li>-</li>
+                            <li><a href="{{ site.baseurl }}/eventos">Calendario</a></li>
+                            <li><a href="{{ site.baseurl }}/novedades">Novedades</a></li>
+                            <li><a href="{{ site.baseurl }}/documentos">Documentos</a></li>
+                            <li><a href="{{ site.baseurl }}/comunicaciones">Comunicaciones</a></li>
                         </ul> 
                     </nav><!-- .portal-nav -->
+
                 </div><!-- .container -->
             </div><!-- .header-top -->
             
@@ -60,7 +66,7 @@
         </header><!-- #header -->
 
             
-        <div id="content">
+        <div id="content" >
 
             <nav class="breadcrumb">
                 <ul>

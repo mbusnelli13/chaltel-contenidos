@@ -1,7 +1,7 @@
 ---
-layout: default
-title:  "Welcome to Jekyll!"
-
+layout: documentos
+template: right
+title:  Documentos
 titular: "Bienvenidos"
 subtitulo: "Hola"
 

@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Welcome to Jekyll!"
+layout: comunicacion
+template: right
+sidebar: comunicaciones
+title: Comunicaciones - Nivel Inicial
 titular: Bienvenidos
 published: true
 ---
 
-# Comunicaciones Nivel inicial
+# Comunicaciones Nivel Inicial

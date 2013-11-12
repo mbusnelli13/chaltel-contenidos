@@ -5248,6 +5248,34 @@ ul, ol {
   font-size: 32px;
   padding: 0.75em 0; }
 
+.l-right #content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 62.5em;
+  *zoom: 1; }
+  .l-right #content:before, .l-right #content:after {
+    content: " ";
+    display: table; }
+  .l-right #content:after {
+    clear: both; }
+
+.l-right #content > .main {
+  position: relative;
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
+  width: 75%;
+  float: left; }
+
+.l-right #content > .navigation {
+  position: relative;
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
+  width: 25%;
+  float: left; }
+
 .wf-loading h1, .wf-loading h2, .wf-loading h3, .wf-loading h4, .wf-loading p, .wf-loading a, .wf-loading li {
   visibility: hidden; }
 
