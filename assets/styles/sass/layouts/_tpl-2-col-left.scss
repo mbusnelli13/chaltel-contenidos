@@ -4,16 +4,14 @@ ul, ol {
 }
 #header, #footer {
     background-color: #ececec;
-    .container  { 
-       // @include outer-container; 
-    }
+    .container  { @include grid-row(); }
 }
 #header  {
     margin-bottom: 0.5em;
 }
 #header .header-top { background-color: gray; }
 #header .portal-nav { 
-    // @include outer-container; 
+    @include grid-column(12); 
     ul { 
         margin: 0;
         padding: 0;
@@ -21,11 +19,9 @@ ul, ol {
     }
 }
 
-#header .branding {
-    // @include span-columns(5);
- }
+#header .branding { @include grid-column(5);}
 #header .main-nav { 
-    // @include span-columns(7); 
+    @include grid-column(7); 
     ul { 
         margin: 0;
         padding: 0;
@@ -36,32 +32,32 @@ ul, ol {
 }
 
 #content {
-   // @include outer-container;
+    @include grid-row;
 }
 #content > .main {
-   // @include span-columns(9);
+    @include grid-column(9, $float:right);
 }
 #content > .navigation {
-   // @include span-columns(3);
+    @include grid-column(3, $float:right);
 }
 
 #footer section {
-    //@include grid-column(12);
+    @include grid-column(12);
 }
 .side-nav {
-    //@include side-nav;
+    @include side-nav;
 }
 .breadcrumb {
-    //@include grid-column(12);
+    @include grid-column(12);
     ul { 
-        //@include crumb-container; 
+        @include crumb-container; 
         background-color: transparent;
         border: none;
         padding-left: 0;
         
     }
     li { 
-        //@include crumbs; 
+        @include crumbs; 
         font-size: emCalc(14);
         text-transform: none; 
         a {

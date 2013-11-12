@@ -3,7 +3,7 @@
 	[
 		{
 			"path": "/Users/fernando/Dropbox/Pileta/Clientes/Chaltel College/Chaltel - Web/maqueta-www/contenidos",
-			"folder_exclude_patterns": [".sass-cache", "_site"]
+			"folder_exclude_patterns": [".sass-cache", "_site", "assets/_components"]
 		}
 	]
 }
