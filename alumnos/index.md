@@ -50,7 +50,7 @@ Opción 2: Boletín online
 
 Encontrá todas las comunicaciones enviadas desde la Dirección, archivadas por nivel, año y fecha.  
 
-Opcion 2.: Comunicaciones de Dirección
+[Opcion 2.: Comunicaciones de Dirección]
 
 ---
 
@@ -59,7 +59,7 @@ Opcion 2.: Comunicaciones de Dirección
 
 Descargá, imprimí, completá y entregá: Autorizaciones, formularios y permisos.  
 
-opcion 2: Autorizaciones, formularios y permisos.
+[opcion 2: Autorizaciones, formularios y permisos.]
 
 ---
 
@@ -89,7 +89,9 @@ Enviar:
 **[a zendesk helpdesk**
 Soporte autoservicio. Podés buscar un artículo que responda a tu duda,  o pedirles a los otros usuarios respuestas para tus consultas. Si no encontrás una respuesta,podés  enviar una solicitud que intentaremos responder. 
 
-Opción 2: Soporte Autoservicio. Preguntas Frecuentes 
+[Opción 2: Soporte Autoservicio. Preguntas Frecuentes] 
+
+
 --- 
 
 ### Back to School Notes

@@ -94,11 +94,3 @@ Mensaje:
 enviar: 
 
 ---
-Info en el lateral
-
-#SPOTLIGHT
-#ULTIMAS NOVEDADES
-Solo ex-alumnos
-#PROXIMOS EVENTOS
-Solo ex-alumnos
-#CHALTEL MEDIA

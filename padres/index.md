@@ -31,7 +31,9 @@ Opcion2: Aula Virtual: Agendas, Tareas, novedades y comunicaciones.
 
 Encuentre los Boletines ONLINE de su/s hijo/s: todas sus calificaciones, inasistencias e informes de conducta (solo Secundaria) . También complete y mantenga actualizados sus datos  personales y familiares  de forma constante,simple, precisa y segura.  
 
-opcion 2: Boletines online. Actualización de datos.
+[opcion 2: Boletines online. Actualización de datos.]
+
+
 ---
 
 #### [Información Administrativa]()
@@ -39,16 +41,17 @@ opcion 2: Boletines online. Actualización de datos.
 
 Conozca, verifique y controle su cuenta corriente. También puede descargar sus facturas. 
 
-opcion 2:  Cuenta corriente y facturas. 
+[opcion 2:  Cuenta corriente y facturas.]
 
 ---
+
 [CLAVE]
 #### [Comunicaciones Institucionales]()
 **[Icono Comunicaciones]**
 
 Encontrá todas las Comunicaciones Institucionales enviadas por las Direcciones, ordenadas por Nivel, sala y/o año y fecha. 
 
-opcion 2: Comunicaciones de Dirección
+[opcion 2: Comunicaciones de Dirección]
 
 ---
 [CLAVE]
@@ -57,7 +60,8 @@ opcion 2: Comunicaciones de Dirección
 
 Descargue, imprima, complete y entregue, todas las autorizaciones, permisos y formularios requeridos. 
 
-Opcion 2: Autorizaciones, permisos y formularios
+[Opcion 2: Autorizaciones, permisos y formularios]
+
 ---
 
 
@@ -66,7 +70,7 @@ Opcion 2: Autorizaciones, permisos y formularios
 
 Servicio de soporte online que facilita y fomenta la comunicación e interacción entre el Colegio y cada familia. Recibimos todas sus consultas, comentarios, requerimientos y/o sugerencias? 
 
-opcion 2: Consultas, Comentarios, Requerimientos y/o sugerencias
+[opcion 2: Consultas, Comentarios, Requerimientos y/o sugerencias]
 
 link a formulario linkeado a zendesk:
 
@@ -100,8 +104,11 @@ Enviar
 **[link a helpdesk de zendesk]**
 Soporte autoservicio. Puede buscar un artículo que responda a su duda,  o solicitar a otros  usuarios respuestas para  sus consultas. Si no encuentra una respuesta, también puede  enviar una solicitud, que intentaremos responder. 
 
-opcion 2: Soporte Autoservicio. Preguntas frecuentes
-(link para que ustedes lo vean: chaltelcollege1.zendesk.com)
+[opcion 2: Soporte Autoservicio. Preguntas frecuentes]  
+[Link para que ustedes lo vean](chaltelcollege1.zendesk.com)
+
+
+
 ----
 
 ### Back to School Notes
