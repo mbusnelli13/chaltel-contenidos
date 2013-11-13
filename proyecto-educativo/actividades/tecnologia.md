@@ -13,7 +13,7 @@ published: true
 
 ## Promovemos la integración de la tecnología desde una mirada transversal de la currícula para lograr potenciar el trabajo diario, la creatividad y la comunicación. 
 
-### Nivel Inicial
+### Educación Inicial
 Se trabaja con paquetes de softwares educativos que acercan a los alumnos al mundo de la tecnología en forma gradual y en un marco de diversión. 
 
 ### Primaria
@@ -25,5 +25,3 @@ Se desarrolla un programa pedagógico orientado a profundizar el aprendizaje y e
 
 ### Workshops
 Con el objetivo de mantener el contenido actualizado y fomentar el interés de los alumnos por las nuevas tecnologías y sus posibles aplicaciones, se realizan Workshops sobre las últimas tendencias y herramientas tecnológicas con el objetivo de implementación diaria. (Google apps, Software libre, Web 2.0, etc.)
-
-
