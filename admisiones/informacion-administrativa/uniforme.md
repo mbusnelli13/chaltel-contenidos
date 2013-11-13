@@ -17,6 +17,7 @@ published: true
 De uso diario y para las clases de Educación Física:
 
 •	Remera roja con el escudo del Colegio (Verano e Invierno)
+•	Remera color "House" ( Green / Yellow)
 •	Polera blanca con escudo (Invierno)
 •	Delantal diseño del Colegio
 •	Jogging reglamentario (Buzo y pantalón gris)
@@ -43,6 +44,7 @@ De uso diario:
 Para Educación Física: 
 
 •	Remera blanca con escudo del Colegio
+•	Remera color "House" ( Green / Yellow)
 •	Pollera negra con escudo del Colegio
 •	Medias de deporte del Colegio (rayadas rojas y negras)
 •	Jogging reglamentario (Buzo y pantalón gris)
@@ -74,6 +76,7 @@ De uso diario:
 Para Educación Física: 
 
 •	Remera roja con escudo del Colegio
+•	Remera color "House" ( Green / Yellow)
 •	Short blanco
 •	Medias de deporte del Colegio ( rayadas rojas y negras)
 •	Jogging reglamentario (Buzo y pantalón gris)
@@ -107,6 +110,7 @@ De uso diario:
 Para Educación Física:
 
 •	Remera blanca con escudo del Colegio
+•	Remera color "House" ( Green / Yellow)
 •	Pollera negra con escudo del Colegio
 •	Medias de deporte del Colegio ( rayadas rojas y negras)
 •	Jogging reglamentario  (Buzo y pantalón gris)
@@ -138,6 +142,7 @@ De uso diario:
 Para Educación Física:
 
 •	Remera blanca con escudo del Colegio
+•	Remera color "House" ( Green / Yellow)
 •	Short blanco
 •	Medias de deporte del Colegio ( rayadas rojas y negras)
 •	Jogging reglamentario (Buzo y pantalón gris)
