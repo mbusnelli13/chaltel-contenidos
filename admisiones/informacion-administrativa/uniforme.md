@@ -93,6 +93,35 @@ Para Hockey y/o competencias intercolegiales (a partir de 3er año)
 
 #### Varones:
 
+De uso diario:
+
+•	Camisa blanca 
+•	Corbata negra con escudo del Colegio 
+•	Sweater negro con inscripción del Colegio: "Chaltel"
+•	Campera negra del Colegio con Inscripción 
+•	Pantalón de franela gris
+•	Cinturón negro
+•	Medias rojas
+•	Zapatos negros de cuero
+•	Remera Polo blanca con escudo (uniforme verano)
+
+
+Para Educación Física:
+
+•	Remera blanca con escudo del Colegio
+•	Short blanco
+•	Medias de deporte del Colegio ( rayadas rojas y negras)
+•	Jogging reglamentario (Buzo y pantalón gris)
+•	Zapatillas blancas
+
+Para Rugby y/o competencias intercolegiales 
+
+•	Camiseta de Rugby del Colegio 
+•	Short blanco
+•	Medias de rugby del Colegio (Negras y rojas)
+•	Botines de Rugby
+•	Protector bucal
+
 #### Mujeres:
 
 ---
@@ -103,6 +132,8 @@ Proveedor exclusivo:
 FORTELA : María y Sussini. Don Torucato. Tel.: 48461994. De lunes a viernes de 9 a 13 y de 16 a 20 hs.
 
 ---
+
+## Descargar archivo con "dibujitos"
 
 #### ¿Consultas , dudas?
 Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto)
