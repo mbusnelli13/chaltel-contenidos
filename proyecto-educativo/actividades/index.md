@@ -20,7 +20,7 @@ Arte, música y teatro.
 ---
 [Foto]
 ### [Educación Física]({{site.baseurl}}/proyecto-educativo/actividades/educacion-fisica)
-Deportes, campamentos, torneos y giras deportivas.
+Deportes, campamentos y torneos intercolegiales.
 
 
 
