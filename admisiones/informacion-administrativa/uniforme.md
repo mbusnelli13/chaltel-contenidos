@@ -10,10 +10,9 @@ published: true
 # Uniforme reglamentario
 
 
-
 ### Educación inicial
 
-#### Varones y mujeres:
+#### Mujeres y Varones:
 
 •	Remera Roja con el escudo del Colegio
 •	Polera blanca con escudo (Invierno)
@@ -33,16 +32,31 @@ published: true
 
 #### Varones:
 
+De uso diario:
+
 •	Camisa blanca 
 •	Corbata Escocesa
 •	Sweater: Rojo con escote en ´´V´´ e inscripción del Colegio
-•	Campera color rojo con inscripción "Chaltel"
+•	Campera de color rojo con inscripción "Chaltel"
 •	Pantalón de franela gris
 •	Cinturón negro
 •	Medias rojas
 •	Zapatos negros de cuero
 •	Chomba blanca con escudo (uniforme verano)
 
+Para Educación Física: 
+•	Remera de color rojo con escudo del Colegio
+•	Short blanco
+•	Medias de deporte del Colegio ( rayadas rojas y negras)
+•	Jogging reglamentario (Buzo y pantalón gris)
+•	Zapatillas blancas
+
+RUGBY (a partir de 3er año Primaria) 
+•	Camiseta de Rugby del Colegio 
+•	Short blanco
+•	Medias de rugby del Colegio (Negras y rojas)
+•	Botines de Rugby
+•	Protector bucal
 
 #### Mujeres:
 
