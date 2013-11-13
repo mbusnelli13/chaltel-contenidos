@@ -36,7 +36,7 @@ Edad
 
 Establecimiento del cuál proviene:
 
-Nivel al ingreso: Jardín de infantes, Primaria, secundaria
+Nivel al ingreso: Educación Inicial, Primaria, Secundaria
 
 Sala / año:  K2 / K3 / K4 / K5 / 1ro / 2do / 3ro / 4to / 5to / 6to
 
