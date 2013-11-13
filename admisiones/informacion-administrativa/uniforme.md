@@ -10,7 +10,7 @@ published: true
 # Uniforme reglamentario
 
 
-### Educación inicial
+### Educación Inicial
 
 #### Mujeres y Varones:
 
@@ -23,10 +23,37 @@ published: true
 •	Medias blancas
 •	Zapatillas blancas
 
-
 ---
  
 ### Primaria: 
+
+#### Mujeres:
+
+De uso diario:
+
+•	Camisa tipo blusa color blanco
+•	Sweater rojo con escote en ´´V´´ e inscripción del Colegio
+•	Campera roja con Inscripción "Chaltel"
+•	Pollera escocesa reglamentaria
+•	Medias rojas
+•	Zapatos negros de cuero
+
+Para Educación Física: 
+
+•	Remera blanca con escudo del Colegio
+•	Pollera negra con escudo del Colegio
+•	Medias de deporte del Colegio (rayadas rojas y negras)
+•	Jogging reglamentario (Buzo y pantalón gris)
+•	Zapatillas blancas
+
+Para Hockey y/o competencias intercolegiales (a partir de 3er año) 
+
+•	Remera de Hockey del Colegio
+•	Pollera negra con escudo del Colegio
+•	Medias de hockey del Colegio (Negras y rojas)
+•	Tartaneras
+•	Canilleras
+•	Protector bucal
 
 #### Varones:
 
@@ -59,26 +86,31 @@ Para Rugby y/o competencias intercolegiales (a partir de 3er año)
 •	Botines de Rugby
 •	Protector bucal
 
+---
+
+### Secundaria:
+
 #### Mujeres:
 
-De uso diario:
+De uso diario:                                          
 
-•	Camisa tipo blusa color blanco
-•	Sweater rojo con escote en ´´V´´ e inscripción del Colegio
-•	Campera roja con Inscripción "Chaltel"
+•	Camisa blanca
+•	Sweater negro con escote en ´´V´´ e inscripción del Colegio
+•	Campera negra con Inscripción 
 •	Pollera escocesa reglamentaria
-•	Medias rojas
+•	Medias negras
 •	Zapatos negros de cuero
+•	Remera Polo blanca con escudo (uniforme verano)
 
-Para Educación Física: 
+Para Educación Física:
 
 •	Remera blanca con escudo del Colegio
 •	Pollera negra con escudo del Colegio
-•	Medias de deporte del Colegio (rayadas rojas y negras)
-•	Jogging reglamentario (Buzo y pantalón gris)
+•	Medias de deporte del Colegio ( rayadas rojas y negras)
+•	Jogging reglamentario  (Buzo y pantalón gris)
 •	Zapatillas blancas
 
-Para Hockey y/o competencias intercolegiales (a partir de 3er año) 
+Para Hockey y/o competencias intercolegiales 
 
 •	Remera de Hockey del Colegio
 •	Pollera negra con escudo del Colegio
@@ -86,10 +118,6 @@ Para Hockey y/o competencias intercolegiales (a partir de 3er año)
 •	Tartaneras
 •	Canilleras
 •	Protector bucal
-
----
-
-### Secundaria:
 
 #### Varones:
 
@@ -121,34 +149,6 @@ Para Rugby y/o competencias intercolegiales
 •	Botines de Rugby
 •	Protector bucal
 
-#### Mujeres:
-
-De uso diario:                                          
-
-•	Camisa blanca
-•	Sweater negro con escote en ´´V´´ e inscripción del Colegio
-•	Campera negra con Inscripción 
-•	Pollera escocesa reglamentaria
-•	Medias negras
-•	Zapatos negros de cuero
-•	Remera Polo blanca con escudo (uniforme verano)
-
-Para Educación Física:
-
-•	Remera blanca con escudo del Colegio
-•	Pollera negra con escudo del Colegio
-•	Medias de deporte del Colegio ( rayadas rojas y negras)
-•	Jogging reglamentario  (Buzo y pantalón gris)
-•	Zapatillas blancas
-
-Para Hockey y/o competencias intercolegiales 
-
-•	Remera de Hockey del Colegio
-•	Pollera negra con escudo del Colegio
-•	Medias de hockey del Colegio (Negras y rojas)
-•	Tartaneras
-•	Canilleras
-•	Protector bucal
 
 ---
 
