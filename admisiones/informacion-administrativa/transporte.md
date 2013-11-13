@@ -29,10 +29,9 @@ Para simplificar parte de la tarea de las familias, verificamos periódicamente 
 [Ficha de contacto]
 
 **Contacto:** 	
-Sra. Gladys Tula: 15 5942 4694  
-Sr. Alan Maurel: 15 4028 2814  
+Rocco Transportes: 15 5942 4694  
+Ricardo y Silvia : 15 4028 2814  
 
-**Email:** 
 
 **Horarios de Atención:** Lunes a Viernes de 8:00 a 15:00 hs.
 
