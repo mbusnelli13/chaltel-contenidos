@@ -150,9 +150,21 @@ Para Hockey y/o competencias intercolegiales
 •	Canilleras
 •	Protector bucal
 
-
 ---
 
+Consideraciones generales:
+
+•	El uso del uniforme reglamentario es de estricta observancia durante toda la jornada escolar y también durante todas las actividades que se realicen fuera del Colegio.
+•	La presentación personal de los alumnos/as es exigida como muestra de buena predisposición para emprender la jornada escolar diaria y como expresión de respeto a sí mismos y hacia los demás.  
+•	Los varones deben usar el pelo corto y las mujeres deben llevar el pelo recogido con cinta o hebilla con los colores del colegio.
+•	No está permitido el uso de maquillaje ni las uñas pintadas. Los varones deben presentarse afeitados.
+•	Bufandas: sólo se pueden usar las escocesas reglamentarias, grises o negras
+•	Mochila sin rueditas de tamaño y peso adecuado según la edad. 
+•	Los alumnos de Secundaria cuentan con "lockers" de uso exclusivo, en donde pueden guardar y dejar todas sus pertenencias. El locker es de uso obligatorio y tiene un costo mensual de alquiler que es adicionado mensualmente a las factura del arancele. Los alumnos deben traer su candado y son responsables de su cuidado y mantenimiento.
+
+Todas las prendas, sin excepción, deben estar marcadas con el nombre completo del Alumno/a.
+
+---
 [Ficha de contacto]
 Proveedor exclusivo: 
 
