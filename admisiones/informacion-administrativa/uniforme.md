@@ -105,7 +105,6 @@ De uso diario:
 •	Zapatos negros de cuero
 •	Remera Polo blanca con escudo (uniforme verano)
 
-
 Para Educación Física:
 
 •	Remera blanca con escudo del Colegio
@@ -132,6 +131,7 @@ De uso diario:
 •	Pollera escocesa reglamentaria
 •	Medias negras
 •	Zapatos negros de cuero
+•	Remera Polo blanca con escudo (uniforme verano)
 
 Para Educación Física:
 
