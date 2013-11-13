@@ -23,7 +23,7 @@ published: true
 - Trabajamos los vínculos personales, la práctica de valores aplicados a la vida diaria, el buen desarrollo de  las  relaciones humanas y la expresión de los  sentimientos promoviendo el diálogo, la reflexión, la responsabilidad y la autocrítica. 
 - Desarrollamos el  gusto y la sensibilidad  por el arte a través del teatro, la música y la plástica, conquistando la satisfacción del propio saber y la del “poder hacer” a través del desarrollo de la investigación, la creatividad y el autoconocimiento
 - Estimulamos la práctica deportiva, para mejorar las aptitudes y las cualidades físicas de nuestros alumnos, pero fundamentalmente como medio para  adquirir  y fomentar virtudes y valores como  la camaradería, el ‘’fair play’’, el trabajo en equipo, la amistad y la auto superación
-- Proponemos salidas didácticas, excursiones, viajes de estudio, campamentos y giras deportivas que proporcionan realismo a la curricula, permiten construir nuevos saberes que profundizan los adquiridos dentro del aula y contribuyen a afianzar la convivencia entre pares, la práctica de valores y el pleno contacto con el entorno.
+- Proponemos salidas didácticas, viajes de estudio, campamentos y giras deportivas que proporcionan realismo a la curricula, permiten construir nuevos saberes que profundizan los adquiridos dentro del aula y contribuyen a afianzar la convivencia entre pares, la práctica de valores y el pleno contacto con el entorno.
 - Preparamos a los alumnos para que obtengan una educación pre-universitaria, desarrollando la capacidad de liderazgo, autogestión  proyectos y trabajando con  conciencia social- comunitaria
 - Mantenemos diariamente  un ambiente estéticamente agradable, prolijo y limpio
 - Trabajamos en un clima de contención, calidez ,alegría y solidaridad.
@@ -32,5 +32,3 @@ published: true
 
 ### Estilo pedagógico
 Nuestro estilo pedagógico está sustentado en los valores de la persona e inspirado filosóficamente en los principios universales comunes a todas las religiones sin distinción de razas  o creencias. Se busca que los alumnos logren dar lo mejor de sí, asumiendo sus responsabilidades, enriqueciendo sus talentos y capacidades y apostando a que sus elecciones de vida  sean libres, responsables  e independientes.
-
-
