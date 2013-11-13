@@ -18,7 +18,6 @@ published: true
 
 Se busca desarrollar la capacidad creadora del alumno, poniéndolo en contacto con el lenguaje plástico como uno de los medios que permite la expresión de sus ideas y emociones mediante el color, la línea, las formas, ya sea en el plano o en forma tridimensional.
 
-Se realizan ……
 
 Galerías de imágenes  
 
