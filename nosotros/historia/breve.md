@@ -64,7 +64,7 @@ published: true
 
 ###2011
 - Se reestructura el gabinete de informática y la biblioteca para dar lugar a un Aula Multimedia, que cuenta con tecnología digital de última generación, en donde los alumnos aprenden y realizan clases interactivas, ven vídeos y comparten experiencias multimedia.
-- Se inaugura el Salón Multiuso (SUM) con capacidad para 550 personas sentadas. El edificio cuenta con instalación de luces y sonido de última generación convirtiéndolo así en un verdadero teatro a la hora de representar cualquier tipo de evento, acto y/o espectáculo. También sirve de patio cubierto, en los días de lluvia.
+- Se inaugura el Salón Multiuso (SUM) con capacidad para 550 personas sentadas. El edificio cuenta con instalación de luces y sonido de última generación convirtiéndolo así en un verdadero teatro a la hora de representar cualquier tipo de evento, acto y/o espectáculo. También es utilizado como patio cubierto, en los días de lluvia.
 
 ###2012
 - Se inaugura un nuevo acceso sobre la calle Entre Ríos, exclusivo para el Nivel Inicial. Además de una "calle interna" que permite la comunicación entre edificios de manera segura, cómoda y ordenada.
