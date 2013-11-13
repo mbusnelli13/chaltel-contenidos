@@ -51,7 +51,8 @@ Para Educación Física:
 •	Zapatillas blancas
 •	Remera manga corta color del "House" (Green/Yellow)
 
-Para Rugby y/o competencias (a partir de 3er año) 
+Para Rugby y/o competencias intercolegiales (a partir de 3er año) 
+
 •	Camiseta de Rugby del Colegio 
 •	Short blanco
 •	Medias de rugby del Colegio (Negras y rojas)
@@ -59,6 +60,32 @@ Para Rugby y/o competencias (a partir de 3er año)
 •	Protector bucal
 
 #### Mujeres:
+
+De uso diario:
+
+•	Camisa tipo blusa color blanco
+•	Sweater color rojo con escote en ´´V´´ e inscripción del Colegio
+•	Campera del Colegio color roja con Inscripción "Chaltel"
+•	Pollera escocesa reglamentaria
+•	Medias rojas
+•	Zapatos negros de cuero
+
+Para Educación Física: 
+
+•	Remera blanca con escudo del Colegio
+•	Pollera negra con escudo del Colegio
+•	Medias de deporte del Colegio (rayadas rojas y negras)
+•	Jogging reglamentario (Buzo y pantalón gris)
+•	Zapatillas blancas
+
+Para Hockey y/o competencias intercolegiales (a partir de 3er año) 
+
+•	Remera de Hockey del Colegio
+•	Pollera negra con escudo del Colegio
+•	Medias de hockey del Colegio (Negras y rojas)
+•	Tartaneras
+•	Canilleras
+•	Protector bucal
 
 ---
 
