@@ -104,7 +104,7 @@ Jardín de Infantes: 8.15 a 12.20 hs. (turno mañana); de 12.20 a 16.20 hs. (tur
 Primaria: 8.15 a 16.20 hs.
 Secundaria: 8.15 a 16.20 hs.
 
-### Titulo otorgado:
+### Título otorgado:
 Bachiller Bilingüe en Ciencias Sociales ( Disp. Nro. 312 de DIPREGEP)
 
 
