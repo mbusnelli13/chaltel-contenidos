@@ -15,7 +15,7 @@ published: true
 
 ### Objetivos generales
 
-La finalidad de esta etapa es promover la formación de personas capaces de pensar, crear y desarrollarse. Para ello se desarrolla el Cambridge International Primary Programme (CIPP) , currículo inglés que tiene como objetivo estandarizar a nivel internacional, el trabajo que se realiza en las áreas de Language, Maths y Science.  
+La finalidad de esta etapa es promover la formación de personas capaces de pensar, crear y desarrollarse. Para ello se desarrolla el Cambridge Primary, currículo en inglés que tiene como objetivo estandarizar a nivel internacional, el trabajo que se realiza en las áreas de Language, Maths y Science.  
 
 Asimismo, prepara el camino para los exámenes internacionales de la sección Secundaria.
 
@@ -27,8 +27,9 @@ Nuestro currículo fue diseñado con el fin de que los alumnos sean capaces de:
 - Conocer los procesos del hombre y su inserción en el mundo con un enfoque de conservación y valoración de la naturaleza, la cultura propia y de otras comunidades.
 - Desarrollar actitudes positivas,  posibilitando el equilibrio de las facultades mentales y sensibles. Se trata de generar condiciones propicias para que lo mejor de las personas se ponga en juego, generando cambios favorables en la convivencia.
 
-
 ---
+### Examen
+
 
 ### Actividades
 
