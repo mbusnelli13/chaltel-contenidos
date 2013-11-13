@@ -9,7 +9,7 @@ published: true
 
 # En el corazón de Don Torcuato
  
-## Llegar al Chaltel es simple y seguro. Está ubicado sobre la calle Meléndez a 1 (una) cuadra de la Av. Marcelo T. de Alvear (Ruta 202) y a 7 minutos en auto de la Panamericana (13 cuadras). A mitad de camino entre Villa de Mayo (CUBA) y Nordelta. 
+## Llegar al Chaltel es simple y seguro. Está ubicado sobre la calle L. Meléndez a 1 (una) cuadra de la Av. Marcelo T. de Alvear (Ruta 202) y a 7 minutos en auto de la Panamericana (13 cuadras). A mitad de camino entre Villa de Mayo (CUBA) y Nordelta. 
 
 
 Lucio Meléndez 1617 de Don Torcuato, Partido de Tigre
@@ -31,4 +31,4 @@ Esas tierras, que eran aproximadamente 4500 hectáreas y que iban desde el actua
 ### Juntos
 En el año 1983, ubicados en una pequeña casa quinta de la calle Chile, rodeada de casas quintas, mucho verde y calles de tierra, fuimos el primer Colegio Privado Bilingüe en instalarse en la zona.
 
-Crecimos y maduramos junto al barrio, y sostenemos, al igual que los antiguos vecinos, que la esencia de pueblo aún se respira en este centro urbano que hoy cuenta con más de 100.000 habitantes y una oferta de todo tipo de servicios y propuestas comerciales, que completan un esquema en el que se combinan la vida en el “verde” con la vida de una “ciudad/pueblo”, emplazada a tan solo 30 minutos en auto de la Capital Federal.
+Crecimos y maduramos junto al barrio, y sostenemos, al igual que los antiguos vecinos, que la esencia de pueblo aún se respira en este centro urbano que hoy cuenta con más de 100.000 (cien mil)habitantes y una oferta de todo tipo de servicios y comercios, que completan un esquema en el que se combinan la vida en el “verde” con la vida de una “ciudad/pueblo”, emplazada a tan solo 30 minutos en auto de la Capital Federal.
