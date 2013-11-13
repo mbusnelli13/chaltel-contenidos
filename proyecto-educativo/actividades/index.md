@@ -39,7 +39,7 @@ Francés.
 
 [Foto]
 ### [Acompañamiento y Orientación]({{site.baseurl}}/proyecto-educativo/actividades/acompanamiento-y-orientacion)
-Dpto. de Orientación y orientación vocacional.
+Dpto. de Orientación Psicopedagógica y orientación vocacional.
 
 ---
 [Foto]
@@ -49,5 +49,5 @@ Actividades extra clase, salidas didácticas, viajes de estudio, competencias cu
 
 ---
 [Foto]
-### [Educación en Valores]({{site.baseurl}}/proyecto-educativo/actividades/educacion-en-valores)
-Proyecto Valores, Assemblies, y Servicio Comunitario.
+### [Formación en valores]({{site.baseurl}}/proyecto-educativo/actividades/educacion-en-valores)
+Proyecto Valores, "Assemblies", y Servicio Comunitario.
