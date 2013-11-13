@@ -1,22 +1,23 @@
 ---
 layout: default
-title: Aranceles
+title: Aranceles educativos
 titular: Bienvenidos
 submenu: admisiones
 subtitulo: Hola
 published: true
 ---
 
-# Aranceles
+# Arancel Educativo
 
 El arancel  es anual, y será facturado en 10 cuotas mensuales consecutivas a abonar  desde el mes de Febrero hasta el mes de Noviembre inclusive.
 
-A continuación se detallan los importes actuales: 
 
-[Tabla de aranceles]
+[La Tabla de aranceles, la presentaría sin indicar el valor del importe... que le pondríaun * que nos lleve a..)
 
+* El importe de cada Arancel se brindará personalmente durante la entrevista personal. 
+
+Generelidades
 - Los aranceles educativos para el ciclo lectivo subsiguiente se fijan en Septiembre del año anterior y se ajustan con los incrementos de sueldos docentes promulgados por el gobierno de la Prov. De Bs.As
-- Los importes de los aranceles descriptos precedentemente, podrán ser incrementados o modificados en caso de aumentos y/o modificaciones de cualquier tipo, en la composición de los salarios del personal de acuerdo a la normativa vigente o incrementos del costo salarial determinados por leyes, decretos, resoluciones oficiales o convenios colectivos. También podrán ser modificados por la imposición de nuevos gravámenes y/o contribuciones y/o tasas de naturaleza impositiva y/o previsional que puedan surgir y que impliquen un incremento en los costos salariales o graven en forma directa o indirectamente el arancel determinado precedentemente.
 - A los aranceles se le debe adicionar el Seguro de Continuidad Escolar
 
 
@@ -58,16 +59,17 @@ Los ex alumnos del Colegio se benefician con un descuento del 20% sobre el aranc
 ### Conceptos no incluidos en el Arancel
 - Las fotocopias, libros y textos en general de todas las secciones. 
 - Los útiles y materiales de uso personal (cuadernos, lapiceras, lápices, etc.)
-- Derechos de Exámenes : Universidad de Cambridge, DELF, etc
+- Derechos de Exámenes Internacionales: Universidad de Cambridge, DELF, etc
 - Campamentos 
 - El transporte y entradas a museos, teatros, ferias, talleres, etc. 
 - Costos de cursos o talleres extra-programáticos
 - Viajes de estudios, deportivos o de intercambio al interior o exterior del país.
 - El servicio de comedor y de “vianda”
 - El transporte escolar del domicilio al Colegio y viceversa.
+- Entrada Concert Primaria y Play Secundaria
 - El alquiler mensual de lockers (Alumnos Secundaria)
 
 --- 
 
 #### ¿Consultas , dudas?
-Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto) 
+Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto)
