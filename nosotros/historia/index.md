@@ -7,9 +7,9 @@ subtitulo: Hola
 published: true
 ---
 
-# Educando desde 1983...
+# Educando con pasión desde 1983...
 
-## El Chaltel mantiene su esencia como el primer día: enseñanza de excelencia, calidez humana y contención.
+## > "El factor humano, esa unión, ese confraternizar entre todos, se mantiene exactamente igual que hace 30 años..." Sr. Garibaldi (Padre fundador)
 
 <iframe width="720" height="405" src="//www.youtube.com/embed/hMHJ5aUg9Nk" frameborder="0" allowfullscreen></iframe>
 
