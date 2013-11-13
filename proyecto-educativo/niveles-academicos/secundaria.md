@@ -23,7 +23,7 @@ Nuestros objetivos del nivel son:
 - Educar críticos reflexivos de la realidad en todos sus aspectos: formulando proyectos, gestionándolos y administrando los recursos necesarios dentro de un sistema moderno y globalizado.
 - Desarrollar el pensamiento crítico y creativo en pos de forjar un futuro mejor basado en el respeto y la comprensión intercultural.
 - Fomentar el trabajo en equipo y la búsqueda de la  independencia como ser humano íntegro en su forma de actuar, razonar y resolver distintas situaciones.
-- Capacitar para continuar estudios  superiores e integrarse a una sociedad cada ves mas exigente y compleja.
+- Capacitar para continuar estudios  superiores e integrarse a una sociedad cada vez más exigente, cambiante y compleja.
 
 
 ---
