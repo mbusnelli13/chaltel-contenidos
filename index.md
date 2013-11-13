@@ -98,7 +98,7 @@ Sacar redes sociales y poner los portales
 - Comunicaciones Institucionales
 - Documentos Importantes
 - Blogs
-- Mesa de Ayuda > link a zendesk ( Tiene que ir resaltado???)
+- Help Center > link a zendesk ( Tiene que ir resaltado???)
 
 
 Todos los derechos reservados. Politica de confidencialidad.
