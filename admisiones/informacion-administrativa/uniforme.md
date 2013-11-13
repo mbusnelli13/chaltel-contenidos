@@ -43,4 +43,4 @@ FORTELA : María y Sussini. Don Torucato. Tel.: 48461994. De lunes a viernes de 
 ---
 
 #### ¿Consultas , dudas?
-Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto) 
+Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto)
