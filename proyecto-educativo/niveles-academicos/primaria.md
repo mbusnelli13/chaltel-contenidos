@@ -32,11 +32,11 @@ Nuestro currículo fue diseñado con el fin de que los alumnos sean capaces de:
 
 ### Actividades
 
-Se inicia el aprendizaje de Francés como segunda lengua extranjera.
+En 6to año, se inicia el aprendizaje de Francés como lengua extranjera.
 
 La formación académica se complementa con una selección de conocimientos relevantes extraídos de la tecnología, de las experiencias estético-expresivas (Artes Plásticas, Música, Teatro, Formaciones Orquestales) y de las actividades deportivas (campamentos, viajes de estudio y giras deportivas).
 
-Se desarrolla el Proyecto Valores, sistematizando su educación a través de 18 valores humanos universales como eje transversal del currículo, los que se constituyen en los objetivos actitudinales que los alumnos deberán asumir a lo largo del año. 
+Se desarrolla el Proyecto Valores, sistematizando su educación a través de valores humanos universales como eje transversal del currículo, los que se constituyen en los objetivos actitudinales que los alumnos deberán incorporar a lo largo del año. 
 
 Algunos de los hilos conductores que se trabajan a lo largo de la escolaridad son: bienestar y promoción de la salud, conocimiento de uno mismo, comunicación, convivencia, resolución de conflictos y toma de decisiones.
 
@@ -44,7 +44,6 @@ Se realizan:
 
 - Visitas guiadas a exposiciones, museos y sitios de interes cultural
 - Obras de teatro en inglés
-- Giras deportivas
 - Campamentos educativos 
 - Viajes de estudio (Immersion Programme).
 
@@ -61,7 +60,6 @@ La familia, eslabón fundamental dentro del proceso educativo  se encuentra inte
 - Art Exhibition
 - Grandparents Day
 - Sports
-- Family Day 
 - Feria del Conocimiento 
 - Book fair
 - Concert
