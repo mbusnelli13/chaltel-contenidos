@@ -11,9 +11,19 @@ published: true
 
 
 
-### Nivel inicial
+### Educación inicial
 
 #### Varones y mujeres:
+
+•	Remera Roja con el escudo del Colegio
+•	Polera blanca con escudo (Invierno)
+•	Delantal diseño  del Colegio
+•	Jogging reglamentario (Buzo y pantalón gris)
+•	Campera roja c/ inscripción del Colegio
+•	Short blanco 
+•	Medias blancas
+•	Zapatillas blancas
+
 
 
 
@@ -22,6 +32,17 @@ published: true
 ### Primaria: 
 
 #### Varones:
+
+•	Camisa blanca 
+•	Corbata Escocesa
+•	Sweater: Rojo con escote en ´´V´´ e inscripción del Colegio
+•	Campera color rojo con inscripción "Chaltel"
+•	Pantalón de franela gris
+•	Cinturón negro
+•	Medias rojas
+•	Zapatos negros de cuero
+•	Chomba blanca con escudo (uniforme verano)
+
 
 #### Mujeres:
 
