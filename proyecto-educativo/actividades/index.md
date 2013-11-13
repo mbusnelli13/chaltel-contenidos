@@ -9,7 +9,7 @@ published: true
 
 # Actividades
 
-## Trabajamos en la formación integral de cada alumno, exponiendolo cotidianamente a diferentes tipos de estímulos, en pos de que logren desarrollar al máximo sus potencialidades personales.
+## Trabajamos en la formación integral de cada alumno, exponiendolo cotidianamente a diferentes estímulos y/o actividades, en pos de que logren desarrollar al máximo sus potencialidades personales.
 
 ---
 
