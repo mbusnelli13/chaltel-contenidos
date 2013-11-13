@@ -16,7 +16,7 @@ published: true
 
 ### Objetivos generales
 
-La finalidad de esta etapa es contribuir al desarrollo físico, intelectual, lingüístico, afectivo, social y moral de los niños, y estimular la capacidad de relacionarse con los demás a través de las distintas formas de expresión y de comunicación.
+La finalidad de esta etapa es propiciar situaciones que contribuyan al desarrollo físico, intelectual, lingüístico, afectivo, social y moral de los niños, y estimular la capacidad de relacionarse con los demás a través de las distintas formas de expresión y de comunicación en un entorno cálido y seguro.
 
 El método pedagógico de trabajo se basa en las experiencias múltiples,  actividades con enfoque lúdico, que  se aplican a través  del afecto y la razón, en un ambiente de confianza cuyo fin es potenciar la autoestima y la integración social del niño.
 
@@ -43,7 +43,6 @@ La familia, eslabón fundamental dentro del proceso educativo  se encuentra inte
 - Art Exhibition
 - Grandparents Day
 - Sports
-- Family Day
 - Bookfair
 - Chaltel Knowledge
 - Concert.
