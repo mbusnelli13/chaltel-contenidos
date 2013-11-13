@@ -7,12 +7,11 @@ subtitulo: Hola
 published: true
 ---
 
-
 # Documentación requerida
 
 La documentación descripta a continuación deberá entregarse en la Administración, antes del inicio del ciclo lectivo, en un sobre cerrado con apellido y nombre del alumno / curso – Grado o Sección al que ingresa. 
  
-**Nivel Inicial**
+**Educación Inicial**
  
 - Fotocopia de vacunas Sabin / Triple / Antisarampionosa 
 - Audiometría y control Oftalmológico (sólo K5) 
@@ -34,4 +33,3 @@ La documentación descripta a continuación deberá entregarse en la Administrac
 - Certificado de buena salud extendido por médico clínico.
 - Certificado Analítico Parcial del periodo cursado o constancia de Analítico en trámite.
 - Pase del Colegio anterior.
-
