@@ -54,7 +54,8 @@ Se realizan:
 - Convivencias
 - Giras deportivas 
 - Programas especiales( Junior Achievement, Naciones Unidas).
-- Seminario de Orientación Vocacional y Pasantitas profesionales ( Socios por un día).
+- Seminario de Orientación Vocacional y Pasantitas profesionales 
+- Programa de Intercambio a EEUU
 
 [Conocer más]()
 
@@ -63,7 +64,7 @@ Se realizan:
 ### Participación de la familia
 
 
-La familia, eslabón fundamental dentro del proceso educativo  se encuentra integrada en distintas actividades a lo largo del año: Clases abiertas, Art Exhibition,  Grandparents Day, Sports, Family Day,  Chaltel Knowledge y Concert., encuentros para padres, etc.
+La familia, eslabón fundamental dentro del proceso educativo  se encuentra integrada en distintas actividades a lo largo del año: Clases abiertas, Art Exhibition, Sports,  Chaltel Knowledge y Play. Conferencias con especialistas sobre distintas temáticas.
 
 
 [Ver Calendario de eventos]()
@@ -71,7 +72,7 @@ La familia, eslabón fundamental dentro del proceso educativo  se encuentra inte
 ---
 
 ### Título otorgado
-Los alumnos se gradúan  con el TITULO OFICIAL DE BACHILLER BILINGÜE  en   CIENCIAS SOCIALES (Disp.Nro. 312 de DIPREGEP) 
+Los alumnos se gradúan  con el TITULO DE BACHILLER BILINGÜE  en   CIENCIAS SOCIALES (Disp.Nro. 312 de DIPREGEP) 
 
 ---
 
