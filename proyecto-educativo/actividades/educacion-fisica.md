@@ -15,9 +15,11 @@ published: true
 
 ### Deportes 
 
+##Educación Inicial
 En Educación Inicial se realizan juegos libres y reglados para promover la autonomía corporal del alumno y su motricidad. 
 
-En los primeros años de Primaria (1º a 3º) se realizan actividades orientadas a desarrollar la psicomotricidad.A partir de 4º año y hasta finalizar la Secundaria : los varones inician la práctica deportiva de Rugby y Fútbol, y las mujeres de Hockey. Ambos sexos practican atletismo en sus distintas variantes.
+##Primaria y Secundaria
+En los primeros años de Primaria (1º a 3º) se realizan actividades orientadas a desarrollar la psicomotricidad. A partir de 4º año y hasta finalizar la Secundaria: los varones inician la práctica deportiva de Rugby y Fútbol, y las mujeres de Hockey. Ambos sexos practican atletismo en sus distintas variantes.
 Como actividad de esparcimiento se practica Volleyball y Basketball.
 
 Las actividades deportivas y los torneos organizados por el Colegio se desarrollan en las instalaciones del **Hindú Club** ubicado a 10 minutos de la sede del Colegio.
