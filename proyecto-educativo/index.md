@@ -12,7 +12,7 @@ published: true
 ![Foto de ...](http://placeimg.com/720/300/arch)
 [Foto de clase con niño escribiendo el pizarrón]
 
-## Nuestra propuesta educativa bilingüe garantiza una cultura de aprendizaje continuo, dentro de un marco afectivo de contención, calidez y familiaridad.  
+## Nuestra propuesta educativa bilingüe garantiza una cultura de aprendizaje continuo, dentro de un marco afectivo de contención y calidez.  
 
 
 #### Para lograrlo:
