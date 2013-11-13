@@ -36,7 +36,8 @@ El programa bilingüe de la sección conduce a los exámenes de la Universidad d
 - A.I.C.E (Advanced International Certificate of Education)
 
 Esta certificación acredita al ingreso a  Universidades del extranjero. 
-Los objetivos de Senior School también incluyen la preparación de los Diplomas DELF A1 y A2 de la Alliance Française.
+
+También se preparan y rinden los Diplomas DELF A1 y A2 de la Alliance Française.
 
 
 ---
