@@ -9,7 +9,7 @@ published: true
 
 # Actividades
 
-## Esto es un copete, respetar la longitud del texto (aprox). Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+## Trabajamos en la formación integral de cada alumno, exponiendolo cotidianamente a diferentes tipos de estímulos, en pos de que logren desarrollar al máximo sus potencialidades personales.
 
 ---
 
