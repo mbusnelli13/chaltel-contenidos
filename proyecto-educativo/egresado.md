@@ -13,13 +13,13 @@ published: true
 
 ## Brindamos una completa formación académica, fomentando el desarrollo integral y promoviendo el aprendizaje de competencias y habilidades que permitan a cada uno de nuestros alumnos, construir un proyecto de vida en conformidad con su propio ser.
 
-#### Por lo tanto, aspiramos a que el Egresado sea: 
+#### Aspiramos a que el egresado sea: 
 
 - Una persona libre, capaz de actuar de acuerdo a los valores asumidos como fundamentales para su realización plena y el bien común 
 
-- Respetuoso de la vida en todas sus manifestaciones,  consiente de su dignidad personal y de la responsabilidad social que le competa
+- Respetuoso de la vida en todas sus manifestaciones,  conciente de su dignidad personal y de la responsabilidad social que le competa
 
-- Comprometido con la realidad contemporánea y  el fortalecimiento de la identidad y del quehacer nacional
+- Comprometido con la realidad contemporánea, el fortalecimiento de la identidad y del quehacer nacional
 
 - Capaz de continuar estudios superiores según sus preferencias y elecciones, confiado en  sus aptitudes y habilidades interpersonales, capacidades técnicas y voluntad de superación personal
 
