@@ -33,3 +33,10 @@ La documentación descripta a continuación deberá entregarse en la Administrac
 - Certificado de buena salud extendido por médico clínico.
 - Certificado Analítico Parcial del periodo cursado o constancia de Analítico en trámite.
 - Pase del Colegio anterior.
+
+---
+
+## Descargar archivo tipo checklist
+
+#### ¿Consultas , dudas?
+Por favor, [contáctenos]({{ site.baseurl }}/admisiones/contacto)
