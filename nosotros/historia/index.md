@@ -9,7 +9,7 @@ published: true
 
 # Educando con pasión desde 1983...
 
-## > "El factor humano, esa unión, ese confraternizar entre todos, se mantiene exactamente igual que hace 30 años..." Sr. Garibaldi (Padre fundador)
+## > "...El factor humano, esa unión, ese confraternizar entre todos, se mantiene exactamente igual que hace 30 años..." Sr. Garibaldi (Padre fundador)
 
 <iframe width="720" height="405" src="//www.youtube.com/embed/hMHJ5aUg9Nk" frameborder="0" allowfullscreen></iframe>
 
