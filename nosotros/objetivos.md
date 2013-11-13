@@ -9,7 +9,7 @@ published: true
 
 # Objetivos Institucionales
 
-## En función del cumplimiento de nuestra misión, trabajamos diariamente dando lo mejor de nosotros, enfocando nuestra tarea en la busqueda de la excelencia académica, el bienestar emocional, la salud física, la responsabilidad social y la integridad ética y moral. 
+## Trabajamos diariamente dando lo mejor de nosotros, enfocando nuestra tarea en la búsqueda de la excelencia académica, el bienestar emocional, la salud física, la responsabilidad social y la integridad ética y moral. 
 
 ### Para ello proponemos:
 
