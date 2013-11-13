@@ -44,31 +44,36 @@ Paralelamente, recibirá un e-amail con los requisitos necesarios.
 
 #### Tipo de entrevista por nivel:
 
-#### Nivel Inicial
+#### Educación Inicial
 
 - K2 y K3: Eximidos de este requisito 
-- K4 y K5: Evaluación de conocimiento del Alumno – Nivel Inglés. Duración estimada: 45 minutos 
+- K4 y K5: 	
+			- Evaluación de conocimiento del Alumno – Nivel Inglés. 
+			- Presentar informes de Colegio anterior
+			- Duración estimada: 45 minutos aprox.
 		  
 
 #### Primaria
 
 - Evaluación de aspectos pedagógicos y madurativos. Áreas de lengua, matemática e inglés  
-- Duración estimada: 1 hora y 15 minutos
+- Presentar informes de Colegio anterior
+- Duración estimada: 1 hora y 15 minutos aprox.
 
 #### Secundaria
 
 - Evaluación de aspectos pedagógicos y madurativos. Áreas de lengua, matemática e inglés  
-- Duración estimada: 1 hora y 15 minutos
+- Presentar informes de Colegio anterior
+- Duración estimada: 1 hora y 15 minutos aprox.
 
 ---
 [Anotador]
 ### 4. Resultado
 
-Una vez que el alumno/a haya finalizado con la entrevista pedagógica, el equipo directivo se reunirá para analizar y definir el resultado del proceso. El mismo, será comunicado telefónicamente a los padres en un plazo máximo de 10 (diez) días hábiles.
+Una vez que el alumno/a haya finalizado con la entrevista pedagógica, el equipo directivo se reunirá para analizar y definir el resultado del proceso. El mismo, será comunicado telefónicamente y/o personalmente a los padres en un plazo máximo de 5 (cinco) días hábiles.
 
 #### Reserva de la vacante
 
-El ingreso efectivo al  Colegio dependerá de la disponibilidad de vacantes y se formalizará mediante la entrega de la documentación requerida y el pago de la matricula correspondiente. El Colegio reservará la vacante del alumno/a admitido, por un plazo de 10 días hábiles luego de la comunicación del resultado positivo del proceso a las familias. 
+El ingreso efectivo al  Colegio dependerá de la disponibilidad de vacantes y se formalizará mediante la entrega de la documentación requerida y el pago de la matrícula correspondiente. El Colegio reservará la vacante del alumno/a admitido, por un plazo de 10 días hábiles luego de la comunicación del resultado positivo del proceso a las familias. 
 
 Una vez superado el plazo, la vacante quedará  nuevamente disponible.
 
@@ -96,7 +101,7 @@ Cumplidos estos requisitos, están dadas las condiciones para realizar la inscri
 
 ### Cronograma de Admisiones
 
-El periodo de entrevistas iniciales se realiza durante todo el año. Aceptamos solicitudes de admisión para el ingreso al ciclo lectivo en curso y los dos subsiguientes. 
+El período de entrevistas personales se realizan durante todo el año. Aceptamos solicitudes de admisión para el ingreso al ciclo lectivo en curso y los dos subsiguientes. 
 
 [Solicitar una entrevista personal]({{site.url}}/admisiones/entrevista).
 
@@ -104,6 +109,11 @@ El periodo de entrevistas iniciales se realiza durante todo el año. Aceptamos s
 ### Prioridad
 
 La prioridad en la Admisión será otorgada a  hermanos de alumnos regulares,  hijos de exalumnos y luego, cuando se cuente con disponibilidad de vacantes, a los aspirantes que hayan superado todas las instancias del proceso de admisión.
+
+### Información sobre vacantes disponibles y aranceles educativos
+
+La información sobre la existencia de vacantes disponibles y el valor de los aranceles educativos, se otorgará personalmente durante la entrevista personal. 
+
 
 ---
 
