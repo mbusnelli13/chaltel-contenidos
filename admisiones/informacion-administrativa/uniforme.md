@@ -34,8 +34,8 @@ De uso diario:
 
 •	Camisa blanca 
 •	Corbata Escocesa
-•	Sweater: Rojo con escote en ´´V´´ e inscripción del Colegio
-•	Campera de color rojo con inscripción "Chaltel"
+•	Sweater Rojo con escote en ´´V´´ e inscripción del Colegio
+•	Campera roja con inscripción
 •	Pantalón de franela gris
 •	Cinturón negro
 •	Medias rojas
@@ -44,7 +44,7 @@ De uso diario:
 
 Para Educación Física: 
 
-•	Remera de color rojo con escudo del Colegio
+•	Remera roja con escudo del Colegio
 •	Short blanco
 •	Medias de deporte del Colegio ( rayadas rojas y negras)
 •	Jogging reglamentario (Buzo y pantalón gris)
@@ -64,8 +64,8 @@ Para Rugby y/o competencias intercolegiales (a partir de 3er año)
 De uso diario:
 
 •	Camisa tipo blusa color blanco
-•	Sweater color rojo con escote en ´´V´´ e inscripción del Colegio
-•	Campera del Colegio color roja con Inscripción "Chaltel"
+•	Sweater rojo con escote en ´´V´´ e inscripción del Colegio
+•	Campera roja con Inscripción "Chaltel"
 •	Pollera escocesa reglamentaria
 •	Medias rojas
 •	Zapatos negros de cuero
@@ -123,6 +123,33 @@ Para Rugby y/o competencias intercolegiales
 •	Protector bucal
 
 #### Mujeres:
+
+De uso diario:                                          
+
+•	Camisa blanca
+•	Sweater negro con escote en ´´V´´ e inscripción del Colegio
+•	Campera negra con Inscripción 
+•	Pollera escocesa reglamentaria
+•	Medias negras
+•	Zapatos negros de cuero
+
+Para Educación Física:
+
+•	Remera blanca con escudo del Colegio
+•	Pollera negra con escudo del Colegio
+•	Medias de deporte del Colegio ( rayadas rojas y negras)
+•	Jogging reglamentario  (Buzo y pantalón gris)
+•	Zapatillas blancas
+
+Para Hockey y/o competencias intercolegiales 
+
+•	Remera de Hockey del Colegio
+•	Pollera negra con escudo del Colegio
+•	Medias de hockey del Colegio (Negras y rojas)
+•	Tartaneras
+•	Canilleras
+•	Protector bucal
+
 
 ---
 
