@@ -176,7 +176,7 @@ Todas las prendas, sin excepción, deben estar marcadas con el nombre completo d
 [Ficha de contacto]
 Proveedor exclusivo: 
 
-FORTELA : María y Sussini. Don Torucato. Tel.: 48461994. De lunes a viernes de 9 a 13 y de 16 a 20 hs.
+FORTELA : María y Sussini. Don Torcuato. Tel.: 48461994. De lunes a viernes de 9 a 13 y de 16 a 20 hs.
 
 ---
 
