@@ -14,7 +14,9 @@ published: true
 
 #### Mujeres y Varones:
 
-•	Remera Roja con el escudo del Colegio
+De uso diario y para las clases de Educación Física:
+
+•	Remera roja con el escudo del Colegio (Verano e Invierno)
 •	Polera blanca con escudo (Invierno)
 •	Delantal diseño del Colegio
 •	Jogging reglamentario (Buzo y pantalón gris)
@@ -61,7 +63,7 @@ De uso diario:
 
 •	Camisa blanca 
 •	Corbata Escocesa
-•	Sweater Rojo con escote en ´´V´´ e inscripción del Colegio
+•	Sweater rojo con escote en ´´V´´ e inscripción del Colegio
 •	Campera roja con inscripción
 •	Pantalón de franela gris
 •	Cinturón negro
@@ -82,7 +84,7 @@ Para Rugby y/o competencias intercolegiales (a partir de 3er año)
 
 •	Camiseta de Rugby del Colegio 
 •	Short blanco
-•	Medias de rugby del Colegio (Negras y rojas)
+•	Medias de Rugby del Colegio (Negras y rojas)
 •	Botines de Rugby
 •	Protector bucal
 
@@ -165,6 +167,7 @@ Consideraciones generales:
 Todas las prendas, sin excepción, deben estar marcadas con el nombre completo del Alumno/a.
 
 ---
+
 [Ficha de contacto]
 Proveedor exclusivo: 
 
