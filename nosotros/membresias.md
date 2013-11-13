@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Membresías y Acuerdos
+title: Asociaciones  y Convenios
 submenu: nosotros
 titular: Bienvenidos
 subtitulo: Hola
 published: true
 ---
 
-# Membresías y Acuerdos  
+# Asociaciones y Convenios 
 
 ## Esto es un copete, respetar el largo del párrafo (aprox). Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.
 
-### Membresías
+### Asociaciones
  (Todo con logos y una breve explicación)
 - Centro Examinador (AR 411) de la Universidad de Cambridge, autorizado para los exámenes internacionales (PET, FCE, IGCSE y ICE).
 - Miembro activo de I.S.A., (International Schools Association) entidad con Sede Central en Ginebra, que supervisa otros exámenes de nivel internacional, que rinden nuestros alumnos en el nivel E.G.B.
@@ -20,9 +20,12 @@ published: true
 - Socio activo y cofundador de LIDE (Liga Intercolegial de Deportes) que tiene como objetivo la organización de partidos, torneos, competencias de atletismo, etc. 
 - Incorporado al programa desarrollado por JUNIOR ACHIEVEMENT DE ARGENTINA.
 
-### Acuerdos con Universidades
+### Convenios con Universidades
  (Todo con logos y una breve explicación)
 - UCEMA
 - Universidad Di Tella
 - Universidad Austral
 - Universidad San Andres
+
+## cambiar nombre del menu lateral
+Tengo que conseguir los logos. 
