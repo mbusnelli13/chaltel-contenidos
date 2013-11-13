@@ -50,11 +50,6 @@ En Primaria y Secundaria se realizan  visitas guiadas a exposiciones, museos, un
 
 Los alumnos de Primaria y Secundaria tienen la posibilidad de conocer a través de los distintos viajes, dentro y fuera del país, diferentes destinos, costumbres y culturas con el objetivo de acumular experiencias enriquecedoras tanto a nivel personal como cultural.
 
-#### Viajes de Estudio Primaria
-
-#### Viajes de Estudio Secundaria
-
-
 ---
 
 ### Competencias Culturales
@@ -62,23 +57,17 @@ Los alumnos de Primaria y Secundaria tienen la posibilidad de conocer a través 
 En pos de revalidar los conocimientos y exponer a los alumnos a diferentes estímulos en Primaria y Secundaria se participa de las siguientes competencias externas: 
 
 #### En castellano:
-
-- Olimpíada Matemática Argentina (OMA) para 7mo, 8vo y 9no. Año ESB. ; 1ro. y 2do. Año Polimodal organizada por la Facultad de Ciencias Exactas de la UBA. 
-- Olimpíada de Biología organizada por la Universidad de Río Cuarto de Córdoba para 2do. y 3er. Año Polimodal. 
-- Olimpíada de Filosofía auspiciada por la UNESCO y organizada por la Universidad Nacional de Buenos Aires. Alumnos de 2do. Año Polimodal. 
-- Concurso de Ensayo organizado por la Universidad de Morón para los alumnos de 2do. y 3er. Año Polimodal.  
-- Del Medio Ambiente para los alumnos de 9no. Año ESB y 1er. Año Polimodal organizado por la Comisión Nacional de Energía Atómica. 
+- Mateclubes
+- Olimpíada Matemática Argentina (OMA) organizada por la Facultad de Ciencias Exactas de la UBA. 
 
 #### En inglés:
 
-- St. Andrew´s Society of the River Plate Essay Competition los alumnos de ESB y Polimodal. 
+- St. Andrew´s Society of the River Plate Essay Competition 
 - Mathematics Competition para alumnos de ESB y Polimodal, organizada por ESSARP con colegios bilingües de la zona norte. 
-- General Knowledge Competition organizada por ESSARP para los alumnos de ESB y Polimodal.
-- General Knowledge Competition (interna del colegio) los alumnos de EPB2 hasta Polimodal.
+- General Knowledge Competition 
 - Art Competition (interna) los alumnos de EPB1 y 2.
-- Mind Squeezer (interna) los alumnos de EPB 1 y 2 donde resuelven problemas de lógica y pensamiento lateral. 
-- Rhyme Recital (interna) para los alumnos de EPB 1.
-
+- Mind Squeezer 
+- Rhyme Recital 
 
 ---
 
@@ -86,7 +75,7 @@ En pos de revalidar los conocimientos y exponer a los alumnos a diferentes estí
 
 La Biblioteca es un espacio educativo en donde se fomenta la lectura, la investigación, el descubrimiento, el estudio y la autoformación.
 
-Ofrece una amplia selección bibliográfica, que consta de volúmenes con materiales en los idiomas castellano e inglés y abarca:
+Ofrece una amplia selección bilingüe  bibliográfica, que consta de volúmenes con materiales en los idiomas castellano e inglés y abarca:
 
 -	libros de texto
 -	libros especializados en distintas áreas
