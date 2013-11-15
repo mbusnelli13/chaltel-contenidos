@@ -68,7 +68,7 @@ El Arte en todas sus manifestaciones ocupa un rol de fundamental importancia den
 ### Educación Física: 
 El desarrollo de la persona, el dominio del propio cuerpo, la sana competencia, la conciencia por la salud y la relación con la naturaleza son algunos de los objetivos que perseguimos a través de la práctica deportiva que incluye: Atletismo, Rugby, Hockey, Futbol.
 
-### Tecnología/IT: 
+### Tecnología: 
 Promovemos la integración de la tecnología  (TICS) desde una mirada transversal a la curricula escolar, con el fin de inculcar en los alumnos la apropiación y uso de las herramientas tecnológicas  existentes que potencien su aprendizaje y producción cotidiana. 
 
 ### Tercer Idioma
