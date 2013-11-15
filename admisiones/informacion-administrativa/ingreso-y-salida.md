@@ -12,7 +12,7 @@ published: true
 
 ### Ingreso
 
-- **Jardín de Infantes ( Educación Inicial):** Los alumnos y sus padres, ingresan por el Acceso de la calle  Entre Ríos. Se  reúnen con sus maestras en el hall de entrada del Edificio de Nivel Inicial. En caso, de llegar después de hora, se deberá ingresar por la calle L. Meléndez.
+- **Educación Incial:** Los alumnos y sus padres, ingresan por el Acceso de la calle  Entre Ríos. Se  reúnen con sus maestras en el hall de entrada del Edificio de Nivel Inicial. En caso, de llegar después de hora, se deberá ingresar por la calle L. Meléndez.
 - **Primaria y Secundaria:**  Los alumnos ingresan por el Acceso de la calle L. Meléndez y se reunen en el SUM con sus docentes. Las familias que tengan hijos en Jardín y Primaria podrán ingresar todos juntos por el Acceso de la calle Entre Ríos.
 
 ### Salida
