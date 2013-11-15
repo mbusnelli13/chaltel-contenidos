@@ -15,7 +15,7 @@ published: true
 
 Todos los campos marcados con un asterisco son de caracter obligatorio.
 
-- Asunto de la consulta: Información específica / Admisiones / 
+- Asunto de la consulta: Información específica / Admisiones / Otro
 Temas administrativos
 - Nombre
 - Apellido
