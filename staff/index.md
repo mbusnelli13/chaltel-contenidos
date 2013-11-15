@@ -72,20 +72,25 @@ Reservorio con todos los archivos institucionales que podés necesitar y utiliza
 ---
 
 
-#### [Soporte]()
-**[Icono mesa de ayuda]**  
+#### [Soporte](tiene que tener candado)
+**[Icono mano que ayuda]**  
 
-**[Formulario de zendesk]**
+**[Formularios 123 linkeados con de zendesk y google]**
 
 Servicio de apoyo y ayuda para facilitar tu trabajo. Hacé tu pedido de materiales, fotocopias, reclamos,  necesidad de mantenimiento, consultas técnicas, comentarios y/o sugerencias. 
 
 [opcion 2: Pedí materiales, fotocopias, mantenimiento, Soporte Técnico.]  
 [opcion 3: Organizá, pedí y consulta!]
 
+**[Soporte Técnico]**  
+**[Pedido de Materiales]**  
+**[Orden de Fotocopias]**  
 **[Organización de Eventos]**  
 **[Requerimientos para Mesa de Exámen]**  
 **[Organización de Salidas]**  
 **[Organización de Torneos]**  
+**[Send me]**  ( candado, solo para directivos)
+
 
 
 ---
