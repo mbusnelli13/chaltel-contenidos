@@ -56,7 +56,8 @@ Nuestro proyecto educativo garantiza que cada alumno esté inmerso en una cultur
 - Vida Escolar > a galerias de imágenes
 
 ---
-### Quiero...
+( en lugar de Admisiones 2014)
+### Quiero...  
 
 Visitar y conocer el Colegio personalmente >
 Realizar una consulta >
