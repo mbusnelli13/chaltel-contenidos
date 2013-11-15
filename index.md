@@ -56,7 +56,13 @@ Nuestro proyecto educativo garantiza que cada alumno esté inmerso en una cultur
 - Vida Escolar > a galerias de imágenes
 
 ---
+### Quiero...
 
+Visitar y conocer el Colegio personalmente >
+Realizar una consulta >
+Inscribir a mi hijo/a >
+
+---
 ### Dirección  
 Escudo a la izquierda  
 Don Torcuato. Tigre
