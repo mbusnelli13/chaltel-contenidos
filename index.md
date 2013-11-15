@@ -59,9 +59,9 @@ Nuestro proyecto educativo garantiza que cada alumno esté inmerso en una cultur
 ( en lugar de Admisiones 2014)
 ### Quiero...  
 
-Visitar y conocer el Colegio personalmente >
-Realizar una consulta >
-Inscribir a mi hijo/a >
+Visitar y conocer el Colegio personalmente > link a formulario de Solicitud de entrevista personal
+Realizar una consulta > link a formulario de contacto
+Inscribir a mi hijo/a > link a Proceso de Admisiones
 
 ---
 ### Dirección  
