@@ -9,7 +9,7 @@ published: true
 
 # El himno
 
-## "...Fueron grandes maestros que me enseñaron a ver...Ad Atiora!..." 
+## "...Fueron grandes maestros que me enseñaron a ver...Ad Altiora!..." 
 
 <iframe width="720" height="405" src="//www.youtube.com/embed/hMHJ5aUg9Nk" frameborder="0" allowfullscreen></iframe>
 
@@ -60,4 +60,3 @@ A las alturas Ad Altiora!**
 
 Letra: Ana Cotino, Carlos G. Ortega,Silvia Busnelli
 Música: Prof. Diego Sarquis
-
