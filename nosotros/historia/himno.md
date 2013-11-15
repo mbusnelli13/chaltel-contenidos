@@ -56,6 +56,8 @@ Ad Altiora, Ad Altiora
 Plena de amor y verdad.
 A las alturas Ad Altiora!**
 
-Letra: Silvia Busnelli
-Música: 
+---
+
+Letra: Ana Cotino, Carlos G. Ortega,Silvia Busnelli
+Música: Prof. Diego Sarquis
 
