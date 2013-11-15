@@ -9,7 +9,7 @@ published: true
 
 # El himno
 
-## "...Fueron grandes maestros que me enseñaron a ver...Ad Atiora!..." Escrito por SDASDASD en el año 1983
+## "...Fueron grandes maestros que me enseñaron a ver...Ad Atiora!..." 
 
 <iframe width="720" height="405" src="//www.youtube.com/embed/hMHJ5aUg9Nk" frameborder="0" allowfullscreen></iframe>
 
@@ -55,4 +55,7 @@ por una vida en libertad.
 Ad Altiora, Ad Altiora
 Plena de amor y verdad.
 A las alturas Ad Altiora!**
+
+Letra: Silvia Busnelli
+Música: 
 
