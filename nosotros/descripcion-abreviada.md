@@ -12,18 +12,18 @@ published: true
 ## Chaltel es un colegio privado, bilingüe (castellano – inglés), mixto y laico.  
 
 ### Año de Fundación
-Fue fundado en el año 1983.
+En el año 1983.
 
 ### Niveles Académicos
-- Nivel Inicial (alumnos de 2 a 5 años)
-- Primaria (alumnos de 6 a 11 años)
-- Secundaria (alumnos de 12 a 17 años)
+- Educación Inicial / Kindergarten (alumnos de 2 a 5 años)
+- Educación Primaria / Primary (alumnos de 6 a 11 años)
+- Educación Secundaria / Secondary (alumnos de 12 a 17 años)
 
 ### Nuestros Alumnos 
 600 alumnos pertenecientes a diferentes barrios y áreas del partido de Tigre ( Don Torcuato, Villa de Mayo, Nordelta, etc.) 
 
 ### Cupo máximo por aula:
-- Nivel Inicial 
+- Educación Inicial 
 		Sala de 2 años : 15 alumnos 
         Sala de 3: 20 alumnos
         Sala 4 y 5 años: 23 alumnos
@@ -35,12 +35,6 @@ Nuestra comunidad educativa valora la calidad humana, la cultura y la diversidad
 
 ### Nuestro Staff
 Contamos con un staff directivo y docente  altamente capacitado, identificado y comprometido con el proyecto educativo, que conforma un equipo de trabajo  capaz de generar experiencias de aprendizaje significativas, motivantes y creativas, respetando la individualidad y sensibilidad de cada uno de nuestros alumnos.
-
-### Cantidad de Docentes: 
-
-Nivel Inicial: 
-Primaria: 
-Secundaria: 
 
 ### Ubicación
 Lúcio Melendez 1617. Don Torcuato. Partido de Tigre. 
@@ -58,7 +52,7 @@ Hindú Club, ubicado a 10 minutos de la sede del Colegio.
 
 ### Programas y exámenes internacionales:
 Primaria: 
-- CIPP / Cambridge International Primary Programme
+ -Cambridge Primary 
 Secundaria:
  -ICE / International Certificate of Education
  -AICE / Advanced International Certificate of Education
@@ -66,7 +60,7 @@ Secundaria:
 
 ### Educación en valores: 
 
-Fundamentamos nuestra practica y accionar diario en los siguientes valores: respeto, responsabilidad, honestidad, excelencia,  perseverancia,  justicia, diálogo y solidaridad.  Ver educación en valores. 
+Fundamentamos nuestra practica y accionar diario en los siguientes valores: respeto, responsabilidad, honestidad, excelencia,  perseverancia,  justicia, diálogo y solidaridad.   
 
 ### Expresiones Artísticas: 
 El Arte en todas sus manifestaciones ocupa un rol de fundamental importancia dentro de nuestro diseño curricular. Fomentamos la Plástica, la Música y el Teatro a través de la concreción de distintos trabajos y actividades con la idea de la obra realizada con dedicación, entrega y creatividad. 
@@ -109,20 +103,22 @@ Bachiller Bilingüe en Ciencias Sociales ( Disp. Nro. 312 de DIPREGEP)
 
 
 ### Asociaciones y Convenios
+(tienen que ser todos logos)
+Asociaciones
 - Centro examinador (AR411) de Cambridge University
 - Miembro activo de I.S.A (International School Association)
 - Miembro de EPEA ( Establecimientos Privados Educativos Asociados)
 - Miembro fundador de L.I.D.E. ( Liga intercolegial de Deportes)
 - Asociado de ESSARP (The English Speaking Scholastic of the River Plate)
-- Acuerdos con Universidades
+Convenios con Universidades
 - Universidad de San Andrés
 - Universidad Di Tella
 - UCEMA
 - Universidad Austral
-
+(que se puedan agregar logos)
 
 
 ## Quiero...
 - [Visitar y conocer personalmente el Colegio]( {{site.baseurl}}/admisiones/entrevista )
-- [Realizar una consulta específica]({{site.baseurl}}/admisiones/contacto )
+- [Realizar una consulta]({{site.baseurl}}/admisiones/contacto )
 - [Inscribir a mi hijo/a]( {{site.baseurl}}/admisiones/proceso )
