@@ -12,7 +12,7 @@ published: true
 ## Chaltel es un colegio privado, bilingüe (castellano – inglés), mixto y laico.  
 
 ### Año de Fundación
-En el año 1983.
+1983
 
 ### Niveles Académicos
 - Educación Inicial / Kindergarten (alumnos de 2 a 5 años)
