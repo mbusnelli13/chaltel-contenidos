@@ -9,8 +9,6 @@ published: true
 
 # Asociaciones y Convenios 
 
-## Esto es un copete, respetar el largo del párrafo (aprox). Neque pira quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam incidunt.
-
 ### Asociaciones
  (Todo con logos y una breve explicación)
 - Centro Examinador (AR 411) de la Universidad de Cambridge, autorizado para los exámenes internacionales (PET, FCE, IGCSE y ICE).
@@ -28,4 +26,4 @@ published: true
 - Universidad San Andres
 
 ## cambiar nombre del menu lateral
-Tengo que conseguir los logos. 
+Tengo que conseguir los logos.
