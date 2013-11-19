@@ -30,3 +30,9 @@ _Respuesta del formulario
 Sr./a (nombre) Muchas gracias por ponerse en contacto con nosotros. Nos comunicaremos con usted a la brevedad.
 
 Atte. Oficina de Admisiones_
+
+<!-- www.123contactform.com script begins here -->
+        
+<script type="text/javascript">var servicedomain="www.123contactform.com"; var frmRef=''; try { frmRef=window.top.location.href; } catch(err) {}; var cfJsHost = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Cscript src='" + cfJsHost + servicedomain + "/includes/easyXDM.min.js' type='text/javascript'%3E%3C/script%3E")); frmRef=encodeURIComponent(frmRef).replace('%26','[%ANDCHAR%]'); document.write(unescape("%3Cscript src='" + cfJsHost + servicedomain + "/jsform-763090.js?ref="+frmRef+"' type='text/javascript'%3E%3C/script%3E")); </script>
+
+<!-- www.123contactform.com script ends here -->
