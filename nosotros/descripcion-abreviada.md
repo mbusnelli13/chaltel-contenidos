@@ -20,7 +20,7 @@ published: true
 - Educación Secundaria / Secondary (alumnos de 12 a 17 años)
 
 ### Nuestros Alumnos 
-600 alumnos pertenecientes a diferentes barrios y áreas del partido de Tigre ( Don Torcuato, Villa de Mayo, Nordelta, etc.) 
+580 alumnos pertenecientes a diferentes barrios y áreas del partido de Tigre ( Don Torcuato, Villa de Mayo, Nordelta, etc.) 
 
 ### Cupo máximo por aula:
 - Educación Inicial 
@@ -87,7 +87,7 @@ Durante el último año de la Secundaria realizamos un amplio y completo program
 Participamos en actividades internas e intercolegiales en las áreas de Matemáticas, Biología, Literatura y Deportes (futbol, rugby y hockey). 
 
 ### Salidas didácticas, campamentos y viajes de Estudio
-Realizamos salidas didácticas (museos, teatros, empresas, etc.), campamentos (San Antonio  de Areco, Mendoza, etc.) y viajes de estudio (Mendoza, Jujuy) y al exterior del país (EEUU), con el fin de complementar y potenciar el aprendizaje áulico y brindar oportunidades de crecimiento tanto individual como grupal. 
+Realizamos salidas didácticas, campamentos y viajes de estudio, con el fin de complementar y potenciar el aprendizaje áulico y brindar oportunidades de crecimiento tanto individual como grupal. 
 
 ### Calendario Escolar:
 Tres trimestres, de Febrero a Diciembre.
