@@ -15,7 +15,9 @@ published: true
 
 ### Objetivos generales
 
-La finalidad de esta etapa es promover la formación de personas capaces de pensar, crear y desarrollarse. Para ello se desarrolla el Cambridge Primary, currículo inglés que tiene como objetivo estandarizar a nivel internacional, el trabajo que se realiza en las áreas de Language, Maths y Science. En sexto año los alumnos rinden el exámen internacional Primary Checkpoint en las áreas de Language y Science.
+La finalidad de esta etapa es promover la formación de personas capaces de pensar, crear y desarrollarse. Para ello se desarrolla el Cambridge Primary, currículo inglés que tiene como objetivo estandarizar a nivel internacional, el trabajo que se realiza en las áreas de Language, Maths y Science. 
+
+En sexto año los alumnos rinden el exámen internacional Primary Checkpoint en las áreas de Language y Science.
 
 Asimismo, se prepara el camino para los exámenes internacionales de la sección Secundaria.
 
