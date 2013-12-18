@@ -11,7 +11,7 @@ published: true
  
 ![Foto de ...](http://placeimg.com/720/300/people)
 
-## Brindamos una educación comprometida con la excelencia, en un ambiente de contención, calidez y afecto.
+## Brindamos una educación integral comprometida con la excelencia, en un ambiente de contención, calidez y afecto.
 
 ### Nuestra misión es:
 
