@@ -28,7 +28,7 @@ Los contenidos educativos de todas las áreas de aprendizaje: lengua, ciencias s
 
 Las clases de drama, tecnologia, música y educación física, a cargo de maestros especiales, completan su educación, ofreciéndoles oportunidades especiales para el desarrollo físico y artístico.
 
-También  se inicia la  educación en valores a través del Proyecto Valores, con el objetivo de cultivar la autoestima y comenzar a desarrollar su conciencia moral.
+También  se  inicia la  educación en valores , con el objetivo de promover actitudes de solidaridad, cuidado de sí mismos y de los demás, disposición al diálogo y aptitudes para la resolución cooperativa de los problemas comunes.
 
 En pos de reforzar los aprendizajes áulicos, se realizan experiencias directas o paseos temáticos a lugares como el Planetario, el Museo de Bellas Artes, distintas obras de teatro en inglés, un día de granja, etc.
 
