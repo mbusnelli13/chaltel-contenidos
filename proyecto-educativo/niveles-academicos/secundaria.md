@@ -44,7 +44,7 @@ También se preparan y rinden los Diplomas DELF A1 y A2 de la Alliance Français
 
 ### Actividades
 
-La formación académica se complementa con una selección de conocimientos relevantes extraídos de la tecnología, de las experiencias estético-expresivas (Artes Plásticas, Música, Teatro, Formaciones Orquestales) y de las actividades deportivas. 
+La formación académica continúa el proceso iniciado en el nivel anterior y se complementa con una selección de conocimientos relevantes extraídos de la tecnología, de las experiencias estético-expresivas (Artes Plásticas, Música, Teatro, Formaciones Orquestales) y de las actividades deportivas. 
 
 Se desarrolla el Proyecto Valores y se realizan Assemblies en donde los alumnos, tienen un espacio organizado en grupo para compartir, charlar y reflexionar sobre los valores humanos universales a través de historias desarrolladas y moderadas por especialistas, Directores del Área y/o sus docentes , sobre sucesos que acontecen cotidianamente, acciones y reacciones colectivas e individuales, y o temas de actualidad. 
 
