@@ -100,7 +100,7 @@ Sacar redes sociales y poner los portales
 
 - Webmail
 - Campus Virtual
-- Información Académica
+- Boletines online
 - Información Administrativa 
 - Comunicaciones Institucionales
 - Documentos Importantes
