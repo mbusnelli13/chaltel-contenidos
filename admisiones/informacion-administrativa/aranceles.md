@@ -54,11 +54,10 @@ Los ex alumnos del Colegio se benefician con un descuento del 20% sobre el aranc
 ### Conceptos incluidos en el Arancel
 - Todo el servicio educativo. 
 - El transporte al Club Hindú donde los alumnos  de Primaria y Secundaria realizan sus actividades deportivas.  
-- En NIVEL INICIAL el desayuno y/o la merienda, los materiales y todos los elementos de uso individual que utilizan para realizar su trabajo en el aula. (pinturas, plastilina, hojas, lápices, cartulinas,  etc.)
 
 ### Conceptos no incluidos en el Arancel
 - Las fotocopias, libros y textos en general de todas las secciones. 
-- Los útiles y materiales de uso personal (cuadernos, lapiceras, lápices, etc.)
+- Los útiles y materiales de uso personal y en clase(cuadernos, lapiceras, lápices, hojas, etc.)
 - Derechos de Exámenes Internacionales: Universidad de Cambridge, DELF, etc
 - Campamentos 
 - El transporte y entradas a museos, teatros, ferias, talleres, etc. 
