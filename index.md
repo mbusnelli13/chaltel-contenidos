@@ -47,7 +47,7 @@ frases que cambian con las imagenes..
 
 ## Chaltel es un Colegio privado, bilingüe, mixto y laico.
 
-Nuestro proyecto educativo garantiza que cada alumno esté inmerso en una cultura de aprendizaje constante a través de una formación integral. 
+Nuestro proyecto educativo garantiza que cada alumno esté inmerso en una cultura de aprendizaje continuo a través de una formación integral, dentro de un marco afectivo de contención y calidez
 
 - Historia y tradición
 - Descripción abreviada
